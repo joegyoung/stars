@@ -267,7 +267,7 @@
 
 ## JavaScript 
 
-- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 🔥 🔥 The free & Open Source DocuSign alternative
+- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [mrsajadpp/websico](https://github.com/mrsajadpp/websico) - A lightweight and flexible web server framework for Node.js.
 - [rohit267/cloudflare-ddns-updater](https://github.com/rohit267/cloudflare-ddns-updater) - Dynamic DNS using Cloudflare DNS
 - [dokkaner/teemii](https://github.com/dokkaner/teemii) - A versatile, self-hosted manga reader and manager with extensible agent-based metadata retrieval
@@ -506,6 +506,7 @@
 
 ## Python 
 
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [justakazh/sicat](https://github.com/justakazh/sicat) - The useful exploit finder
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [taers232c/GAMADV-XTD3](https://github.com/taers232c/GAMADV-XTD3) - Command line tool to manage Google Workspace
