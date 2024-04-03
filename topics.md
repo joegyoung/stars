@@ -334,7 +334,7 @@
 
 ## clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## code 
 
@@ -445,7 +445,7 @@
 
 ## design 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## devops 
 
@@ -706,7 +706,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [anime-dl/anime-downloader](https://github.com/anime-dl/anime-downloader) - A simple but powerful anime downloader and streamer.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [octokit/octokit.rb](https://github.com/octokit/octokit.rb) - Ruby toolkit for the GitHub API
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -979,7 +979,7 @@
 
 ## material-design 
 
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [TeamWertarbyte/material-ui-rating](https://github.com/TeamWertarbyte/material-ui-rating) - Rate something with style.
 - [react-theming/create-mui-theme](https://github.com/react-theming/create-mui-theme) - online tool for creating material-ui themes
 - [vuematerial/vue-material](https://github.com/vuematerial/vue-material) - Vue.js Framework - ready-to-use Vue components with Material Design, free forever.
@@ -1653,7 +1653,7 @@
 - [ooade/react-rough](https://github.com/ooade/react-rough) - :rabbit2: React Components for Rough.js
 - [muil-io/components](https://github.com/muil-io/components) - Easily develop emails with email-ready components.
 - [luukdv/gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React, used for shape blobbing / metaballs (0.5 KB) 🧽
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [Paratron/hookrouter](https://github.com/Paratron/hookrouter) - The flexible, and fast router for react that is entirely based on hooks
 - [eashish93/imgsquash](https://github.com/eashish93/imgsquash) - Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
