@@ -68,6 +68,7 @@
 - [golang](#golang)
 - [graphql](#graphql)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [html](#html)
@@ -667,6 +668,10 @@
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [gsurma/password_cracker](https://github.com/gsurma/password_cracker) - Char-level RNN LSTM password cracker 🔑🔓.
 - [SilentFrogNet/mercurius](https://github.com/SilentFrogNet/mercurius) - Metadata harvester
+
+## hacking-tool 
+
+- [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 
 ## hacktoberfest 
 
