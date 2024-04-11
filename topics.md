@@ -904,7 +904,7 @@
 
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [actuino/minecraft2webhooks](https://github.com/actuino/minecraft2webhooks) - A LUA plugin to send Webhook events from a Minecraft virtual world
-- [gamax92/midi2pico](https://github.com/gamax92/midi2pico) - Midi to PICO-8 converter
+- [BlueAmulet/midi2pico](https://github.com/BlueAmulet/midi2pico) - Midi to PICO-8 converter
 - [codota/tabnine-sublime](https://github.com/codota/tabnine-sublime) - Tabnine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, Julia, Lua, OCaml, Perl, Haskell, React
 - [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod - Adds the /lua command to the Minecraft game
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
@@ -1278,7 +1278,7 @@
 - [mflorin/revivejs](https://github.com/mflorin/revivejs) - Javascript json deserializer library for reviving the object prototype/behavior.
 - [sxyu/pixel-nerf](https://github.com/sxyu/pixel-nerf) - PixelNeRF Official Repository
 - [stegano/next-http-proxy-middleware](https://github.com/stegano/next-http-proxy-middleware) - HTTP Proxy middleware available in API Middleware provided by Next.js.
-- [gamax92/WorldDownloader-Fabric](https://github.com/gamax92/WorldDownloader-Fabric) - An attempt to port WorldDownloader to Fabric
+- [BlueAmulet/WorldDownloader-Fabric](https://github.com/BlueAmulet/WorldDownloader-Fabric) - An attempt to port WorldDownloader to Fabric
 - [wassname/rl_2d_walker.js](https://github.com/wassname/rl_2d_walker.js) - Teaching a humanoid to walk(ish), then displaying in your browser (using tensorflow.js and reinforcement learning)
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 - [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
@@ -1516,7 +1516,7 @@
 
 ## pico-8 
 
-- [gamax92/midi2pico](https://github.com/gamax92/midi2pico) - Midi to PICO-8 converter
+- [BlueAmulet/midi2pico](https://github.com/BlueAmulet/midi2pico) - Midi to PICO-8 converter
 
 ## pixel-art 
 
