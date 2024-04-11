@@ -257,7 +257,7 @@
 - [sgrayme/SpigotPlugin](https://github.com/sgrayme/SpigotPlugin) - Example Spigot plugin setup using Maven
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [NucleoidMC/player-roles](https://github.com/NucleoidMC/player-roles) - Fabric role & permission management for servers
-- [gamax92/WorldDownloader-Fabric](https://github.com/gamax92/WorldDownloader-Fabric) - An attempt to port WorldDownloader to Fabric
+- [BlueAmulet/WorldDownloader-Fabric](https://github.com/BlueAmulet/WorldDownloader-Fabric) - An attempt to port WorldDownloader to Fabric
 - [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod - Adds the /lua command to the Minecraft game
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [ebner/conzilla](https://github.com/ebner/conzilla) - 
@@ -414,7 +414,7 @@
 
 - [cmusatyalab/openface](https://github.com/cmusatyalab/openface) - Face recognition with deep neural networks.
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
-- [gamax92/midi2pico](https://github.com/gamax92/midi2pico) - Midi to PICO-8 converter
+- [BlueAmulet/midi2pico](https://github.com/BlueAmulet/midi2pico) - Midi to PICO-8 converter
 - [mathiascode/CommandSpy](https://github.com/mathiascode/CommandSpy) - Plugin for Cuberite that allows players to view commands executed by other players
 - [mathiascode/iControlU](https://github.com/mathiascode/iControlU) - Plugin for Cuberite that allows players to control other players.
 - [mathiascode/Extras](https://github.com/mathiascode/Extras) - Plugin for Cuberite that adds extra functionality to the Kaboom.pw server.
