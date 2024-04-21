@@ -575,6 +575,7 @@
 
 ## game-development 
 
+- [bypell/weeping-angel-godot](https://github.com/bypell/weeping-angel-godot) - 
 - [KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0](https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0) - This pack has a bunch of game assets for creating cities, great to use with city planning, simulation, RTS games and whatever you can think of putting these in.
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
@@ -617,6 +618,7 @@
 
 ## godot 
 
+- [bypell/weeping-angel-godot](https://github.com/bypell/weeping-angel-godot) - 
 - [KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0](https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0) - This pack has a bunch of game assets for creating cities, great to use with city planning, simulation, RTS games and whatever you can think of putting these in.
 - [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite (Godot 4.x+)
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
@@ -1143,7 +1145,6 @@
 - [robjschroeder/App-Auto-Patch](https://github.com/robjschroeder/App-Auto-Patch) - Auto patch management script via Dialog
 - [hello-smile6/NoVNC-windows](https://github.com/hello-smile6/NoVNC-windows) - 
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
-- [bypell/weeping-angel-godot](https://github.com/bypell/weeping-angel-godot) - 
 - [justakazh/sicat](https://github.com/justakazh/sicat) - The useful exploit finder
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [aboutsecurity/attack-navigator-4.1](https://github.com/aboutsecurity/attack-navigator-4.1) - MITRE ATT&CK Navigator 4.1
