@@ -325,7 +325,7 @@
 - [pratyush1687/tensorflow-rex-run](https://github.com/pratyush1687/tensorflow-rex-run) - A TensorFlow.js based AI player platform for T-Rex Runner. T-Rex Runner is originally an easter egg game inside chrome.
 - [jktzes/humaaans](https://github.com/jktzes/humaaans) - Create Human Illustrations With Ease in React.
 - [wagenaartje/neataptic](https://github.com/wagenaartje/neataptic) - :rocket: Blazing fast neuro-evolution & backpropagation for the browser and Node.js
-- [robbykraft/SVG](https://github.com/robbykraft/SVG) - creative code svg
+- [mayakraft/SVG](https://github.com/mayakraft/SVG) - creative code svg
 - [GreenStage/react-central-state](https://github.com/GreenStage/react-central-state) - Easy to  use global state for React
 - [TeamWertarbyte/material-ui-image](https://github.com/TeamWertarbyte/material-ui-image) - Material style image with loading animation
 - [TeamWertarbyte/material-ui-rating](https://github.com/TeamWertarbyte/material-ui-rating) - Rate something with style.
