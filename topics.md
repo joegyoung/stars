@@ -877,6 +877,7 @@
 ## library 
 
 - [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python Applications
+- [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [dogoncouch/logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python module for analyzing log files and other data.
 - [OpusCapita/react-markdown](https://github.com/OpusCapita/react-markdown) - Markdown editor (input) based on React
 - [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
@@ -1025,6 +1026,7 @@
 ## music 
 
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+- [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 
 ## mysql 
 
@@ -1251,7 +1253,6 @@
 - [learn-co-curriculum/phase-3-sinatra-with-active-record-get](https://github.com/learn-co-curriculum/phase-3-sinatra-with-active-record-get) - 
 - [Mermade/openapi-gui](https://github.com/Mermade/openapi-gui) - GUI / visual editor for creating and editing OpenAPI / Swagger definitions
 - [themadcreator/gifler](https://github.com/themadcreator/gifler) - Render GIF frames to canvas
-- [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [atek-cloud/spork](https://github.com/atek-cloud/spork) - [CLI app] Peer-to-peer socket magic in the air
 - [silence-is-best/files](https://github.com/silence-is-best/files) - 
 - [sgrayme/SpigotPlugin](https://github.com/sgrayme/SpigotPlugin) - Example Spigot plugin setup using Maven
@@ -1336,7 +1337,7 @@
 - [ToQuery/tensorflow-rex-run](https://github.com/ToQuery/tensorflow-rex-run) - A TensorFlow.js based AI player platform for T-Rex Runner. T-Rex Runner is originally an easter egg game inside chrome.
 - [pratyush1687/tensorflow-rex-run](https://github.com/pratyush1687/tensorflow-rex-run) - A TensorFlow.js based AI player platform for T-Rex Runner. T-Rex Runner is originally an easter egg game inside chrome.
 - [ruby-protobuf/protobuf](https://github.com/ruby-protobuf/protobuf) - A pure ruby implementation of Google's Protocol Buffers
-- [robbykraft/SVG](https://github.com/robbykraft/SVG) - creative code svg
+- [mayakraft/SVG](https://github.com/mayakraft/SVG) - creative code svg
 - [GreenStage/react-central-state](https://github.com/GreenStage/react-central-state) - Easy to  use global state for React
 - [davnicwil/react-frontload](https://github.com/davnicwil/react-frontload) - Async data loading for React components, on client & server
 - [aidan-/SimpleTOTP](https://github.com/aidan-/SimpleTOTP) - A highly configurable yet simple to use TOTP based two-factor authentication processing module for SimpleSAMLphp.
