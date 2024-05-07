@@ -1136,6 +1136,7 @@
 
 ## others 
 
+- [brmkit/ad-training-lab](https://github.com/brmkit/ad-training-lab) - Automated Active Directory lab running on Proxmox
 - [Krazy998/mqtt-hisensetv](https://github.com/Krazy998/mqtt-hisensetv) - Details to connect to Hisense Smart TV MQTT broker for home automation
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [Dir3ctr1x/EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - An easy to use OEM:SLP activator for Windows Vista/7/Server 2008 (R2)/2012 (R2)/2016/2019/2022
