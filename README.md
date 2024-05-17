@@ -70,7 +70,7 @@
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) - Small utilities that are useful in advanced password cracking
 - [nsayer/Crazy-Clock](https://github.com/nsayer/Crazy-Clock) - An ATTiny85 based variable-rate (with long-term accuracy) clock movement
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
-- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
+- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [nihui/dain-ncnn-vulkan](https://github.com/nihui/dain-ncnn-vulkan) - DAIN, Depth-Aware Video Frame Interpolation implemented with ncnn library
