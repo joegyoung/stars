@@ -753,7 +753,7 @@
 ## Shell 
 
 - [robjschroeder/App-Auto-Patch](https://github.com/robjschroeder/App-Auto-Patch) - Auto patch management script via Dialog
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Installomator/Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs
 - [error-try-again/QRGen](https://github.com/error-try-again/QRGen) - Full-Stack QR Code generation service for self-hosting
 - [rtrouton/aws_lightsail](https://github.com/rtrouton/aws_lightsail) - This repo is for posting and sharing AWS Lightsail setup scripts.
