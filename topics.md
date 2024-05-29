@@ -1143,6 +1143,7 @@
 
 ## others 
 
+- [anthonybudd/s3-from-scratch](https://github.com/anthonybudd/s3-from-scratch) - A guide on how to build AWS S3 from scratch on bare-metal using an exclusively open-source technology stack.
 - [brmkit/ad-training-lab](https://github.com/brmkit/ad-training-lab) - Automated Active Directory lab running on Proxmox
 - [Krazy998/mqtt-hisensetv](https://github.com/Krazy998/mqtt-hisensetv) - Details to connect to Hisense Smart TV MQTT broker for home automation
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
