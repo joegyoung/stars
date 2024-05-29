@@ -271,6 +271,7 @@
 
 ## JavaScript 
 
+- [anthonybudd/s3-from-scratch](https://github.com/anthonybudd/s3-from-scratch) - A guide on how to build AWS S3 from scratch on bare-metal using an exclusively open-source technology stack.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [mrsajadpp/websico](https://github.com/mrsajadpp/websico) - A lightweight and flexible web server framework for Node.js.
 - [rohit267/cloudflare-ddns-updater](https://github.com/rohit267/cloudflare-ddns-updater) - Dynamic DNS using Cloudflare DNS
