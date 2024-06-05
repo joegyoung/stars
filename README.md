@@ -398,6 +398,7 @@
 
 ## Jupyter Notebook 
 
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [norflin321/ml](https://github.com/norflin321/ml) - 🧠🤖💥
 - [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - Optimized Stable Diffusion modified to run on lower GPU VRAM
 - [einanao/stable-diffusion](https://github.com/einanao/stable-diffusion) - 
@@ -633,6 +634,7 @@
 
 ## Ruby 
 
+- [gbaptista/ollama-ai](https://github.com/gbaptista/ollama-ai) - A Ruby gem for interacting with Ollama's API that allows you to run open source AI LLMs (Large Language Models) locally.
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [ronin-rb/ronin-web-server](https://github.com/ronin-rb/ronin-web-server) - A custom Ruby web server based on Sinatra.
 - [natalie-lang/natalie](https://github.com/natalie-lang/natalie) - a work-in-progress Ruby compiler, written in Ruby and C++
