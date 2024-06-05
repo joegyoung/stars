@@ -191,6 +191,7 @@
 
 ## ai 
 
+- [gbaptista/ollama-ai](https://github.com/gbaptista/ollama-ai) - A Ruby gem for interacting with Ollama's API that allows you to run open source AI LLMs (Large Language Models) locally.
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [lxe/llavavision](https://github.com/lxe/llavavision) - A simple "Be My Eyes" web app with a llama.cpp/llava backend
@@ -347,6 +348,7 @@
 
 - [natalie-lang/natalie](https://github.com/natalie-lang/natalie) - a work-in-progress Ruby compiler, written in Ruby and C++
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
 ## computer-science 
 
@@ -861,7 +863,6 @@
 ## language 
 
 - [natalie-lang/natalie](https://github.com/natalie-lang/natalie) - a work-in-progress Ruby compiler, written in Ruby and C++
-- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
 ## laravel 
 
@@ -903,6 +904,7 @@
 
 ## llm 
 
+- [gbaptista/ollama-ai](https://github.com/gbaptista/ollama-ai) - A Ruby gem for interacting with Ollama's API that allows you to run open source AI LLMs (Large Language Models) locally.
 - [lxe/llavavision](https://github.com/lxe/llavavision) - A simple "Be My Eyes" web app with a llama.cpp/llava backend
 
 ## low-code 
@@ -1143,6 +1145,7 @@
 
 ## others 
 
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [anthonybudd/s3-from-scratch](https://github.com/anthonybudd/s3-from-scratch) - A guide on how to build AWS S3 from scratch on bare-metal using an exclusively open-source technology stack.
 - [brmkit/ad-training-lab](https://github.com/brmkit/ad-training-lab) - Automated Active Directory lab running on Proxmox
 - [Krazy998/mqtt-hisensetv](https://github.com/Krazy998/mqtt-hisensetv) - Details to connect to Hisense Smart TV MQTT broker for home automation
