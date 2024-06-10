@@ -477,6 +477,7 @@
 - [paladin-t/fantasy](https://github.com/paladin-t/fantasy) - A curated list of available fantasy consoles/computers.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [mtivadar/windows10_ntfs_crash_dos](https://github.com/mtivadar/windows10_ntfs_crash_dos) - PoC for a NTFS crash that I discovered, in various Windows versions
 - [HerbFargus/retropie-splashscreens-extra](https://github.com/HerbFargus/retropie-splashscreens-extra) - a repository with all user-created splash screens for the RetroPie Project.
 - [amitmerchant1990/essential-vanilla-javascript-functions](https://github.com/amitmerchant1990/essential-vanilla-javascript-functions) - Essential Vanilla JavaScript Functions
@@ -608,7 +609,6 @@
 - [iitzco/faced](https://github.com/iitzco/faced) - 🚀 😏 Near Real Time CPU Face detection using deep learning
 - [SublimeLinter/SublimeLinter-ruby](https://github.com/SublimeLinter/SublimeLinter-ruby) - SublimeLinter plugin for ruby, using ruby -wc.
 - [salekd/rpizero_smart_camera3](https://github.com/salekd/rpizero_smart_camera3) - Smart security camera with Raspberry Pi Zero and OpenFaaS
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [titu1994/neural-image-assessment](https://github.com/titu1994/neural-image-assessment) - Implementation of NIMA: Neural Image Assessment in Keras
 - [arex18/rocket-lander](https://github.com/arex18/rocket-lander) - SpaceX Falcon 9 Box2D continuous-action simulation with traditional and AI controllers.
 - [sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs ✏️
