@@ -587,7 +587,7 @@
 
 ## gamedev 
 
-- [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite (Godot 4.x+)
+- [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDExtension wrapper for SQLite (Godot 4.x+)
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
@@ -621,7 +621,7 @@
 
 - [bypell/weeping-angel-godot](https://github.com/bypell/weeping-angel-godot) - 
 - [KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0](https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0) - This pack has a bunch of game assets for creating cities, great to use with city planning, simulation, RTS games and whatever you can think of putting these in.
-- [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite (Godot 4.x+)
+- [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDExtension wrapper for SQLite (Godot 4.x+)
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D Terrain Tool for Godot
@@ -884,6 +884,7 @@
 
 ## linux 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [kha7iq/kc-ssh-pam](https://github.com/kha7iq/kc-ssh-pam) - KC SSH PAM is built to streamline the process of user authentication to access Linux systems through SSH with keycloak oidc
@@ -1147,6 +1148,7 @@
 
 ## others 
 
+- [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [anthonybudd/s3-from-scratch](https://github.com/anthonybudd/s3-from-scratch) - A guide on how to build AWS S3 from scratch on bare-metal using an exclusively open-source technology stack.
 - [brmkit/ad-training-lab](https://github.com/brmkit/ad-training-lab) - Automated Active Directory lab running on Proxmox
@@ -1788,6 +1790,7 @@
 
 ## rust 
 
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
@@ -1867,6 +1870,7 @@
 
 ## server 
 
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [Okazakee/mcserver-lazymc-docker](https://github.com/Okazakee/mcserver-lazymc-docker) - This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.
 - [socketry/falcon](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
@@ -1901,7 +1905,7 @@
 
 ## sqlite 
 
-- [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite (Godot 4.x+)
+- [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDExtension wrapper for SQLite (Godot 4.x+)
 - [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
 - [haishanh/cherry](https://github.com/haishanh/cherry) - Cherry is a self-hostable bookmark service
 - [sparklemotion/sqlite3-ruby](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database
@@ -2066,6 +2070,7 @@
 
 ## windows 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
