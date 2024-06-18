@@ -1438,7 +1438,7 @@
 - [bootstrap-ruby/sinatra-bootstrap](https://github.com/bootstrap-ruby/sinatra-bootstrap) - A demonstrator for Sinatra and Twitter's Bootstrap
 - [gh2k/ruby-fann](https://github.com/gh2k/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network)
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [yoshuawuyts/notes](https://github.com/yoshuawuyts/notes) - notes on things
+- [yoshuawuyts/knowledge](https://github.com/yoshuawuyts/knowledge) - notes on things
 - [pbhogan/scrypt](https://github.com/pbhogan/scrypt) - A Ruby gem with native C extension for the scrypt password hashing algorithm.
 - [zirman/enigma](https://github.com/zirman/enigma) - A Web App Implementation of the Enigma Machine
 - [danigb/soundfont-player](https://github.com/danigb/soundfont-player) - Quick soundfont loader and player for browser
