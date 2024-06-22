@@ -1122,7 +1122,6 @@
 
 ## objective-c 
 
-- [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 
