@@ -755,7 +755,7 @@
 - [actsasflinn/typst-rb](https://github.com/actsasflinn/typst-rb) - Ruby binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [hackclub/ktr](https://github.com/hackclub/ktr) - Kog traceroute. Highly asynchronous traceroute program written in Rust with ASN WHOIS and PeeringDB lookups.
 - [w4/pisshoff](https://github.com/w4/pisshoff) - 🧸 fully isolated honeypot ssh server using thrussh
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
