@@ -481,6 +481,7 @@
 
 ## docker 
 
+- [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
@@ -1164,6 +1165,7 @@
 
 ## others 
 
+- [leigh-hackspace/arcade-cabinet](https://github.com/leigh-hackspace/arcade-cabinet) - Designs and files for Aracade Cabinet
 - [shomykohai/quest-system-example](https://github.com/shomykohai/quest-system-example) - A tutorial project for using QuestSystem in addition of Nathan's Dialogue Manager
 - [bluepuma77/traefik-best-practice](https://github.com/bluepuma77/traefik-best-practice) - Traefik templates for various use cases
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
@@ -1549,6 +1551,7 @@
 
 ## php 
 
+- [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
@@ -1610,6 +1613,7 @@
 
 ## python 
 
+- [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
 - [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform ✨
@@ -1871,6 +1875,7 @@
 ## self-hosted 
 
 - [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
+- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [dokkaner/teemii](https://github.com/dokkaner/teemii) - A versatile, self-hosted manga reader and manager with extensible agent-based metadata retrieval
