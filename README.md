@@ -649,6 +649,7 @@
 
 ## Ruby 
 
+- [syntruth/ADI](https://github.com/syntruth/ADI) - Active Directory Interface Ruby gem
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
 - [RenoFi/rack-graphql](https://github.com/RenoFi/rack-graphql) - Rack middleware for building ruby services with graphql api.
