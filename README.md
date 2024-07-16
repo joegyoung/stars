@@ -163,6 +163,7 @@
 
 ## GDScript 
 
+- [BenjaTK/Gaea](https://github.com/BenjaTK/Gaea) - Procedural generation add-on for Godot 4.
 - [shomykohai/quest-system-example](https://github.com/shomykohai/quest-system-example) - A tutorial project for using QuestSystem in addition of Nathan's Dialogue Manager
 - [Gooddoggie/godot_2d_light](https://github.com/Gooddoggie/godot_2d_light) - Top down 2d light in Godot
 - [bypell/weeping-angel-godot](https://github.com/bypell/weeping-angel-godot) - 
@@ -455,6 +456,7 @@
 
 ## Others 
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [leigh-hackspace/arcade-cabinet](https://github.com/leigh-hackspace/arcade-cabinet) - Designs and files for Aracade Cabinet
 - [bluepuma77/traefik-best-practice](https://github.com/bluepuma77/traefik-best-practice) - Traefik templates for various use cases
@@ -651,6 +653,8 @@
 
 ## Ruby 
 
+- [mariochavez/llm_server](https://github.com/mariochavez/llm_server) - Rack API application for Llama.cpp
+- [geminabox/geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting
 - [syntruth/ADI](https://github.com/syntruth/ADI) - Active Directory Interface Ruby gem
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
@@ -849,7 +853,7 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) - Enterprise, fast, secure VPN & SSO platform with hardware keys, 2FA/MFA
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) - The only ,real 2FA/MFA' WireGuard Enterprise VPN with build-in SSO, hardware keys management and more!
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform ✨
 - [excalidraw/excalidraw-room](https://github.com/excalidraw/excalidraw-room) - 
 - [suren-atoyan/react-pwa](https://github.com/suren-atoyan/react-pwa) - Starter kit for modern web applications
