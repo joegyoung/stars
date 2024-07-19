@@ -1183,6 +1183,7 @@
 
 ## others 
 
+- [enterprise-oss/sinatra-ruby-idp](https://github.com/enterprise-oss/sinatra-ruby-idp) - Sinatra app that acts as a simple IDP
 - [BenjaTK/Gaea](https://github.com/BenjaTK/Gaea) - Procedural generation add-on for Godot 4.
 - [need4swede/Portall](https://github.com/need4swede/Portall) - Port Management Interface
 - [syntruth/ADI](https://github.com/syntruth/ADI) - Active Directory Interface Ruby gem
