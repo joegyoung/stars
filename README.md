@@ -654,6 +654,7 @@
 
 ## Ruby 
 
+- [enterprise-oss/sinatra-ruby-idp](https://github.com/enterprise-oss/sinatra-ruby-idp) - Sinatra app that acts as a simple IDP
 - [mariochavez/llm_server](https://github.com/mariochavez/llm_server) - Rack API application for Llama.cpp
 - [geminabox/geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting
 - [syntruth/ADI](https://github.com/syntruth/ADI) - Active Directory Interface Ruby gem
