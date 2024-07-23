@@ -242,6 +242,7 @@
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [bobthekingofegypt/dagre-reactjs](https://github.com/bobthekingofegypt/dagre-reactjs) - React component for rendering a dagre graph layout without any dependency on d3
 - [areeves87/Flavor-Bible-App](https://github.com/areeves87/Flavor-Bible-App) - Code and report for my flavor bible shiny app
+- [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [fbngrm/honeycomb-js](https://github.com/fbngrm/honeycomb-js) - A bee came in my room today ...
@@ -586,7 +587,6 @@
 - [kkristof200/py_bittrex_api](https://github.com/kkristof200/py_bittrex_api) - 
 - [mendhak/waveshare-epaper-display](https://github.com/mendhak/waveshare-epaper-display) - At-a-glance dashboard for Raspberry Pi with a Waveshare ePaper 7.5 Inch HAT. Date/Time, Weather, Alerts, Google/Outlook Calendar
 - [moritztng/prism](https://github.com/moritztng/prism) - High Resolution Style Transfer in PyTorch with Color Control and Mixed Precision :art:
-- [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
 - [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
 - [huggingface/pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
@@ -793,6 +793,7 @@
 
 ## Shell 
 
+- [BigMacAdmin/PSU-MacAdmins-2024](https://github.com/BigMacAdmin/PSU-MacAdmins-2024) - 
 - [robjschroeder/App-Auto-Patch](https://github.com/robjschroeder/App-Auto-Patch) - Auto patch management script via Dialog
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Installomator/Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs
@@ -863,7 +864,7 @@
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [bespoke-surf/bespoke](https://github.com/bespoke-surf/bespoke) - The open source Mailchimp alternative.
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
-- [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+- [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
