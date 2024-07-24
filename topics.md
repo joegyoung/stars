@@ -1877,7 +1877,7 @@
 
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [SAP/cloud-active-defense](https://github.com/SAP/cloud-active-defense) - Add a layer of active defense to your cloud applications.
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) - The only ,real 2FA/MFA' WireGuard Enterprise VPN with build-in SSO, hardware keys management and more!
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) - The only _real_ 2FA MFA WireGuard Enterprise VPN with build-in SSO, hardware keys management and more!
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
