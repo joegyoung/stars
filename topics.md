@@ -1183,6 +1183,7 @@
 
 ## others 
 
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [pezhore/Proxmox-Home-Lab](https://github.com/pezhore/Proxmox-Home-Lab) - Packer, Terraform, and Ansible code to run a three node clustered Proxmox Home Lab
 - [runter-vom-mattenwagen/proxmox-packer](https://github.com/runter-vom-mattenwagen/proxmox-packer) - Packer config for createing VM template on Proxmox
 - [BigMacAdmin/PSU-MacAdmins-2024](https://github.com/BigMacAdmin/PSU-MacAdmins-2024) - 
