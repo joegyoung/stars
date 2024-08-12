@@ -236,6 +236,7 @@
 
 ## HTML 
 
+- [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [jangaraj/vuetify-keycloak-theme](https://github.com/jangaraj/vuetify-keycloak-theme) - Proof of concept: how to use Vuetify in Keycloak theme
 - [jerryryle/rogueportal](https://github.com/jerryryle/rogueportal) - Rogue Captive Portal using a Raspberry Pi
@@ -536,6 +537,7 @@
 
 ## Python 
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [PhonePe/mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
@@ -849,6 +851,7 @@
 
 ## TypeScript 
 
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [ghoshRitesh12/aniwatch-api](https://github.com/ghoshRitesh12/aniwatch-api) - Node.js API for obtaining anime information from hianime.to (formerly aniwatch.to) written in TypeScript, made with Cheerio & Axios
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
