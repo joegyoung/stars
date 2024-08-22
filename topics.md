@@ -23,6 +23,7 @@
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -148,6 +149,7 @@
 - [react](#react)
 - [reactjs](#reactjs)
 - [redux](#redux)
+- [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
@@ -332,6 +334,11 @@
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [codota/tabnine-sublime](https://github.com/codota/tabnine-sublime) - Tabnine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, Julia, Lua, OCaml, Perl, Haskell, React
+
+## c-plus-plus 
+
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 
 ## chrome 
 
@@ -1222,7 +1229,7 @@
 - [anthonybudd/s3-from-scratch](https://github.com/anthonybudd/s3-from-scratch) - A guide on how to build AWS S3 from scratch on bare-metal using an exclusively open-source technology stack.
 - [brmkit/ad-training-lab](https://github.com/brmkit/ad-training-lab) - Automated Active Directory lab running on Proxmox
 - [Krazy998/mqtt-hisensetv](https://github.com/Krazy998/mqtt-hisensetv) - Details to connect to Hisense Smart TV MQTT broker for home automation
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [Dir3ctr1x/EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - An easy to use OEM:SLP activator for Windows Vista/7/Server 2008 (R2)/2012 (R2)/2016/2019/2022
 - [Gooddoggie/godot_2d_light](https://github.com/Gooddoggie/godot_2d_light) - Top down 2d light in Godot
 - [robjschroeder/App-Auto-Patch](https://github.com/robjschroeder/App-Auto-Patch) - Auto patch management script via Dialog
@@ -1367,7 +1374,6 @@
 - [sxyu/pixel-nerf](https://github.com/sxyu/pixel-nerf) - PixelNeRF Official Repository
 - [stegano/next-http-proxy-middleware](https://github.com/stegano/next-http-proxy-middleware) - HTTP Proxy middleware available in API Middleware provided by Next.js.
 - [BlueAmulet/WorldDownloader-Fabric](https://github.com/BlueAmulet/WorldDownloader-Fabric) - An attempt to port WorldDownloader to Fabric
-- [wassname/rl_2d_walker.js](https://github.com/wassname/rl_2d_walker.js) - Teaching a humanoid to walk(ish), then displaying in your browser (using tensorflow.js and reinforcement learning)
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 - [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
 - [nihui/dain-ncnn-vulkan](https://github.com/nihui/dain-ncnn-vulkan) - DAIN, Depth-Aware Video Frame Interpolation implemented with ncnn library
@@ -1423,7 +1429,6 @@
 - [aidan-/SimpleTOTP](https://github.com/aidan-/SimpleTOTP) - A highly configurable yet simple to use TOTP based two-factor authentication processing module for SimpleSAMLphp.
 - [pry0cc/CredCatch](https://github.com/pry0cc/CredCatch) - Find plaintext credentials from emails in bulk from password dumps, and generate emails on the fly.
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
-- [thibo73800/metacar](https://github.com/thibo73800/metacar) - A reinforcement learning environment for self-driving cars in the browser.
 - [SublimeLinter/SublimeLinter-ruby](https://github.com/SublimeLinter/SublimeLinter-ruby) - SublimeLinter plugin for ruby, using ruby -wc.
 - [imanel/websocket-ruby](https://github.com/imanel/websocket-ruby) - Universal Ruby library to handle WebSocket protocol
 - [mikolalysenko/l1-path-finder](https://github.com/mikolalysenko/l1-path-finder) - 🗺 Fast path planning for 2D grids
@@ -1802,6 +1807,11 @@
 ## redux 
 
 - [mesteche/react-socket](https://github.com/mesteche/react-socket) - A react-redux inspired library to deal with websocket.
+
+## reinforcement-learning 
+
+- [wassname/rl_2d_walker.js](https://github.com/wassname/rl_2d_walker.js) - Teaching a humanoid to walk(ish), then displaying in your browser (using tensorflow.js and reinforcement learning)
+- [thibo73800/metacar](https://github.com/thibo73800/metacar) - A reinforcement learning environment for self-driving cars in the browser.
 
 ## rest-api 
 
