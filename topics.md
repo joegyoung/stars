@@ -475,7 +475,6 @@
 - [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - A machine learning library for detecting anomalies in signals.
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [gsurma/password_cracker](https://github.com/gsurma/password_cracker) - Char-level RNN LSTM password cracker 🔑🔓.
 - [gsurma/style_transfer](https://github.com/gsurma/style_transfer) - CNN image style transfer 🎨.
 - [iitzco/faced](https://github.com/iitzco/faced) - 🚀 😏 Near Real Time CPU Face detection using deep learning
@@ -1002,7 +1001,6 @@
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [yoshoku/rumale](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 - [gsurma/password_cracker](https://github.com/gsurma/password_cracker) - Char-level RNN LSTM password cracker 🔑🔓.
 - [gsurma/style_transfer](https://github.com/gsurma/style_transfer) - CNN image style transfer 🎨.
@@ -1207,6 +1205,7 @@
 
 ## others 
 
+- [Ellerhold/fs2es-indexer](https://github.com/Ellerhold/fs2es-indexer) - This tool indexes your directories into an elastic search index and prepares them for searching via Mac OS Spotlight  search in a samba file server.
 - [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [pezhore/Proxmox-Home-Lab](https://github.com/pezhore/Proxmox-Home-Lab) - Packer, Terraform, and Ansible code to run a three node clustered Proxmox Home Lab
