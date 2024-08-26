@@ -174,6 +174,7 @@
 - [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [terraform](#terraform)
 - [testing](#testing)
 - [typescript](#typescript)
 - [unity](#unity)
@@ -1206,6 +1207,7 @@
 
 ## others 
 
+- [robinmanuelthiel/speedtest](https://github.com/robinmanuelthiel/speedtest) - Check internet bandwidth from a Docker container and save the results to an InfluxDB
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox
 - [Ellerhold/fs2es-indexer](https://github.com/Ellerhold/fs2es-indexer) - This tool indexes your directories into an elastic search index and prepares them for searching via Mac OS Spotlight  search in a samba file server.
 - [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
@@ -2087,6 +2089,10 @@
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [piotrmurach/tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
+
+## terraform 
+
+- [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere) - Terraform Provider for VMware vSphere
 
 ## testing 
 
