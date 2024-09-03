@@ -516,7 +516,7 @@
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
-- [inspircd/inspircd-docker](https://github.com/inspircd/inspircd-docker) - InspIRCd Docker image
+- [inspircd/docker](https://github.com/inspircd/docker) - InspIRCd Docker image
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Okazakee/mcserver-lazymc-docker](https://github.com/Okazakee/mcserver-lazymc-docker) - This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.
 - [maxmasetti/docker-compose-registry](https://github.com/maxmasetti/docker-compose-registry) - A local docker registry cache to lower bandwidth required when install several similar container.
