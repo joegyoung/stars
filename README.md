@@ -812,7 +812,7 @@
 - [bashclub/proxmox-zfs-postinstall](https://github.com/bashclub/proxmox-zfs-postinstall) - This script is designed to run on a fresh installed Proxmox server, configures `pve-no-subscription` repository, adjusts `zfs_arc_cache` and installs basic tools like `zfs-auto-snapshot` or `ifupdown2
 - [jlesage/docker-qdirstat](https://github.com/jlesage/docker-qdirstat) - Docker container for QDirStat
 - [sawyermade/macos_win10_usb](https://github.com/sawyermade/macos_win10_usb) - Create Windows 10 Bootable USB in macOS Monterey Apple Silicon M1 / M2
-- [inspircd/inspircd-docker](https://github.com/inspircd/inspircd-docker) - InspIRCd Docker image
+- [inspircd/docker](https://github.com/inspircd/docker) - InspIRCd Docker image
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [IanTeda/docker_stacks](https://github.com/IanTeda/docker_stacks) - Collection of Portainer Stacks (Docker Compose) for my home NAS
 - [Okazakee/mcserver-lazymc-docker](https://github.com/Okazakee/mcserver-lazymc-docker) - This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.
