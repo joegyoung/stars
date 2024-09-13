@@ -805,6 +805,7 @@
 
 ## Shell 
 
+- [brettinternet/homeops](https://github.com/brettinternet/homeops) - devops resources in my self-hosted homelab
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [robinmanuelthiel/speedtest](https://github.com/robinmanuelthiel/speedtest) - Check internet bandwidth from a Docker container and save the results to an InfluxDB
