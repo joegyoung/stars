@@ -741,6 +741,7 @@
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [geminabox/geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
+- [PhonePe/mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [Installomator/Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
@@ -1245,7 +1246,7 @@
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [Dir3ctr1x/EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - An easy to use OEM:SLP activator for Windows Vista/7/Server 2008 (R2)/2012 (R2)/2016/2019/2022
 - [Gooddoggie/godot_2d_light](https://github.com/Gooddoggie/godot_2d_light) - Top down 2d light in Godot
-- [robjschroeder/App-Auto-Patch](https://github.com/robjschroeder/App-Auto-Patch) - Auto patch management script via Dialog
+- [App-Auto-Patch/App-Auto-Patch](https://github.com/App-Auto-Patch/App-Auto-Patch) - Auto patch management script via Dialog
 - [hello-smile6/NoVNC-windows](https://github.com/hello-smile6/NoVNC-windows) - 
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [justakazh/sicat](https://github.com/justakazh/sicat) - The useful exploit finder
