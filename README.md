@@ -812,7 +812,7 @@
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [robinmanuelthiel/speedtest](https://github.com/robinmanuelthiel/speedtest) - Check internet bandwidth from a Docker container and save the results to an InfluxDB
 - [BigMacAdmin/PSU-MacAdmins-2024](https://github.com/BigMacAdmin/PSU-MacAdmins-2024) - 
-- [robjschroeder/App-Auto-Patch](https://github.com/robjschroeder/App-Auto-Patch) - Auto patch management script via Dialog
+- [App-Auto-Patch/App-Auto-Patch](https://github.com/App-Auto-Patch/App-Auto-Patch) - Auto patch management script via Dialog
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Installomator/Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs
 - [error-try-again/QRGen](https://github.com/error-try-again/QRGen) - Full-Stack QR Code generation service for self-hosting
