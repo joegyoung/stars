@@ -1328,7 +1328,7 @@
 - [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loader & spinner web components. Made with CSS, HTML and SVG. https://uiball.com/ldrs
 - [tias/xinput_calibrator](https://github.com/tias/xinput_calibrator) - A generic touchscreen calibration program for X.Org
 - [Bauxitedev/bendyworm](https://github.com/Bauxitedev/bendyworm) - A platformer where the entire world bends like a worm
-- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
+- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [miskatonicstudio/goat](https://github.com/miskatonicstudio/goat) - Godot Open Adventure Template (GOAT) is a tool for making 3D adventure games.
 - [fahall/godot_2d_visibility](https://github.com/fahall/godot_2d_visibility) - 2D Field of View algorithm implemented in GDScript
 - [Gianclgar/GDScriptAudioImport](https://github.com/Gianclgar/GDScriptAudioImport) - A script in GDScript for importing .wav and .ogg audio files at runtime
