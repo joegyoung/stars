@@ -855,7 +855,7 @@
 
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
 - [joshua-d-miller/macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS) - Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows
-- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
+- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [SuprHackerSteve/Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
