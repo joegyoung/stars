@@ -86,8 +86,6 @@
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
-- [jekyll](#jekyll)
-- [jekyll-theme](#jekyll-theme)
 - [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
@@ -422,11 +420,11 @@
 
 ## css 
 
+- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [ivopetkov/responsively-lazy](https://github.com/ivopetkov/responsively-lazy) - Lazy load responsive images and HTML
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
-- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## cybersecurity 
 
@@ -888,14 +886,6 @@
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 
-## jekyll 
-
-- [poole/poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
-
-## jekyll-theme 
-
-- [poole/poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
-
 ## js 
 
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
@@ -1345,7 +1335,6 @@
 - [Mohammed-Anwar/post-processing-tool-for-godot](https://github.com/Mohammed-Anwar/post-processing-tool-for-godot) - a tool for adding post-processing effects in your Godot project
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [vot/xkpasswd-node](https://github.com/vot/xkpasswd-node) - Memorable password generator in Node.js
-- [levigilbert/godot-LDtk-import](https://github.com/levigilbert/godot-LDtk-import) - Basic GDscript for importing LDtk files into the Godot game engine.
 - [mechPenSketch/grid_movements](https://github.com/mechPenSketch/grid_movements) - RPG overworld grid movements
 - [eps696/aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = text to image/video
 - [pixray/pixray](https://github.com/pixray/pixray) - 
@@ -1368,7 +1357,6 @@
 - [noble/bleno](https://github.com/noble/bleno) - A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals
 - [flocknroll/text2fb](https://github.com/flocknroll/text2fb) - Python lib to write a text directly to the linux framebuffer
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
-- [nsayer/Crazy-Clock](https://github.com/nsayer/Crazy-Clock) - An ATTiny85 based variable-rate (with long-term accuracy) clock movement
 - [VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes) - Super Mario World (SNES) Widescreen Project
 - [msxie92/MangaInpainting](https://github.com/msxie92/MangaInpainting) - Implementation for "Seamless Manga Inpainting with Semantics Awareness" (SIGGRAPH 2021 issue)
 - [aeroheim/midori](https://github.com/aeroheim/midori) - library for animated image backgrounds
@@ -1472,7 +1460,6 @@
 - [DmitryUlyanov/deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
 - [rharder/imagesnap](https://github.com/rharder/imagesnap) - Capture Images from the Command Line
 - [reiinakano/fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs) - Demo of in-browser Fast Neural Style Transfer with deeplearn.js library
-- [honza/renaissance.css](https://github.com/honza/renaissance.css) - The perfect page in CSS
 - [amitmerchant1990/essential-vanilla-javascript-functions](https://github.com/amitmerchant1990/essential-vanilla-javascript-functions) - Essential Vanilla JavaScript Functions
 - [mathiascode/Extras](https://github.com/mathiascode/Extras) - Plugin for Cuberite that adds extra functionality to the Kaboom.pw server.
 - [mathiascode/Weapons](https://github.com/mathiascode/Weapons) - Plugin that adds weapons to a Cuberite server.
@@ -1529,7 +1516,6 @@
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
 - [FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF) - Free Lossless Image Format
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
-- [delight-im/HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)
 - [blindgaenger/sinatra-rest](https://github.com/blindgaenger/sinatra-rest) - Generates RESTful routes for the models of a Sinatra application (ActiveRecord, DataMapper, Stone)
 - [conzett/PandoraNotifications](https://github.com/conzett/PandoraNotifications) - Chrome extension that creates desktop notifications for Pandora using the HTML5 Notification API
 - [emerose/pbkdf2-ruby](https://github.com/emerose/pbkdf2-ruby) - Password Based Key Derivation Function 2 (PBKDF2) for Ruby
@@ -1538,7 +1524,6 @@
 - [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
 - [cmpolis/smart-table-scroll](https://github.com/cmpolis/smart-table-scroll) - Build 1MM row tables with native scroll bars by reusing and yielding nodes.
 - [cheind/rmds](https://github.com/cheind/rmds) - Ruby Multidimensional Scaling Library
-- [vincentchan/mickey](https://github.com/vincentchan/mickey) - A minimal one-column theme for Jekyll.
 - [cazala/synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
 - [louisstow/fann.js](https://github.com/louisstow/fann.js) - FANN compiled through Emscripten
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
