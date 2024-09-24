@@ -71,7 +71,6 @@
 - [mananapr/pxlart](https://github.com/mananapr/pxlart) - A terminal pixel art creator
 - [AngelJumbo/lavat](https://github.com/AngelJumbo/lavat) - Lava lamp simulation using metaballs in the terminal
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) - Small utilities that are useful in advanced password cracking
-- [nsayer/Crazy-Clock](https://github.com/nsayer/Crazy-Clock) - An ATTiny85 based variable-rate (with long-term accuracy) clock movement
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
@@ -126,13 +125,9 @@
 
 ## CSS 
 
-- [honza/renaissance.css](https://github.com/honza/renaissance.css) - The perfect page in CSS
-- [m242/maildrop](https://github.com/m242/maildrop) - MailDrop is an open-source, scalable, high-performance version of Mailinator.
-- [poole/poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
-- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
-- [delight-im/HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)
-- [vincentchan/mickey](https://github.com/vincentchan/mickey) - A minimal one-column theme for Jekyll.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+- [m242/maildrop](https://github.com/m242/maildrop) - MailDrop is an open-source, scalable, high-performance version of Mailinator.
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 
 ## Clojure 
 
@@ -187,7 +182,6 @@
 - [Mohammed-Anwar/post-processing-tool-for-godot](https://github.com/Mohammed-Anwar/post-processing-tool-for-godot) - a tool for adding post-processing effects in your Godot project
 - [MateuSai/Godot-Roguelike-Tutorial](https://github.com/MateuSai/Godot-Roguelike-Tutorial) - A series of videos on how to make a roguelike using the Godot game engine: https://www.youtube.com/playlist?list=PL2-ArCpIQtjELkyLKec8BaVVCeunuHSK9
 - [univeous/Godot-2D-Glow](https://github.com/univeous/Godot-2D-Glow) - Godot 2D Glow effect demo.
-- [levigilbert/godot-LDtk-import](https://github.com/levigilbert/godot-LDtk-import) - Basic GDscript for importing LDtk files into the Godot game engine.
 - [mechPenSketch/grid_movements](https://github.com/mechPenSketch/grid_movements) - RPG overworld grid movements
 
 ## Go 
