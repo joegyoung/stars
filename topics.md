@@ -1206,6 +1206,7 @@
 
 ## others 
 
+- [idle-js-games/incremancer](https://github.com/idle-js-games/incremancer) - Idle Necromancer Game (Zombie Idle)@@@
 - [PromptEngineer48/Ollama](https://github.com/PromptEngineer48/Ollama) - This repo brings numerous use cases from the Open Source Ollama
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - Self-hosted habit tracking app
 - [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - A web slideshow for Immich
