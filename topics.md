@@ -10,6 +10,7 @@
 - [algorithmic-trading](#algorithmic-trading)
 - [analytics](#analytics)
 - [android](#android)
+- [ansible](#ansible)
 - [api](#api)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
@@ -178,6 +179,7 @@
 - [typescript](#typescript)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
+- [vagrant](#vagrant)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -229,6 +231,10 @@
 
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
+
+## ansible 
+
+- [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 
 ## api 
 
@@ -752,6 +758,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [donuts-are-good/shhhbb](https://github.com/donuts-are-good/shhhbb) - bbs based on SSH
 - [Lattyware/massivedecks](https://github.com/Lattyware/massivedecks) - A comedy party game for PC, mobile & chromecast.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -775,6 +782,7 @@
 - [muesli/crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [anime-dl/anime-downloader](https://github.com/anime-dl/anime-downloader) - A simple but powerful anime downloader and streamer.
 - [octokit/octokit.rb](https://github.com/octokit/octokit.rb) - Ruby toolkit for the GitHub API
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
@@ -1243,7 +1251,6 @@
 - [Gooddoggie/godot_2d_light](https://github.com/Gooddoggie/godot_2d_light) - Top down 2d light in Godot
 - [App-Auto-Patch/App-Auto-Patch](https://github.com/App-Auto-Patch/App-Auto-Patch) - Auto patch management script via Dialog
 - [hello-smile6/NoVNC-windows](https://github.com/hello-smile6/NoVNC-windows) - 
-- [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [justakazh/sicat](https://github.com/justakazh/sicat) - The useful exploit finder
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [aboutsecurity/attack-navigator-4.1](https://github.com/aboutsecurity/attack-navigator-4.1) - MITRE ATT&CK Navigator 4.1
@@ -2095,6 +2102,7 @@
 ## terraform 
 
 - [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere) - Terraform Provider for VMware vSphere
+- [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 
 ## testing 
 
@@ -2128,6 +2136,10 @@
 ## unreal-engine 
 
 - [KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0](https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0) - This pack has a bunch of game assets for creating cities, great to use with city planning, simulation, RTS games and whatever you can think of putting these in.
+
+## vagrant 
+
+- [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 
 ## visual-studio-code 
 
