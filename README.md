@@ -88,7 +88,7 @@
 
 ## C# # 
 
-- [cmu-sei/GHOSTS](https://github.com/cmu-sei/GHOSTS) - GHOSTS is a realistic user simulation framework for cyber simulation, training, and exercise
+- [cmu-sei/GHOSTS](https://github.com/cmu-sei/GHOSTS) - GHOSTS is a realistic user simulation framework for cyber experimentation, simulation, training, and exercise
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
 - [punk-security/smbeagle](https://github.com/punk-security/smbeagle) - SMBeagle - Fileshare auditing tool.
