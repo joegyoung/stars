@@ -250,6 +250,7 @@
 
 ## arduino 
 
+- [WeSpeakEnglish/ANTIRTOS](https://github.com/WeSpeakEnglish/ANTIRTOS) - No any RTOS needed any more, you will see... Function pointers queues classes lib (not only) for Arduino. Works with others IDE, like IAR for example. Manipulate with your tasks without delays, keep y
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
 - [googlecreativelab/paper-signals](https://github.com/googlecreativelab/paper-signals) - Build your own voice controlled object.
@@ -1202,6 +1203,7 @@
 
 ## operating-system 
 
+- [WeSpeakEnglish/ANTIRTOS](https://github.com/WeSpeakEnglish/ANTIRTOS) - No any RTOS needed any more, you will see... Function pointers queues classes lib (not only) for Arduino. Works with others IDE, like IAR for example. Manipulate with your tasks without delays, keep y
 - [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video!
 
 ## osint 
