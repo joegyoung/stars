@@ -689,7 +689,6 @@
 - [18F/identity-oidc-sinatra](https://github.com/18F/identity-oidc-sinatra) - Example OpenID Connect relying party as a Sinatra app
 - [FX-HAO/keycloak-ruby-client](https://github.com/FX-HAO/keycloak-ruby-client) - 
 - [vicvega/hpfeeds-ruby](https://github.com/vicvega/hpfeeds-ruby) - Ruby client for hpfeeds protocol
-- [elastic/elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby) - Ruby integrations for Elasticsearch
 - [sparklemotion/sqlite3-ruby](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database
 - [SAML-Toolkits/ruby-saml](https://github.com/SAML-Toolkits/ruby-saml) - SAML SSO for Ruby
 - [markoscalderon/websockets-chat-application](https://github.com/markoscalderon/websockets-chat-application) - a simple chat application using websockets, sinatra, cramp and redis
