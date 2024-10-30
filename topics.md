@@ -1858,7 +1858,6 @@
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
 - [InfluxCommunity/influxdb-ruby](https://github.com/InfluxCommunity/influxdb-ruby) - Ruby client for InfluxDB
 - [digital-fabric/tipi](https://github.com/digital-fabric/tipi) - Tipi - the All-in-one Web Server for Ruby Apps
-- [elastic/elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby) - Ruby integrations for Elasticsearch
 - [sparklemotion/sqlite3-ruby](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database
 - [kevindew/openapi3_parser](https://github.com/kevindew/openapi3_parser) - Open API 3 Parser/Validator for Ruby
 - [SpeciesFileGroup/waxy](https://github.com/SpeciesFileGroup/waxy) - Hexagonal SVG from Ruby
