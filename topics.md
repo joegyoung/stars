@@ -1345,7 +1345,7 @@
 - [newold3/AutotileEditor](https://github.com/newold3/AutotileEditor) - Addon Godot - Convert tilesets, autotiles and autotiles animated from RPG Maker to tilesets of Godot
 - [SeratoninRonin/TimerManager](https://github.com/SeratoninRonin/TimerManager) - A timer/callback scheduler for Godot C#
 - [The-Four-Lords/GoDot_Examples_and_CheatSheet](https://github.com/The-Four-Lords/GoDot_Examples_and_CheatSheet) - A bunch of GoDot examples to play and test the engine elements and tools. Documentation and cheatsheet.
-- [eclipse/paho.mqtt.python](https://github.com/eclipse/paho.mqtt.python) - paho.mqtt.python
+- [eclipse-paho/paho.mqtt.python](https://github.com/eclipse-paho/paho.mqtt.python) - paho.mqtt.python
 - [queencitycyber/InfoSecUberWik](https://github.com/queencitycyber/InfoSecUberWik) - A massive curated list of curated lists of various info sec/pen testing tools, resources, and tricks covering multiple verticals.
 - [GenoRyan/NamingConvention](https://github.com/GenoRyan/NamingConvention) - Naming convention for Active Directory objects
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) - Small utilities that are useful in advanced password cracking
