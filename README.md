@@ -613,7 +613,7 @@
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
-- [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - A machine learning library for detecting anomalies in signals.
+- [sintel-dev/Orion](https://github.com/sintel-dev/Orion) - Library for detecting anomalies in signals
 - [sxyu/pixel-nerf](https://github.com/sxyu/pixel-nerf) - PixelNeRF Official Repository
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
