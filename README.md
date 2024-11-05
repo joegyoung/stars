@@ -550,7 +550,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [PromptEngineer48/Ollama](https://github.com/PromptEngineer48/Ollama) - This repo brings numerous use cases from the Open Source Ollama
-- [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - Self-hosted habit tracking app
+- [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without goals.
 - [Ellerhold/fs2es-indexer](https://github.com/Ellerhold/fs2es-indexer) - This tool indexes your directories into an elastic search index and prepares them for searching via Mac OS Spotlight  search in a samba file server.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
@@ -904,7 +904,7 @@
 - [dev-bjoern/react-transition-value](https://github.com/dev-bjoern/react-transition-value) - 🚀 Transition number values using easing functions
 - [nathanhoad/react-timestamp](https://github.com/nathanhoad/react-timestamp) - A React component for displaying a UTC datetime in the local timezone
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - realtime whiteboard / infinite canvas SDK
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
