@@ -547,6 +547,7 @@
 
 ## Python 
 
+- [pielgrzym/paper-terminal](https://github.com/pielgrzym/paper-terminal) - Terminal emulator for Waveshare 2.9inch e-paper display
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [PromptEngineer48/Ollama](https://github.com/PromptEngineer48/Ollama) - This repo brings numerous use cases from the Open Source Ollama
