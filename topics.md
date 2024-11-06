@@ -1219,6 +1219,7 @@
 
 ## others 
 
+- [pielgrzym/paper-terminal](https://github.com/pielgrzym/paper-terminal) - Terminal emulator for Waveshare 2.9inch e-paper display
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
 - [aboutsecurity/blueteam_homelabs](https://github.com/aboutsecurity/blueteam_homelabs) - Great List of Resources to Build an Enterprise Grade Home Lab
 - [stevenpack/asroute](https://github.com/stevenpack/asroute) - Interpret traceroute output to show names of ASN traversed
