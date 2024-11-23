@@ -90,6 +90,7 @@
 
 ## C# # 
 
+- [sakakun/Proxmox-Desktop-Client](https://github.com/sakakun/Proxmox-Desktop-Client) - A windows desktop client for Proxmox.
 - [cmu-sei/GHOSTS](https://github.com/cmu-sei/GHOSTS) - GHOSTS is a realistic user simulation framework for cyber experimentation, simulation, training, and exercise
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
@@ -247,7 +248,6 @@
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [jangaraj/vuetify-keycloak-theme](https://github.com/jangaraj/vuetify-keycloak-theme) - Proof of concept: how to use Vuetify in Keycloak theme
 - [jerryryle/rogueportal](https://github.com/jerryryle/rogueportal) - Rogue Captive Portal using a Raspberry Pi
-- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [bobthekingofegypt/dagre-reactjs](https://github.com/bobthekingofegypt/dagre-reactjs) - React component for rendering a dagre graph layout without any dependency on d3
@@ -573,6 +573,7 @@
 - [chiefonboarding/ChiefOnboarding](https://github.com/chiefonboarding/ChiefOnboarding) - Free and open-source employee onboarding platform. Onboard new hires through Slack or the web portal.
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) - Entry point for issues and wiki. Also contains some scripts and sources.
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin) - A PowerDNS web interface with advanced features
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 - [globecyber/Infornito](https://github.com/globecyber/Infornito) - Extract forensic interesting information from Chrome, Firefox, Safari browsers ...
@@ -815,6 +816,7 @@
 
 ## Shell 
 
+- [Praqma/smallstep-ca-demo](https://github.com/Praqma/smallstep-ca-demo) - Demo showing how to provide a behind the firewall Certificate Authority for development environments.
 - [brettinternet/homeops](https://github.com/brettinternet/homeops) - devops resources in my self-hosted homelab
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
