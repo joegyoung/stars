@@ -435,6 +435,7 @@
 
 ## cybersecurity 
 
+- [cisagov/Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 - [SAP/cloud-active-defense](https://github.com/SAP/cloud-active-defense) - Add a layer of active defense to your cloud applications.
 - [cmu-sei/GHOSTS](https://github.com/cmu-sei/GHOSTS) - GHOSTS is a realistic user simulation framework for cyber experimentation, simulation, training, and exercise
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -1237,7 +1238,7 @@
 - [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Immich Kiosk is a lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source.
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [robinmanuelthiel/speedtest](https://github.com/robinmanuelthiel/speedtest) - Check internet bandwidth from a Docker container and save the results to an InfluxDB
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE
 - [Ellerhold/fs2es-indexer](https://github.com/Ellerhold/fs2es-indexer) - This tool indexes your directories into an elastic search index and prepares them for searching via Mac OS Spotlight  search in a samba file server.
 - [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -1932,6 +1933,7 @@
 
 ## security 
 
+- [cisagov/Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [SAP/cloud-active-defense](https://github.com/SAP/cloud-active-defense) - Add a layer of active defense to your cloud applications.
