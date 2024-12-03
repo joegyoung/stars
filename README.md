@@ -463,6 +463,7 @@
 
 ## Objective-C 
 
+- [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users 
 - [Waitsnake/AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - A screensaver for Mac OSX / macOS that plays animated GIFs and APNGs
 - [rharder/imagesnap](https://github.com/rharder/imagesnap) - Capture Images from the Command Line
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
@@ -864,6 +865,7 @@
 
 ## Swift 
 
+- [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
 - [joshua-d-miller/macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS) - Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
