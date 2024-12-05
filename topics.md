@@ -1233,7 +1233,6 @@
 ## others 
 
 - [Praqma/smallstep-ca-demo](https://github.com/Praqma/smallstep-ca-demo) - Demo showing how to provide a behind the firewall Certificate Authority for development environments.
-- [sakakun/Proxmox-Desktop-Client](https://github.com/sakakun/Proxmox-Desktop-Client) - A windows desktop client for Proxmox.
 - [TheoGil/interactive-plants](https://github.com/TheoGil/interactive-plants) - Generative plants and flowers.
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
 - [pielgrzym/paper-terminal](https://github.com/pielgrzym/paper-terminal) - Terminal emulator for Waveshare 2.9inch e-paper display
@@ -1876,6 +1875,7 @@
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
 - [InfluxCommunity/influxdb-ruby](https://github.com/InfluxCommunity/influxdb-ruby) - Ruby client for InfluxDB
 - [digital-fabric/tipi](https://github.com/digital-fabric/tipi) - Tipi - the All-in-one Web Server for Ruby Apps
+- [elastic/elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby) - Ruby integrations for Elasticsearch
 - [sparklemotion/sqlite3-ruby](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database
 - [kevindew/openapi3_parser](https://github.com/kevindew/openapi3_parser) - Open API 3 Parser/Validator for Ruby
 - [SpeciesFileGroup/waxy](https://github.com/SpeciesFileGroup/waxy) - Hexagonal SVG from Ruby
@@ -2233,6 +2233,7 @@
 
 ## windows 
 
+- [sakakun/Proxmox-Desktop-Client](https://github.com/sakakun/Proxmox-Desktop-Client) - A windows desktop client for Proxmox.
 - [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
