@@ -1332,7 +1332,7 @@
 - [thecatcore/Fabric---Discord-Link](https://github.com/thecatcore/Fabric---Discord-Link) - 
 - [VirusFriendly/SSHapendoes](https://github.com/VirusFriendly/SSHapendoes) - Capture passwords of login attempts on non-existent and disabled accounts.
 - [prouhard/tfjs-mountaincar](https://github.com/prouhard/tfjs-mountaincar) - Reinforcement Learning in the browser with Mountain Car simulation
-- [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
+- [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [M4444/TMatrix](https://github.com/M4444/TMatrix) - Terminal based replica of the digital rain from The Matrix.
 - [AngelJumbo/lavat](https://github.com/AngelJumbo/lavat) - Lava lamp simulation using metaballs in the terminal
