@@ -1408,7 +1408,6 @@
 - [areeves87/Flavor-Bible-App](https://github.com/areeves87/Flavor-Bible-App) - Code and report for my flavor bible shiny app
 - [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [selforglive/selforglive.github.io](https://github.com/selforglive/selforglive.github.io) - Self-Organizing Systems Workshop
 - [scipag/password-list](https://github.com/scipag/password-list) - Password lists with top passwords to optimize bruteforce attacks
 - [assaf/uuid](https://github.com/assaf/uuid) - Generates universally unique identifiers (UUIDs) for use in distributed applications.
