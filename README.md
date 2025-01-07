@@ -169,7 +169,7 @@
 - [BenjaTK/Gaea](https://github.com/BenjaTK/Gaea) - Procedural generation add-on for Godot 4.
 - [shomykohai/quest-system-example](https://github.com/shomykohai/quest-system-example) - A tutorial project for using QuestSystem in addition of Nathan's Dialogue Manager
 - [Gooddoggie/godot_2d_light](https://github.com/Gooddoggie/godot_2d_light) - Top down 2d light in Godot
-- [bypell/weeping-angel-godot](https://github.com/bypell/weeping-angel-godot) - 
+- [bypell/weeping-angel-godot](https://github.com/bypell/weeping-angel-godot) - Demo project for a statue that moves when the player can't see it.
 - [gdquest-demos/godot-procedural-generation](https://github.com/gdquest-demos/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
 - [Chevifier/QuestManager](https://github.com/Chevifier/QuestManager) - A Quest Manager plugin for making and managing quests in Godot 4
