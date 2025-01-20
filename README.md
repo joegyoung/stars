@@ -293,6 +293,8 @@
 
 ## JavaScript 
 
+- [hackclub/hackapet](https://github.com/hackclub/hackapet) - 
+- [epassi/lumon-macrodata-refiner](https://github.com/epassi/lumon-macrodata-refiner) - 
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [TheoGil/interactive-plants](https://github.com/TheoGil/interactive-plants) - Generative plants and flowers.
@@ -847,7 +849,7 @@
 - [Okazakee/DockerCraft](https://github.com/Okazakee/DockerCraft) - This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.
 - [gowthambalusamy/HLS-Blob-Video-Download](https://github.com/gowthambalusamy/HLS-Blob-Video-Download) - HLS Steaming Video Download / Blob Video Download
 - [kost/docker-sift](https://github.com/kost/docker-sift) - Docker container of SANS Investigative Forensic Toolkit (SIFT) Workstation Version 3
-- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [jsopdebeeck/CanaryOnPi](https://github.com/jsopdebeeck/CanaryOnPi) - Install HoneyPot on Raspberry Pi
 - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 - [tianyoujian/MZDPI](https://github.com/tianyoujian/MZDPI) - 
@@ -886,6 +888,7 @@
 
 ## TypeScript 
 
+- [hackclub/how-did-i-get-here](https://github.com/hackclub/how-did-i-get-here) - A tool/website/article by @kognise about how routing on the Internet works.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [tale/headplane](https://github.com/tale/headplane) - An advanced UI for juanfont/headscale
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
