@@ -60,6 +60,7 @@
 
 ## Batchfile 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [Dir3ctr1x/EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - An easy to use OEM:SLP activator for Windows Vista/7/Server 2008 (R2)/2012 (R2)/2016/2019/2022
 - [hello-smile6/NoVNC-windows](https://github.com/hello-smile6/NoVNC-windows) - 
 
@@ -104,6 +105,7 @@
 
 ## C++ 
 
+- [andrewchilicki/LumonMDR](https://github.com/andrewchilicki/LumonMDR) - Lumon's Macrodata Refinement application inspired by Apple TV's 'Severance'.
 - [bishoyh/mbox2eml](https://github.com/bishoyh/mbox2eml) - Simple tool to convert mbox file from google takeout to a folder of eml files
 - [WeSpeakEnglish/ANTIRTOS](https://github.com/WeSpeakEnglish/ANTIRTOS) - No RTOS need any more, you will see... Function pointers queues classes library for Arduino or any other platform. Use it anywhere. Manipulate your tasks in an easy and flexible way, keep your interru
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
@@ -194,6 +196,7 @@
 
 ## Go 
 
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
@@ -301,6 +304,7 @@
 
 ## JavaScript 
 
+- [Lumon-Industries/Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 - [zacharyreese/DualQRCode](https://github.com/zacharyreese/DualQRCode) - Two different URLs in one QR code
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Xoconoch/spotizerr](https://github.com/Xoconoch/spotizerr) - Spotify music downloader with a lossless twist, based on the deezspot library
@@ -438,7 +442,6 @@
 
 ## Jupyter Notebook 
 
-- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [norflin321/ml](https://github.com/norflin321/ml) - 🧠🤖💥
 - [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - Optimized Stable Diffusion modified to run on lower GPU VRAM
 - [einanao/stable-diffusion](https://github.com/einanao/stable-diffusion) - 
@@ -522,7 +525,6 @@
 - [silence-is-best/files](https://github.com/silence-is-best/files) - 
 - [scipag/password-list](https://github.com/scipag/password-list) - Password lists with top passwords to optimize bruteforce attacks
 - [patStar/voxelShader](https://github.com/patStar/voxelShader) - Repository for magica voxel shaders.
-- [defendthehoneypot/NamingConvention](https://github.com/defendthehoneypot/NamingConvention) - Naming convention for Active Directory objects
 - [devleague/react-kanban](https://github.com/devleague/react-kanban) - A digital Kanban board made with React
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [gsurma/password_cracker](https://github.com/gsurma/password_cracker) - Char-level RNN LSTM password cracker 🔑🔓.
@@ -912,6 +914,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [tale/headplane](https://github.com/tale/headplane) - An advanced UI for juanfont/headscale
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [ghoshRitesh12/aniwatch-api](https://github.com/ghoshRitesh12/aniwatch-api) - Node.js API for obtaining anime information from hianime.to
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
