@@ -314,6 +314,7 @@
 - [TheoGil/interactive-plants](https://github.com/TheoGil/interactive-plants) - Generative plants and flowers.
 - [built-by-as/FastDigest](https://github.com/built-by-as/FastDigest) - summarize HackerNews comments using AI and LLMs
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [bluepuma77/traefik-best-practice](https://github.com/bluepuma77/traefik-best-practice) - Traefik templates for various use cases
 - [anthonybudd/s3-from-scratch](https://github.com/anthonybudd/s3-from-scratch) - A guide on how to build AWS S3 from scratch on bare-metal using an exclusively open-source technology stack.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [mrsajadpp/websico](https://github.com/mrsajadpp/websico) - A lightweight and flexible web server framework for Node.js.
@@ -502,7 +503,6 @@
 - [aboutsecurity/blueteam_homelabs](https://github.com/aboutsecurity/blueteam_homelabs) - Great List of Resources to Build an Enterprise Grade Home Lab
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [leigh-hackspace/arcade-cabinet](https://github.com/leigh-hackspace/arcade-cabinet) - Designs and files for Aracade Cabinet
-- [bluepuma77/traefik-best-practice](https://github.com/bluepuma77/traefik-best-practice) - Traefik templates for various use cases
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [Krazy998/mqtt-hisensetv](https://github.com/Krazy998/mqtt-hisensetv) - Details to connect to Hisense Smart TV MQTT broker for home automation
 - [KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0](https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0) - This pack has a bunch of game assets for creating cities, great to use with city planning, simulation, RTS games and whatever you can think of putting these in.
