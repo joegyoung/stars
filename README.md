@@ -820,6 +820,7 @@
 
 ## Rust 
 
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [BattermanZ/FlareSync](https://github.com/BattermanZ/FlareSync) - A simple Rust app to update automatically your DNS records on Cloudflare
 - [stevenpack/asroute](https://github.com/stevenpack/asroute) - Interpret traceroute output to show names of ASN traversed
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
@@ -909,6 +910,8 @@
 
 ## TypeScript 
 
+- [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
+- [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [WaveringAna/SimpleLink](https://github.com/WaveringAna/SimpleLink) - A very performant and light (2mb in memory) link shortener and tracker. Written in Rust and React and uses Postgres/SQLite.
 - [hackclub/how-did-i-get-here](https://github.com/hackclub/how-did-i-get-here) - A tool/website/article by @kognise about how routing on the Internet works.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
