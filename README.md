@@ -372,7 +372,6 @@
 - [DJCordhose/ux-by-tfjs](https://github.com/DJCordhose/ux-by-tfjs) - 
 - [netlify/create-react-app-lambda](https://github.com/netlify/create-react-app-lambda) - 
 - [realrasengan/SaltShaker](https://github.com/realrasengan/SaltShaker) - Use nacl (tweetnacl) easily to create public private keypairs to sign, verify, encrypt and decrypt messages.
-- [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [ToQuery/tensorflow-rex-run](https://github.com/ToQuery/tensorflow-rex-run) - A TensorFlow.js based AI player platform for T-Rex Runner. T-Rex Runner is originally an easter egg game inside chrome.
 - [pratyush1687/tensorflow-rex-run](https://github.com/pratyush1687/tensorflow-rex-run) - A TensorFlow.js based AI player platform for T-Rex Runner. T-Rex Runner is originally an easter egg game inside chrome.
 - [jktzes/humaaans](https://github.com/jktzes/humaaans) - Create Human Illustrations With Ease in React.
@@ -979,6 +978,7 @@
 - [nareshbhatia/slate-editor-deprecated](https://github.com/nareshbhatia/slate-editor-deprecated) - A pre-packaged editor built on top of Slate
 - [justadudewhohacks/tfjs-tiny-yolov2](https://github.com/justadudewhohacks/tfjs-tiny-yolov2) - Tiny YOLO v2 object detection with tensorflow.js.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+- [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [davnicwil/react-frontload](https://github.com/davnicwil/react-frontload) - Async data loading for React components, on client & server
 - [thibo73800/metacar](https://github.com/thibo73800/metacar) - A reinforcement learning environment for self-driving cars in the browser.
 - [itsdouges/element-motion](https://github.com/itsdouges/element-motion) - Tween between view states with declarative zero configuration element motions for React
