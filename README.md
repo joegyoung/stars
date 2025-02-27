@@ -869,6 +869,7 @@
 - [IanTeda/docker_stacks](https://github.com/IanTeda/docker_stacks) - Collection of Portainer Stacks (Docker Compose) for my home NAS
 - [Okazakee/DockerCraft](https://github.com/Okazakee/DockerCraft) - This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.
 - [gowthambalusamy/HLS-Blob-Video-Download](https://github.com/gowthambalusamy/HLS-Blob-Video-Download) - HLS Steaming Video Download / Blob Video Download
+- [joshua-d-miller/macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS) - Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows
 - [kost/docker-sift](https://github.com/kost/docker-sift) - Docker container of SANS Investigative Forensic Toolkit (SIFT) Workstation Version 3
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [jsopdebeeck/CanaryOnPi](https://github.com/jsopdebeeck/CanaryOnPi) - Install HoneyPot on Raspberry Pi
@@ -897,7 +898,6 @@
 
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
-- [joshua-d-miller/macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS) - Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
