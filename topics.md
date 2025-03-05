@@ -787,7 +787,7 @@
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [PhonePe/mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
-- [tale/headplane](https://github.com/tale/headplane) - An advanced UI for juanfont/headscale
+- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [geminabox/geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting
@@ -1285,6 +1285,7 @@
 
 ## others 
 
+- [zimbres/SSLTrack](https://github.com/zimbres/SSLTrack) - SSL certificate expiry monitoring
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [Lumon-Industries/Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 - [andrewchilicki/LumonMDR](https://github.com/andrewchilicki/LumonMDR) - Lumon's Macrodata Refinement application inspired by Apple TV's 'Severance'.
@@ -1843,7 +1844,7 @@
 
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-- [tale/headplane](https://github.com/tale/headplane) - An advanced UI for juanfont/headscale
+- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -2003,6 +2004,7 @@
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [codota/tabnine-sublime](https://github.com/codota/tabnine-sublime) - Tabnine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, Julia, Lua, OCaml, Perl, Haskell, React
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
 ## scala 
 
