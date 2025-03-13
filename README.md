@@ -499,6 +499,7 @@
 
 ## Others 
 
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [aboutsecurity/blueteam_homelabs](https://github.com/aboutsecurity/blueteam_homelabs) - Great List of Resources to Build an Enterprise Grade Home Lab
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [leigh-hackspace/arcade-cabinet](https://github.com/leigh-hackspace/arcade-cabinet) - Designs and files for Aracade Cabinet
@@ -912,6 +913,7 @@
 
 ## TypeScript 
 
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [WaveringAna/SimpleLink](https://github.com/WaveringAna/SimpleLink) - A very performant and light (2mb in memory) link shortener and tracker. Written in Rust and React and uses Postgres/SQLite.
