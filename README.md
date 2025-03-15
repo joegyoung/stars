@@ -170,6 +170,7 @@
 
 ## GDScript 
 
+- [gtibo/blog-notebook](https://github.com/gtibo/blog-notebook) - Blog notebook source code
 - [BenjaTK/Gaea](https://github.com/BenjaTK/Gaea) - Procedural generation add-on for Godot 4.
 - [shomykohai/quest-system-example](https://github.com/shomykohai/quest-system-example) - A tutorial project for using QuestSystem in addition of Nathan's Dialogue Manager
 - [Gooddoggie/godot_2d_light](https://github.com/Gooddoggie/godot_2d_light) - Top down 2d light in Godot
