@@ -688,7 +688,7 @@
 
 ## games 
 
-- [LuminesenceProject/LumiOS](https://github.com/LuminesenceProject/LumiOS) - The official LumiOS, with games, hacks and more.
+- [LuminesenceProject/LumiOS](https://github.com/LuminesenceProject/LumiOS) - LumiOS, an online OS that is built off of React+Typescript and can be run statically.
 
 ## git 
 
