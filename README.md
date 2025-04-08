@@ -260,7 +260,7 @@
 - [chipweinberger/ShaderToyLite.js](https://github.com/chipweinberger/ShaderToyLite.js) - A full-featured ShaderToy renderer in ~400 lines of code.
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
 - [idle-js-games/incremancer](https://github.com/idle-js-games/incremancer) - Idle Necromancer Game (Zombie Idle)@@@
-- [LuminesenceProject/LumiOS](https://github.com/LuminesenceProject/LumiOS) - The official LumiOS, with games, hacks and more.
+- [LuminesenceProject/LumiOS](https://github.com/LuminesenceProject/LumiOS) - LumiOS, an online OS that is built off of React+Typescript and can be run statically.
 - [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [jangaraj/vuetify-keycloak-theme](https://github.com/jangaraj/vuetify-keycloak-theme) - Proof of concept: how to use Vuetify in Keycloak theme
