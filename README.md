@@ -931,7 +931,7 @@
 - [hackclub/how-did-i-get-here](https://github.com/hackclub/how-did-i-get-here) - A tool/website/article by @kognise about how routing on the Internet works.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [ghoshRitesh12/aniwatch-api](https://github.com/ghoshRitesh12/aniwatch-api) - Node.js API for obtaining anime information from hianime.to
