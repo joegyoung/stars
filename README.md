@@ -449,7 +449,7 @@
 - [norflin321/ml](https://github.com/norflin321/ml) - 🧠🤖💥
 - [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - Optimized Stable Diffusion modified to run on lower GPU VRAM
 - [einanao/stable-diffusion](https://github.com/einanao/stable-diffusion) - 
-- [arseniyturin/Capstone-Project](https://github.com/arseniyturin/Capstone-Project) - Predicting stock market movement with EDA and Keras
+- [arsenyturin/Capstone-Project](https://github.com/arsenyturin/Capstone-Project) - Predicting stock market movement with EDA and Keras
 - [ThisuriLekamge/Stock-Price-Prediction-on-Bitcoin-trading-data-using-LSTM-with-PyTorch](https://github.com/ThisuriLekamge/Stock-Price-Prediction-on-Bitcoin-trading-data-using-LSTM-with-PyTorch) - 
 - [selforglive/selforglive.github.io](https://github.com/selforglive/selforglive.github.io) - Self-Organizing Systems Workshop
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
