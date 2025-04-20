@@ -707,6 +707,7 @@
 
 ## go 
 
+- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - An encrypted file sharing and vault service for web and CLI
 - [flashmob/go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang
@@ -917,6 +918,7 @@
 
 ## javascript 
 
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [chipweinberger/ShaderToyLite.js](https://github.com/chipweinberger/ShaderToyLite.js) - A full-featured ShaderToy renderer in ~400 lines of code.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
@@ -1483,7 +1485,7 @@
 - [BachiLi/diffvg](https://github.com/BachiLi/diffvg) - Differentiable Vector Graphics Rasterization
 - [tianyoujian/MZDPI](https://github.com/tianyoujian/MZDPI) - 
 - [LingDong-/linedraw](https://github.com/LingDong-/linedraw) - Convert images to vectorized line drawings for plotters.
-- [arseniyturin/Capstone-Project](https://github.com/arseniyturin/Capstone-Project) - Predicting stock market movement with EDA and Keras
+- [arsenyturin/Capstone-Project](https://github.com/arsenyturin/Capstone-Project) - Predicting stock market movement with EDA and Keras
 - [ThisuriLekamge/Stock-Price-Prediction-on-Bitcoin-trading-data-using-LSTM-with-PyTorch](https://github.com/ThisuriLekamge/Stock-Price-Prediction-on-Bitcoin-trading-data-using-LSTM-with-PyTorch) - 
 - [dfrankland/bluster](https://github.com/dfrankland/bluster) - A Rust crate for implementing BLE (Bluetooth Low Energy) peripherals
 - [noble/bleno](https://github.com/noble/bleno) - A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals
