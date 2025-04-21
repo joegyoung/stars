@@ -918,7 +918,7 @@
 
 ## javascript 
 
-- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [chipweinberger/ShaderToyLite.js](https://github.com/chipweinberger/ShaderToyLite.js) - A full-featured ShaderToy renderer in ~400 lines of code.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
@@ -2353,6 +2353,7 @@
 
 ## web 
 
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work
 - [SajadTroy/websico](https://github.com/SajadTroy/websico) - A lightweight and flexible web server framework for Node.js.
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
