@@ -231,7 +231,7 @@
 
 ## analytics 
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
@@ -2193,7 +2193,7 @@
 
 ## statistics 
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [TuxCoding/Minefana](https://github.com/TuxCoding/Minefana) - Bungee/Spigot plugin to send stats to a InfluxDB to be displayed by a Grafana instance.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
