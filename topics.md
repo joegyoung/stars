@@ -1329,6 +1329,7 @@
 
 ## others 
 
+- [RockwellShah/filekey](https://github.com/RockwellShah/filekey) - Filekey: Encrypt and share files securely with passkeys. Fully offline, easy-to-use, and zero-knowledge for ultimate file protection.
 - [L-Eugene/proxmox-api](https://github.com/L-Eugene/proxmox-api) - Ruby wrapper for Proxmox REST API
 - [AmeelMD/proxmox-ascii-dashboard](https://github.com/AmeelMD/proxmox-ascii-dashboard) - A lightweight ASCII dashboard screensaver for Proxmox VE servers with real-time stats.
 - [NX211/traefik-proxmox-provider](https://github.com/NX211/traefik-proxmox-provider) - A Traefik provider plugin that automatically configures routing based on Proxmox VE virtual machines and containers
