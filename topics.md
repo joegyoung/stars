@@ -437,6 +437,7 @@
 
 ## cryptography 
 
+- [privy-io/shamir-secret-sharing](https://github.com/privy-io/shamir-secret-sharing) - Simple, independently audited, zero-dependency TypeScript implementation of Shamir's Secret Sharing algorithm
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - An encrypted file sharing and vault service for web and CLI
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -1248,6 +1249,7 @@
 
 ## node 
 
+- [privy-io/shamir-secret-sharing](https://github.com/privy-io/shamir-secret-sharing) - Simple, independently audited, zero-dependency TypeScript implementation of Shamir's Secret Sharing algorithm
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
@@ -2326,6 +2328,7 @@
 
 ## typescript 
 
+- [privy-io/shamir-secret-sharing](https://github.com/privy-io/shamir-secret-sharing) - Simple, independently audited, zero-dependency TypeScript implementation of Shamir's Secret Sharing algorithm
 - [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-Hosted, Personal Music Server, designed for collectors and music maniacs
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - An encrypted file sharing and vault service for web and CLI
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
