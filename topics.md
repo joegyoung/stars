@@ -249,7 +249,7 @@
 
 ## api 
 
-- [ghoshRitesh12/aniwatch-api](https://github.com/ghoshRitesh12/aniwatch-api) - Node.js API for obtaining anime information from https://hianimez.to
+- [ghoshRitesh12/aniwatch-api](https://github.com/ghoshRitesh12/aniwatch-api) - Node.js API for obtaining anime data from https://hianimez.to/home
 - [SajadTroy/websico](https://github.com/SajadTroy/websico) - A lightweight and flexible web server framework for Node.js.
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
