@@ -223,7 +223,6 @@
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [SAP/cloud-active-defense](https://github.com/SAP/cloud-active-defense) - Add a layer of active defense to your cloud applications.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
 - [zhaow-de/pam-keycloak-oidc](https://github.com/zhaow-de/pam-keycloak-oidc) - PAM module connecting to Keycloak for user authentication using OpenID Connect/OAuth2, with MFA/2FA/TOTP support
@@ -335,6 +334,7 @@
 - [built-by-as/FastDigest](https://github.com/built-by-as/FastDigest) - summarize HackerNews comments using AI and LLMs
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [bluepuma77/traefik-best-practice](https://github.com/bluepuma77/traefik-best-practice) - Traefik templates for various use cases
+- [SAP/cloud-active-defense](https://github.com/SAP/cloud-active-defense) - Add a layer of active defense to your cloud applications.
 - [anthonybudd/s3-from-scratch](https://github.com/anthonybudd/s3-from-scratch) - A guide on how to build AWS S3 from scratch on bare-metal using an exclusively open-source technology stack.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [SajadTroy/websico](https://github.com/SajadTroy/websico) - A lightweight and flexible web server framework for Node.js.
