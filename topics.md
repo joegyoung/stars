@@ -142,6 +142,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [pwa](#pwa)
@@ -1819,6 +1820,11 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
+
+## productivity 
+
+- [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
 ## programming 
 
