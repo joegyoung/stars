@@ -561,7 +561,7 @@
 - [rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon) - A curated list of awesome Bluetooth beacon software and tools.
 - [MCMaize/Schematics](https://github.com/MCMaize/Schematics) - Minecraft Schematics - Vanilla & Edu
 - [delight-im/Knowledge](https://github.com/delight-im/Knowledge) - Random pieces of knowledge — with anecdotes and quotes
-- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [yoshuawuyts/knowledge](https://github.com/yoshuawuyts/knowledge) - notes on things
