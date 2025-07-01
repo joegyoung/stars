@@ -86,6 +86,7 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -259,7 +260,7 @@
 - [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
-- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 
 ## arduino 
 
@@ -919,6 +920,11 @@
 - [eashish93/imgsquash](https://github.com/eashish93/imgsquash) - Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice.
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 
+## information-gathering 
+
+- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+
 ## ios 
 
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
@@ -1343,6 +1349,7 @@
 
 ## others 
 
+- [derekburgess/dungen](https://github.com/derekburgess/dungen) - 
 - [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
 - [SelinaDev/Godot-Roguelike-Tutorial](https://github.com/SelinaDev/Godot-Roguelike-Tutorial) - Yet Another Roguelike Tutorial in Godot
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
@@ -2144,7 +2151,7 @@
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [PagerDuty/security-training](https://github.com/PagerDuty/security-training) - Public version of PagerDuty's employee security training courses.
 - [jamf/CIS-for-macOS-Sierra](https://github.com/jamf/CIS-for-macOS-Sierra) - 
-- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 
 ## security-tools 
 
