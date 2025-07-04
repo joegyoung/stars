@@ -502,7 +502,7 @@
 
 ## Objective-C 
 
-- [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - For Mac users in enterprise environments, this application gives users control over the administration of their machine by elevating their level of access to administrator privileges on macOS.  Users 
+- [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - This application gives Mac users in enterprise environments control over the administration of their machines by elevating their access level to administrator privileges on macOS. Users can set a time
 - [Waitsnake/AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - A screensaver for Mac OSX / macOS that plays animated GIFs and APNGs
 - [rharder/imagesnap](https://github.com/rharder/imagesnap) - Capture Images from the Command Line
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
