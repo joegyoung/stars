@@ -173,6 +173,7 @@
 
 ## GDScript 
 
+- [yannlemos/Signal-Lens](https://github.com/yannlemos/Signal-Lens) - A visual debugger for Godot's signals. Plugin for Godot 4.3 and 4.4.
 - [SelinaDev/Godot-Roguelike-Tutorial](https://github.com/SelinaDev/Godot-Roguelike-Tutorial) - Yet Another Roguelike Tutorial in Godot
 - [anthonyec/godot_little_camera_preview](https://github.com/anthonyec/godot_little_camera_preview) - 🎥 Picture-in-picture style preview for both 2D and 3D cameras
 - [gtibo/blog-notebook](https://github.com/gtibo/blog-notebook) - Blog notebook source code
@@ -297,6 +298,7 @@
 
 ## Java 
 
+- [Exceptionflug/protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord / Velocity protocol framework supporting items
 - [BentoBoxWorld/BentoBox](https://github.com/BentoBoxWorld/BentoBox) - Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [dasniko/keycloak-2fa-sms-authenticator](https://github.com/dasniko/keycloak-2fa-sms-authenticator) - Keycloak Authentication Provider implementation to get a 2nd-factor authentication with a OTP/code/token send via SMS (through AWS SNS). Demo purposes only!
