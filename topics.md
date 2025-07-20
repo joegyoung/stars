@@ -29,6 +29,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cms](#cms)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -411,6 +412,10 @@
 ## clojure 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+## cms 
+
+- [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 
 ## compiler 
 
@@ -1351,6 +1356,11 @@
 
 ## others 
 
+- [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
+- [Zero-Sploit/FlipperZero-Subghz-DB](https://github.com/Zero-Sploit/FlipperZero-Subghz-DB) - A collection of Flipper Zero sub files
+- [DRA6N/SubGhz_Cust_Serv](https://github.com/DRA6N/SubGhz_Cust_Serv) - A library of customer service buttons for Flipper Zero
+- [hackertarget/pcap-did-what](https://github.com/hackertarget/pcap-did-what) - Analyze pcaps with Zeek and a Grafana Dashboard
+- [zeek/zeek-training](https://github.com/zeek/zeek-training) - Zeek Training Materials/Products
 - [Exceptionflug/protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord / Velocity protocol framework supporting items
 - [yannlemos/Signal-Lens](https://github.com/yannlemos/Signal-Lens) - A visual debugger for Godot's signals. Plugin for Godot 4.3 and 4.4.
 - [derekburgess/dungen](https://github.com/derekburgess/dungen) - 
@@ -1450,7 +1460,7 @@
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 - [redphx/apixoo](https://github.com/redphx/apixoo) - Python package to interact with Divoom Pixoo app's server
 - [Lesabotsy/bootcamp](https://github.com/Lesabotsy/bootcamp) - 
-- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - Universal MS Key Toolkit
+- [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - An open source toolkit designed to generate licence keys for MS products circa 1998 - 2006
 - [jangaraj/vuetify-keycloak-theme](https://github.com/jangaraj/vuetify-keycloak-theme) - Proof of concept: how to use Vuetify in Keycloak theme
 - [silvercrow/waveshare-2.13inch_e-Paper](https://github.com/silvercrow/waveshare-2.13inch_e-Paper) - 
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
@@ -2122,6 +2132,7 @@
 
 ## security 
 
+- [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
