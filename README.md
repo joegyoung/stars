@@ -67,6 +67,7 @@
 
 ## C 
 
+- [IanMercer/pi-sniffer](https://github.com/IanMercer/pi-sniffer) - Sniffer for Bluetooth LE on Raspberry Pi
 - [astefanutti/kms-glsl](https://github.com/astefanutti/kms-glsl) - CLI that runs OpenGL fragment shaders using the DRM/KMS Linux kernel subsystem
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
 - [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
@@ -206,6 +207,7 @@
 
 ## Go 
 
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [NX211/traefik-proxmox-provider](https://github.com/NX211/traefik-proxmox-provider) - A Traefik provider plugin that automatically configures routing based on Proxmox VE virtual machines and containers
@@ -300,6 +302,7 @@
 
 ## Java 
 
+- [DevLeoko/AdvancedBan](https://github.com/DevLeoko/AdvancedBan) - AdvancedBan is a Spigot plugin to manage punishments on single servers and server networks
 - [liebki/SimplePushEvents](https://github.com/liebki/SimplePushEvents) - Stay informed with free real-time Minecraft server push notifications using SimplePushEvents!
 - [Exceptionflug/protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord / Velocity protocol framework supporting items
 - [BentoBoxWorld/BentoBox](https://github.com/BentoBoxWorld/BentoBox) - Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland.
@@ -746,6 +749,7 @@
 
 ## Ruby 
 
+- [johnae/sambal](https://github.com/johnae/sambal) - Ruby Samba Client
 - [postmodern/python-pickle.rb](https://github.com/postmodern/python-pickle.rb) - A modern Ruby implementation of the Python Pickle serialization format.
 - [ledermann/pingcrm](https://github.com/ledermann/pingcrm) - PingCRM on Rails - A Ruby on Rails demo application to illustrate how Inertia.js works
 - [L-Eugene/proxmox-api](https://github.com/L-Eugene/proxmox-api) - Ruby wrapper for Proxmox REST API
@@ -936,6 +940,7 @@
 
 ## Svelte 
 
+- [DevLeoko/license-gate](https://github.com/DevLeoko/license-gate) - License and API key management tool and validation API for developers
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
