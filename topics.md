@@ -952,6 +952,7 @@
 
 ## java 
 
+- [cervinakuy/KitPvP](https://github.com/cervinakuy/KitPvP) - An all-in-one battle plugin built using customizable kits and features.
 - [liebki/SimplePushEvents](https://github.com/liebki/SimplePushEvents) - Stay informed with free real-time Minecraft server push notifications using SimplePushEvents!
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
@@ -1201,6 +1202,7 @@
 
 ## minecraft 
 
+- [cervinakuy/KitPvP](https://github.com/cervinakuy/KitPvP) - An all-in-one battle plugin built using customizable kits and features.
 - [liebki/SimplePushEvents](https://github.com/liebki/SimplePushEvents) - Stay informed with free real-time Minecraft server push notifications using SimplePushEvents!
 - [BentoBoxWorld/BentoBox](https://github.com/BentoBoxWorld/BentoBox) - Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland.
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
