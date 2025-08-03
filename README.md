@@ -207,6 +207,7 @@
 
 ## Go 
 
+- [eargollo/smartthings-influx](https://github.com/eargollo/smartthings-influx) - A simple program to bring to Influx your SmartThings data through the SmartThings API. No SmartApp installation needed.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
@@ -417,6 +418,7 @@
 - [alexpeattie/xdog-sketch](https://github.com/alexpeattie/xdog-sketch) - Non-photorealistic, sketch style rendering in the browser with deeplearn.js + React 🎨
 - [rcdexta/react-event-timeline](https://github.com/rcdexta/react-event-timeline) - A responsive event timeline in React.js
 - [lllyasviel/style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
+- [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [dchest/nacl-stream-js](https://github.com/dchest/nacl-stream-js) - Streaming encryption based on TweetNaCl.js
 - [digitalie/one-loader](https://github.com/digitalie/one-loader) - Single-file components for React
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
@@ -928,7 +930,6 @@
 - [orlikoski/Skadi](https://github.com/orlikoski/Skadi) - Collect, Process, and Hunt with host based data from MacOS, Windows, and Linux
 - [wishbone1138/wan_ip_watchdog](https://github.com/wishbone1138/wan_ip_watchdog) - Simple wan ip change email alert system.
 - [PagerDuty/security-training](https://github.com/PagerDuty/security-training) - Public version of PagerDuty's employee security training courses.
-- [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [nolim1t/linux-ibeacon](https://github.com/nolim1t/linux-ibeacon) - Broadcasting an iBeacon using Linux device (i.e. Raspberry pi) and BLE dongle
 - [franton/CIS-Apple-Security-Casper](https://github.com/franton/CIS-Apple-Security-Casper) - Basic examples of scripts and EA's to implement the CIS Apple Security guidelines
 - [jamf/CIS-for-macOS-Sierra](https://github.com/jamf/CIS-for-macOS-Sierra) - 
