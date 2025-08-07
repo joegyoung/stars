@@ -836,7 +836,7 @@
 - [emerose/pbkdf2-ruby](https://github.com/emerose/pbkdf2-ruby) - Password Based Key Derivation Function 2 (PBKDF2) for Ruby
 - [netlify/jekyll-srcset](https://github.com/netlify/jekyll-srcset) - Dead simple responsive images for jekyll
 - [Ibsciss/ruby-middleware](https://github.com/Ibsciss/ruby-middleware) - Middleware is a library which provides a generalized implementation of the chain of responsibility pattern for Ruby to build generic middleware stack
-- [hallidave/ruby-snmp](https://github.com/hallidave/ruby-snmp) - A Ruby implementation of SNMP (the Simple Network Management Protocol).
+- [ruby-snmp/ruby-snmp](https://github.com/ruby-snmp/ruby-snmp) - A Ruby implementation of SNMP (the Simple Network Management Protocol).
 - [cheind/rmds](https://github.com/cheind/rmds) - Ruby Multidimensional Scaling Library
 - [mattt/sinatra-param](https://github.com/mattt/sinatra-param) - Parameter Validation & Type Coercion for Sinatra
 - [gurgeous/simhilarity](https://github.com/gurgeous/simhilarity) - Measure text similarity using weighted ngrams.
