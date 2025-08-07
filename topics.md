@@ -256,7 +256,7 @@
 ## api 
 
 - [DevLeoko/license-gate](https://github.com/DevLeoko/license-gate) - License and API key management tool and validation API for developers
-- [ghoshRitesh12/aniwatch-api](https://github.com/ghoshRitesh12/aniwatch-api) - NodeJS API for obtaining anime data from https://hianime.to, served by https://github.com/ghoshRitesh12/aniwatch
+- [ghoshRitesh12/aniwatch-api](https://github.com/ghoshRitesh12/aniwatch-api) - NodeJS API for obtaining anime data from https://hianime.to
 - [SajadTroy/websico](https://github.com/SajadTroy/websico) - A lightweight and flexible web server framework for Node.js.
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -2114,7 +2114,7 @@
 - [ruby-docx/docx](https://github.com/ruby-docx/docx) - a ruby library/gem for interacting with .docx files
 - [shrinerb/shrine](https://github.com/shrinerb/shrine) - File Attachment toolkit for Ruby applications
 - [Ibsciss/ruby-middleware](https://github.com/Ibsciss/ruby-middleware) - Middleware is a library which provides a generalized implementation of the chain of responsibility pattern for Ruby to build generic middleware stack
-- [hallidave/ruby-snmp](https://github.com/hallidave/ruby-snmp) - A Ruby implementation of SNMP (the Simple Network Management Protocol).
+- [ruby-snmp/ruby-snmp](https://github.com/ruby-snmp/ruby-snmp) - A Ruby implementation of SNMP (the Simple Network Management Protocol).
 - [mattt/sinatra-param](https://github.com/mattt/sinatra-param) - Parameter Validation & Type Coercion for Sinatra
 - [fazibear/colorize](https://github.com/fazibear/colorize) - Ruby string class extension. It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
 - [igrigorik/decisiontree](https://github.com/igrigorik/decisiontree) - ID3-based implementation of the ML Decision Tree algorithm
