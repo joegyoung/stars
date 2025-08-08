@@ -207,6 +207,7 @@
 
 ## Go 
 
+- [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
 - [eargollo/smartthings-influx](https://github.com/eargollo/smartthings-influx) - A simple program to bring to Influx your SmartThings data through the SmartThings API. No SmartApp installation needed.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
@@ -962,6 +963,8 @@
 
 ## TypeScript 
 
+- [Kanba-co/kanba](https://github.com/Kanba-co/kanba) - Kanba is an open-source project management tool for modern teams. Join the Slack channel:  https://join.slack.com/t/kanbaoss/shared_invite/zt-3arterrb5-IF4SwUUvkrs~eZmzuQptKQ
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
 - [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours.
