@@ -140,6 +140,7 @@
 - [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
+- [physics](#physics)
 - [pico-8](#pico-8)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
@@ -1377,7 +1378,6 @@
 - [DevLeoko/AdvancedBan](https://github.com/DevLeoko/AdvancedBan) - AdvancedBan is a Spigot plugin to manage punishments on single servers and server networks
 - [IanMercer/pi-sniffer](https://github.com/IanMercer/pi-sniffer) - Sniffer for Bluetooth LE on Raspberry Pi
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
-- [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
 - [Zero-Sploit/FlipperZero-Subghz-DB](https://github.com/Zero-Sploit/FlipperZero-Subghz-DB) - A collection of Flipper Zero sub files
 - [DRA6N/SubGhz_Cust_Serv](https://github.com/DRA6N/SubGhz_Cust_Serv) - A library of customer service buttons for Flipper Zero
 - [hackertarget/pcap-did-what](https://github.com/hackertarget/pcap-did-what) - Analyze pcaps with Zeek and a Grafana Dashboard
@@ -1421,7 +1421,6 @@
 - [BattermanZ/FlareSync](https://github.com/BattermanZ/FlareSync) - A simple Rust app to update automatically your DNS records on Cloudflare
 - [Praqma/smallstep-ca-demo](https://github.com/Praqma/smallstep-ca-demo) - Demo showing how to provide a behind the firewall Certificate Authority for development environments.
 - [TheoGil/interactive-plants](https://github.com/TheoGil/interactive-plants) - Generative plants and flowers.
-- [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
 - [pielgrzym/paper-terminal](https://github.com/pielgrzym/paper-terminal) - Terminal emulator for Waveshare 2.9inch e-paper display
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [aboutsecurity/blueteam_homelabs](https://github.com/aboutsecurity/blueteam_homelabs) - Great List of Resources to Build an Enterprise Grade Home Lab
@@ -1826,6 +1825,11 @@
 - [andreapaiola/P2P-CDN](https://github.com/andreapaiola/P2P-CDN) - WebTorrent CDN with graceful degradation
 - [dannyvankooten/AltoRouter](https://github.com/dannyvankooten/AltoRouter) - PHP routing class. Lightweight yet flexible. Supports REST, dynamic and reversed routing.
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
+## physics 
+
+- [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
+- [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
 
 ## pico-8 
 
