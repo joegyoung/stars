@@ -1729,7 +1729,7 @@
 - [JoseTomasTocino/mindmapit](https://github.com/JoseTomasTocino/mindmapit) - Simple web tool to create mindmaps
 - [ErikvdVen/php-gif](https://github.com/ErikvdVen/php-gif) - Easy generating (real-time) GIF images with PHP
 - [diasks2/ruby-nlp](https://github.com/diasks2/ruby-nlp) - A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software
-- [merit-gem/merit](https://github.com/merit-gem/merit) - Reputation engine for Rails apps
+- [tute/merit](https://github.com/tute/merit) - Reputation engine for Rails apps
 - [jfairbank/chroma](https://github.com/jfairbank/chroma) - Ruby gem for color manipulation and palette generation
 - [thoughtfulml/examples](https://github.com/thoughtfulml/examples) - examples from "Thoughtful Machine Learning"
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
@@ -2405,6 +2405,7 @@
 
 ## text-to-speech 
 
+- [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 
