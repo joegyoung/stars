@@ -615,6 +615,7 @@
 
 ## Python 
 
+- [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [Zero-Sploit/FlipperZero-Subghz-DB](https://github.com/Zero-Sploit/FlipperZero-Subghz-DB) - A collection of Flipper Zero sub files
 - [hackertarget/pcap-did-what](https://github.com/hackertarget/pcap-did-what) - Analyze pcaps with Zeek and a Grafana Dashboard
@@ -826,7 +827,7 @@
 - [irfansharif/cerebrum](https://github.com/irfansharif/cerebrum) - Artificial Neural Networks (ANN's) in Ruby (unmaintained, unfortunately)
 - [piotrmurach/tty-prompt](https://github.com/piotrmurach/tty-prompt) - A beautiful and powerful interactive command line prompt
 - [maetl/calyx](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
-- [merit-gem/merit](https://github.com/merit-gem/merit) - Reputation engine for Rails apps
+- [tute/merit](https://github.com/tute/merit) - Reputation engine for Rails apps
 - [josephwilk/rsemantic](https://github.com/josephwilk/rsemantic) - A document vector search with flexible matrix transforms. Currently supports Latent semantic analysis and Term frequency - inverse document frequency
 - [ruby-docx/docx](https://github.com/ruby-docx/docx) - a ruby library/gem for interacting with .docx files
 - [jfairbank/chroma](https://github.com/jfairbank/chroma) - Ruby gem for color manipulation and palette generation
