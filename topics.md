@@ -1274,7 +1274,6 @@
 
 ## nextjs 
 
-- [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -1512,7 +1511,7 @@
 - [daviscodesbugs/aax-converter](https://github.com/daviscodesbugs/aax-converter) - Convert Audible AAX files to other audio formats
 - [mczerniawski/Active-Directory-CheckList](https://github.com/mczerniawski/Active-Directory-CheckList) - A repo for documents containing curated list of health and (in the future security) checks to be run against a Windows Active-Directory domain
 - [stayradiated/pandora](https://github.com/stayradiated/pandora) - Export all pandora stations + faves to JSON
-- [iheanyi/bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Simple python script to download Bandcamp albums
+- [Evolution0/bandcamp-dl](https://github.com/Evolution0/bandcamp-dl) - Simple python script to download Bandcamp albums
 - [excalidraw/svg-to-excalidraw](https://github.com/excalidraw/svg-to-excalidraw) - Convert SVGs into Excalidraw data
 - [thecatcore/Fabric---Discord-Link](https://github.com/thecatcore/Fabric---Discord-Link) - 
 - [VirusFriendly/SSHapendoes](https://github.com/VirusFriendly/SSHapendoes) - Capture passwords of login attempts on non-existent and disabled accounts.
