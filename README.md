@@ -621,6 +621,7 @@
 
 ## Python 
 
+- [brookst/otpauth_migrate](https://github.com/brookst/otpauth_migrate) - Decode secret from otpauth-migrate data in Google Authenticator QR code exports
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [Zero-Sploit/FlipperZero-Subghz-DB](https://github.com/Zero-Sploit/FlipperZero-Subghz-DB) - A collection of Flipper Zero sub files
@@ -875,7 +876,7 @@
 ## Rust 
 
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
-- [junkdog/tachyonfx](https://github.com/junkdog/tachyonfx) - shader-like effects library for ratatui applications
+- [junkdog/tachyonfx](https://github.com/junkdog/tachyonfx) - Effects and animation library for Ratatui applications
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [BattermanZ/FlareSync](https://github.com/BattermanZ/FlareSync) - A simple Rust app to update automatically your DNS records on Cloudflare
 - [stevenpack/asroute](https://github.com/stevenpack/asroute) - Interpret traceroute output to show names of ASN traversed
