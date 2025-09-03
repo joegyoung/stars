@@ -621,6 +621,7 @@
 
 ## Python 
 
+- [jwolf842/mbox-email-viewer](https://github.com/jwolf842/mbox-email-viewer) - Windows desktop application for viewing and extracting emails from MBOX files
 - [brookst/otpauth_migrate](https://github.com/brookst/otpauth_migrate) - Decode secret from otpauth-migrate data in Google Authenticator QR code exports
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
@@ -969,6 +970,7 @@
 
 ## TypeScript 
 
+- [chrsptn/mbox-viewer](https://github.com/chrsptn/mbox-viewer) - A simple web app for viewing and navigating the contents of .mbox files
 - [cisagov/playbook-ng](https://github.com/cisagov/playbook-ng) - Playbook-NG is a stateless web-based application used to match incident findings with countermeasures for adversary containment and eviction.
 - [Kanba-co/kanba](https://github.com/Kanba-co/kanba) - Kanba is an open-source project management tool for modern teams.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
