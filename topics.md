@@ -1380,6 +1380,10 @@
 
 ## others 
 
+- [hspazio/hermes](https://github.com/hspazio/hermes) - Simple Sinatra PubSub Hub
+- [Mark24Code/sinatra-websocket-example](https://github.com/Mark24Code/sinatra-websocket-example) - Sinatra websocket example ( Ruby 3 + Puma + faye-websocket + Websocket DSL )
+- [sumitdey035/sinatra-faye-example](https://github.com/sumitdey035/sinatra-faye-example) - 
+- [rails/action_push_native](https://github.com/rails/action_push_native) - Rails push notifications for mobile platforms
 - [jwolf842/mbox-email-viewer](https://github.com/jwolf842/mbox-email-viewer) - Windows desktop application for viewing and extracting emails from MBOX files
 - [chrsptn/mbox-viewer](https://github.com/chrsptn/mbox-viewer) - A simple web app for viewing and navigating the contents of .mbox files
 - [brookst/otpauth_migrate](https://github.com/brookst/otpauth_migrate) - Decode secret from otpauth-migrate data in Google Authenticator QR code exports
