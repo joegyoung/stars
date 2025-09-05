@@ -760,6 +760,9 @@
 
 ## Ruby 
 
+- [hspazio/hermes](https://github.com/hspazio/hermes) - Simple Sinatra PubSub Hub
+- [Mark24Code/sinatra-websocket-example](https://github.com/Mark24Code/sinatra-websocket-example) - Sinatra websocket example ( Ruby 3 + Puma + faye-websocket + Websocket DSL )
+- [sumitdey035/sinatra-faye-example](https://github.com/sumitdey035/sinatra-faye-example) - 
 - [rails/action_push_native](https://github.com/rails/action_push_native) - Rails push notifications for mobile platforms
 - [johnae/sambal](https://github.com/johnae/sambal) - Ruby Samba Client
 - [postmodern/python-pickle.rb](https://github.com/postmodern/python-pickle.rb) - A modern Ruby implementation of the Python Pickle serialization format.
