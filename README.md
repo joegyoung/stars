@@ -519,6 +519,7 @@
 
 ## Objective-C 
 
+- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - This application gives Mac users in enterprise environments control over the administration of their machines by elevating their access level to administrator privileges on macOS. Users can set a time
 - [Waitsnake/AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - A screensaver for Mac OSX / macOS that plays animated GIFs and APNGs
 - [rharder/imagesnap](https://github.com/rharder/imagesnap) - Capture Images from the Command Line
