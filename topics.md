@@ -1380,6 +1380,9 @@
 
 ## others 
 
+- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - A secure, sovereign, and affordable open-source platform for email archiving and eDiscovery.
+- [Psmths/esxi-log-parser](https://github.com/Psmths/esxi-log-parser) - Single-shot parser for ESXi logs that produces annotated timelines of interesting events.
 - [hspazio/hermes](https://github.com/hspazio/hermes) - Simple Sinatra PubSub Hub
 - [Mark24Code/sinatra-websocket-example](https://github.com/Mark24Code/sinatra-websocket-example) - Sinatra websocket example ( Ruby 3 + Puma + faye-websocket + Websocket DSL )
 - [sumitdey035/sinatra-faye-example](https://github.com/sumitdey035/sinatra-faye-example) - 
