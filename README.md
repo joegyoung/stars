@@ -895,6 +895,7 @@
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [hackclub/ktr](https://github.com/hackclub/ktr) - Kog traceroute. Highly asynchronous traceroute program written in Rust with ASN WHOIS and PeeringDB lookups.
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [w4/pisshoff](https://github.com/w4/pisshoff) - 🧸 fully isolated honeypot ssh server using thrussh
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
@@ -1006,7 +1007,6 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [excalidraw/excalidraw-room](https://github.com/excalidraw/excalidraw-room) - 
 - [suren-atoyan/react-pwa](https://github.com/suren-atoyan/react-pwa) - Starter kit for modern web applications
