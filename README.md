@@ -763,6 +763,7 @@
 
 ## Ruby 
 
+- [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [hspazio/hermes](https://github.com/hspazio/hermes) - Simple Sinatra PubSub Hub
 - [Mark24Code/sinatra-websocket-example](https://github.com/Mark24Code/sinatra-websocket-example) - Sinatra websocket example ( Ruby 3 + Puma + faye-websocket + Websocket DSL )
 - [sumitdey035/sinatra-faye-example](https://github.com/sumitdey035/sinatra-faye-example) - 
@@ -969,7 +970,7 @@
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [SuprHackerSteve/Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
 - [tuxu/nbviewer-app](https://github.com/tuxu/nbviewer-app) - A Jupyter notebook viewer for macOS
 - [ankitshekhawat/SuspendedAnimation](https://github.com/ankitshekhawat/SuspendedAnimation) - A macOS Screensaver that pull cinemagraphs from Reddit
