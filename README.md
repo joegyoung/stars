@@ -613,6 +613,7 @@
 
 ## PowerShell 
 
+- [ntdevlabs/nano11](https://github.com/ntdevlabs/nano11) - Script to build possibly the most trimmed-down Windows 11 experience.
 - [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 11, Windows 10, Windows Server 2022, 2019, 2016, also with Docker
 - [IGLADI/Pi-DNStack](https://github.com/IGLADI/Pi-DNStack) - Pi-DNStack is an automated solution for deploying a containerized DNS management stack, including Pi-hole, Unbound, and Cloudflared.
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
