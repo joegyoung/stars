@@ -176,7 +176,7 @@
 
 ## GDScript 
 
-- [yannlemos/Signal-Lens](https://github.com/yannlemos/Signal-Lens) - A visual debugger for Godot's signals. Plugin for Godot 4.3 and 4.4.
+- [yannlemos/Signal-Lens](https://github.com/yannlemos/Signal-Lens) - A visual debugger for Godot's signals. Plugin for Godot 4.3+
 - [SelinaDev/Godot-Roguelike-Tutorial](https://github.com/SelinaDev/Godot-Roguelike-Tutorial) - Yet Another Roguelike Tutorial in Godot
 - [anthonyec/godot_little_camera_preview](https://github.com/anthonyec/godot_little_camera_preview) - 🎥 Picture-in-picture style preview for both 2D and 3D cameras
 - [gtibo/blog-notebook](https://github.com/gtibo/blog-notebook) - Blog notebook source code
