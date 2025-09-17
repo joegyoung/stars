@@ -1409,7 +1409,7 @@
 - [hackertarget/pcap-did-what](https://github.com/hackertarget/pcap-did-what) - Analyze pcaps with Zeek and a Grafana Dashboard
 - [zeek/zeek-training](https://github.com/zeek/zeek-training) - Zeek Training Materials/Products
 - [Exceptionflug/protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord / Velocity protocol framework supporting items
-- [yannlemos/Signal-Lens](https://github.com/yannlemos/Signal-Lens) - A visual debugger for Godot's signals. Plugin for Godot 4.3 and 4.4.
+- [yannlemos/Signal-Lens](https://github.com/yannlemos/Signal-Lens) - A visual debugger for Godot's signals. Plugin for Godot 4.3+
 - [derekburgess/dungen](https://github.com/derekburgess/dungen) - 
 - [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
 - [SelinaDev/Godot-Roguelike-Tutorial](https://github.com/SelinaDev/Godot-Roguelike-Tutorial) - Yet Another Roguelike Tutorial in Godot
