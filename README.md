@@ -527,6 +527,7 @@
 
 ## Objective-C++ 
 
+- [thusvill/LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS) - This is a Opensource Live wallpaper solution for MacOS
 - [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
 
 ## Open Policy Agent 
