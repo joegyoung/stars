@@ -110,11 +110,12 @@
 
 ## C++ 
 
+- [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
 - [andrewchilicki/LumonMDR](https://github.com/andrewchilicki/LumonMDR) - Lumon's Macrodata Refinement application inspired by Apple TV's 'Severance'.
 - [bishoyh/mbox2eml](https://github.com/bishoyh/mbox2eml) - Simple tool to convert mbox file from google takeout to a folder of eml files
-- [WeSpeakEnglish/ANTIRTOS](https://github.com/WeSpeakEnglish/ANTIRTOS) - No RTOS need any more, you will see... Function pointers queues classes library for Arduino or any other platform. Use it anywhere. Manipulate your tasks in an easy and flexible way, keep your interru
+- [WeSpeakEnglish/ANTIRTOS](https://github.com/WeSpeakEnglish/ANTIRTOS) - Unleash your interrupts with ulta-fast task manager, tens of thousand push/pull TPS.  Your interrupts now ultra-fast. Add simpicity into your architecture.
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 - [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDExtension wrapper for SQLite (Godot 4.x+)
@@ -136,7 +137,6 @@
 - [JChristensen/Timer](https://github.com/JChristensen/Timer) - A fork of Simon Monk's Arduino Timer library
 - [ruby-opencv/ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) - Versioned fork of the OpenCV gem for Ruby
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF) - Free Lossless Image Format
 - [JCotton1123/PwdLdLibrary](https://github.com/JCotton1123/PwdLdLibrary) - Dynamically load Windows password filter
 
@@ -967,6 +967,7 @@
 
 ## Swift 
 
+- [maoyama/Tempo](https://github.com/maoyama/Tempo) - An open-source Git client for macOS
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
