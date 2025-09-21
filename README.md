@@ -96,6 +96,8 @@
 
 ## C# # 
 
+- [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import) - Import playlists from Spotify in Jellyfin
+- [jyourstone/jellyfin-smartplaylist-plugin](https://github.com/jyourstone/jellyfin-smartplaylist-plugin) - Create dynamic playlists in Jellyfin based on a set of rules, which will automatically update as your library changes.
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [zimbres/SSLTrack](https://github.com/zimbres/SSLTrack) - SSL certificate expiry monitoring with remote agent support
 - [sakakun/Proxmox-Desktop-Client](https://github.com/sakakun/Proxmox-Desktop-Client) - A windows desktop client for Proxmox.
@@ -335,6 +337,7 @@
 
 ## JavaScript 
 
+- [dai-shi/excalidraw-gallery](https://github.com/dai-shi/excalidraw-gallery) - A tool to display Excalidraw drawings
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [RockwellShah/filekey](https://github.com/RockwellShah/filekey) - Filekey: Encrypt and share files securely with passkeys. Fully offline, easy-to-use, and zero-knowledge for ultimate file protection.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -982,6 +985,7 @@
 
 ## TypeScript 
 
+- [NabilNYMansour/excalihub](https://github.com/NabilNYMansour/excalihub) - A platform for creating and sharing Excalidraw drawings
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for email archiving and eDiscovery.
 - [chrsptn/mbox-viewer](https://github.com/chrsptn/mbox-viewer) - A simple web app for viewing and navigating the contents of .mbox files
