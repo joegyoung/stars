@@ -637,7 +637,7 @@
 - [hackertarget/pcap-did-what](https://github.com/hackertarget/pcap-did-what) - Analyze pcaps with Zeek and a Grafana Dashboard
 - [derekburgess/dungen](https://github.com/derekburgess/dungen) - 
 - [AmeelMD/proxmox-ascii-dashboard](https://github.com/AmeelMD/proxmox-ascii-dashboard) - A lightweight ASCII dashboard screensaver for Proxmox VE servers with real-time stats.
-- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. A Load Balancer for Proxmox - and more!
+- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [tonyflo/facebook-download-photos](https://github.com/tonyflo/facebook-download-photos) - Download all of your Facebook photos
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [0x4D-5A/e-scraper](https://github.com/0x4D-5A/e-scraper) - Python script to extract unique email addresses from a list of domains using regular expression.
@@ -920,6 +920,7 @@
 
 ## Shell 
 
+- [ProfessionalGriefer/terminal-villager](https://github.com/ProfessionalGriefer/terminal-villager) - Play a Minecraft villager sound every time you make a typo
 - [cisagov/ansible-role-banner](https://github.com/cisagov/ansible-role-banner) - Ansible role for installing CISA banner text.
 - [cisagov/ansible-manage-user](https://github.com/cisagov/ansible-manage-user) - Ansible playbooks to manage a user account on a set of hosts
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
