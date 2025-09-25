@@ -283,7 +283,7 @@
 - [chipweinberger/ShaderToyLite.js](https://github.com/chipweinberger/ShaderToyLite.js) - A full-featured ShaderToy renderer in ~400 lines of code.
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
 - [idle-js-games/incremancer](https://github.com/idle-js-games/incremancer) - Idle Necromancer Game (Zombie Idle)@@@
-- [LuminesenceProject/LumiOS](https://github.com/LuminesenceProject/LumiOS) - LumiOS, an online OS that is built off of React+Typescript and can be run statically.
+- [FritzCohen/LumiOS](https://github.com/FritzCohen/LumiOS) - LumiOS, an online OS that is built off of React+Typescript and can be run statically.
 - [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 - [jangaraj/vuetify-keycloak-theme](https://github.com/jangaraj/vuetify-keycloak-theme) - Proof of concept: how to use Vuetify in Keycloak theme
@@ -920,7 +920,6 @@
 
 ## Shell 
 
-- [ProfessionalGriefer/terminal-villager](https://github.com/ProfessionalGriefer/terminal-villager) - Play a Minecraft villager sound every time you make a typo
 - [cisagov/ansible-role-banner](https://github.com/cisagov/ansible-role-banner) - Ansible role for installing CISA banner text.
 - [cisagov/ansible-manage-user](https://github.com/cisagov/ansible-manage-user) - Ansible playbooks to manage a user account on a set of hosts
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -1010,7 +1009,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-- [ghoshRitesh12/aniwatch-api](https://github.com/ghoshRitesh12/aniwatch-api) - NodeJS API for obtaining anime data from https://hianime.to
+- [ghoshRitesh12/aniwatch-api](https://github.com/ghoshRitesh12/aniwatch-api) - API serving anime data from hianime.to
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [aboutsecurity/attack-navigator-4.1](https://github.com/aboutsecurity/attack-navigator-4.1) - MITRE ATT&CK Navigator 4.1
