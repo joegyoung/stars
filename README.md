@@ -628,6 +628,7 @@
 
 ## Python 
 
+- [cassandra/home-information](https://github.com/cassandra/home-information) - Home Information - Your home, your data, organized.
 - [Psmths/esxi-log-parser](https://github.com/Psmths/esxi-log-parser) - Single-shot parser for ESXi logs that produces annotated timelines of interesting events.
 - [jwolf842/mbox-email-viewer](https://github.com/jwolf842/mbox-email-viewer) - Windows desktop application for viewing and extracting emails from MBOX files
 - [brookst/otpauth_migrate](https://github.com/brookst/otpauth_migrate) - Decode secret from otpauth-migrate data in Google Authenticator QR code exports
