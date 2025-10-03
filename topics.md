@@ -1485,7 +1485,6 @@
 - [enterprise-oss/sinatra-ruby-idp](https://github.com/enterprise-oss/sinatra-ruby-idp) - Sinatra app that acts as a simple IDP
 - [gaea-godot/gaea](https://github.com/gaea-godot/gaea) - Procedural generation add-on for Godot 4.
 - [syntruth/ADI](https://github.com/syntruth/ADI) - Active Directory Interface Ruby gem
-- [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 - [leigh-hackspace/arcade-cabinet](https://github.com/leigh-hackspace/arcade-cabinet) - Designs and files for Aracade Cabinet
 - [shomykohai/quest-system-example](https://github.com/shomykohai/quest-system-example) - A tutorial project for using QuestSystem in addition of Nathan's Dialogue Manager
 - [bluepuma77/traefik-best-practice](https://github.com/bluepuma77/traefik-best-practice) - Traefik templates for various use cases
