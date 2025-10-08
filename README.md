@@ -480,7 +480,7 @@
 
 ## Jupyter Notebook 
 
-- [norflin321/ml](https://github.com/norflin321/ml) - 🧠🤖💥
+- [tonku321/ml](https://github.com/tonku321/ml) - 🧠🤖💥
 - [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - Optimized Stable Diffusion modified to run on lower GPU VRAM
 - [einanao/stable-diffusion](https://github.com/einanao/stable-diffusion) - 
 - [arsenyturin/Capstone-Project](https://github.com/arsenyturin/Capstone-Project) - Predicting stock market movement with EDA and Keras
