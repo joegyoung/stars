@@ -61,6 +61,7 @@
 
 ## Batchfile 
 
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [Dir3ctr1x/EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) - An easy to use OEM:SLP activator for Windows Vista/7/Server 2008 (R2)/2012 (R2)/2016/2019/2022
 - [hello-smile6/NoVNC-windows](https://github.com/hello-smile6/NoVNC-windows) - 
@@ -337,6 +338,7 @@
 
 ## JavaScript 
 
+- [mandatoryprogrammer/thermoptic](https://github.com/mandatoryprogrammer/thermoptic) - A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across all layers of the stack.
 - [dai-shi/excalidraw-gallery](https://github.com/dai-shi/excalidraw-gallery) - A tool to display Excalidraw drawings
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [RockwellShah/filekey](https://github.com/RockwellShah/filekey) - Filekey: Encrypt and share files securely with passkeys. Fully offline, easy-to-use, and zero-knowledge for ultimate file protection.
