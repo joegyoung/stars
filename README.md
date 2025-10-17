@@ -215,7 +215,6 @@
 - [jittering/traefik-kop](https://github.com/jittering/traefik-kop) - A dynamic docker-&gt;redis-&gt;traefik discovery agent
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [phishingclub/phishingclub](https://github.com/phishingclub/phishingclub) - Self hosted phishing framework
-- [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
 - [eargollo/smartthings-influx](https://github.com/eargollo/smartthings-influx) - A simple program to bring to Influx your SmartThings data through the SmartThings API. No SmartApp installation needed.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
@@ -1001,6 +1000,7 @@
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [chrsptn/mbox-viewer](https://github.com/chrsptn/mbox-viewer) - A simple web app for viewing and navigating the contents of .mbox files
 - [cisagov/playbook-ng](https://github.com/cisagov/playbook-ng) - Playbook-NG is a stateless web-based application used to match incident findings with countermeasures for adversary containment and eviction.
+- [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
 - [Kanba-co/kanba](https://github.com/Kanba-co/kanba) - Kanba is an open-source project management tool for modern teams.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
