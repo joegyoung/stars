@@ -1570,7 +1570,7 @@
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [dogukancagatay/step-ca-example](https://github.com/dogukancagatay/step-ca-example) - step-ca ACME server example with Traefik
 - [dosammy/docker-portainer-stacks](https://github.com/dosammy/docker-portainer-stacks) - some simple docker-compose/portainer stack files
-- [IanTeda/docker_stacks](https://github.com/IanTeda/docker_stacks) - Collection of Portainer Stacks (Docker Compose) for my home NAS
+- [IanTeda/docker-stacks](https://github.com/IanTeda/docker-stacks) - Collection of Portainer Stacks (Docker Compose) for my home NAS
 - [Chevifier/QuestManager](https://github.com/Chevifier/QuestManager) - A Quest Manager plugin for making and managing quests in Godot 4
 - [sanjit-sinha/Animekaizoku-Scraper](https://github.com/sanjit-sinha/Animekaizoku-Scraper) - A script to scrape links from animekaizoku.com
 - [daviscodesbugs/aax-converter](https://github.com/daviscodesbugs/aax-converter) - Convert Audible AAX files to other audio formats
