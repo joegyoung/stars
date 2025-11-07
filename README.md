@@ -213,6 +213,7 @@
 
 ## Go 
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - opensource network management, observability and streaming analytics platform
 - [darylhjd/mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
 - [jittering/traefik-kop](https://github.com/jittering/traefik-kop) - A dynamic docker-&gt;redis-&gt;traefik discovery agent
@@ -507,6 +508,7 @@
 
 ## Kotlin 
 
+- [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Bukkit
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 
 ## Lua 
