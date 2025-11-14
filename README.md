@@ -958,7 +958,7 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [IanTeda/docker-stacks](https://github.com/IanTeda/docker-stacks) - Collection of Portainer Stacks (Docker Compose) for my home NAS
 - [Okazakee/DockerCraft](https://github.com/Okazakee/DockerCraft) - This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.
-- [gowthambalusamy/HLS-Blob-Video-Download](https://github.com/gowthambalusamy/HLS-Blob-Video-Download) - HLS Steaming Video Download / Blob Video Download
+- [g0x11/HLS-Blob-Video-Download](https://github.com/g0x11/HLS-Blob-Video-Download) - HLS Steaming Video Download / Blob Video Download
 - [joshua-d-miller/macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS) - Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows
 - [kost/docker-sift](https://github.com/kost/docker-sift) - Docker container of SANS Investigative Forensic Toolkit (SIFT) Workstation Version 3
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
