@@ -640,6 +640,7 @@
 
 ## Python 
 
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS and Lyrion. Using powerful tools like Librosa and ONNX, it performs sonic an
 - [asdfghj1237890/chrome2nas-m3u8](https://github.com/asdfghj1237890/chrome2nas-m3u8) - Seamlessly capture m3u8 video streams from Chrome and download them to your NAS
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
 - [cassandra/home-information](https://github.com/cassandra/home-information) - Home Information - Your home, your data, organized.
@@ -905,6 +906,7 @@
 
 ## Rust 
 
+- [mayanayza/netvisor](https://github.com/mayanayza/netvisor) - Automatically discover and visually document network infrastructure.
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [junkdog/tachyonfx](https://github.com/junkdog/tachyonfx) - Effects and animation library for Ratatui applications
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
