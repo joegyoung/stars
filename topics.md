@@ -1471,7 +1471,7 @@
 - [brookst/otpauth_migrate](https://github.com/brookst/otpauth_migrate) - Decode secrets from otpauth-migrate data in Google Authenticator QR code exports
 - [emortaldev/BlockPhysics](https://github.com/emortaldev/BlockPhysics) - A Minecraft physics playground made with Jolt and Minestom
 - [dkorecko/Ticky](https://github.com/dkorecko/Ticky) - Modern and free Kanban board app
-- [phishingclub/phishingclub](https://github.com/phishingclub/phishingclub) - The Phishing Framework
+- [phishingclub/phishingclub](https://github.com/phishingclub/phishingclub) - Simulation + AITM Proxy AIO Phishing Framework
 - [cisagov/playbook-ng](https://github.com/cisagov/playbook-ng) - Playbook-NG is a stateless web-based application used to match incident findings with countermeasures for adversary containment and eviction.
 - [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
 - [iUniker/Pi-Zero-3.5-Inch-Screen](https://github.com/iUniker/Pi-Zero-3.5-Inch-Screen) - 
