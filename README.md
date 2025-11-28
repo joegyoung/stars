@@ -219,7 +219,7 @@
 - [jittering/traefik-kop](https://github.com/jittering/traefik-kop) - A dynamic docker-&gt;redis-&gt;traefik discovery agent
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
-- [phishingclub/phishingclub](https://github.com/phishingclub/phishingclub) - The Phishing Framework
+- [phishingclub/phishingclub](https://github.com/phishingclub/phishingclub) - Simulation + AITM Proxy AIO Phishing Framework
 - [eargollo/smartthings-influx](https://github.com/eargollo/smartthings-influx) - A simple program to bring to Influx your SmartThings data through the SmartThings API. No SmartApp installation needed.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
