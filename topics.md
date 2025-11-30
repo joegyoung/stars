@@ -1445,6 +1445,7 @@
 
 ## others 
 
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Deezer, Qobuz & Amazon Music — no account required.
 - [PoochyEXE/PoochyEXE.github.io](https://github.com/PoochyEXE/PoochyEXE.github.io) - 
 - [hzeller/gmrender-resurrect](https://github.com/hzeller/gmrender-resurrect) - Resource efficient UPnP/DLNA renderer, optimal for Raspberry Pi, CuBox or a general MediaServer. Fork of GMediaRenderer to add some features to make it usable.
 - [hzeller/upnp-display](https://github.com/hzeller/upnp-display) - Display state of UPnP/DNLA renderer in the network with a 16x2 LCD display (or 24x2, 40x2 ..) connected to the Raspberry Pi. Unicode support (UTF-8).
