@@ -1447,6 +1447,7 @@
 
 ## others 
 
+- [endcycles/ffmpeg-engineering-handbook](https://github.com/endcycles/ffmpeg-engineering-handbook) - 
 - [TheWicklowWolf/ConvertBooks](https://github.com/TheWicklowWolf/ConvertBooks) - Convert eBooks to epub, mobi and/or awz3
 - [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Deezer, Qobuz & Amazon Music — no account required.
 - [PoochyEXE/PoochyEXE.github.io](https://github.com/PoochyEXE/PoochyEXE.github.io) - 
