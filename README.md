@@ -642,7 +642,7 @@
 
 - [TheWicklowWolf/ConvertBooks](https://github.com/TheWicklowWolf/ConvertBooks) - Convert eBooks to epub, mobi and/or awz3
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS and Lyrion. Using powerful tools like Librosa and ONNX, it performs sonic an
-- [asdfghj1237890/chrome2nas-m3u8](https://github.com/asdfghj1237890/chrome2nas-m3u8) - Seamlessly capture m3u8 video streams from Chrome and download them to your NAS
+- [asdfghj1237890/chrome2nas-m3u8](https://github.com/asdfghj1237890/chrome2nas-m3u8) - A lightweight Chrome-to-NAS pipeline for downloading and converting M3U8 streams. This project integrates a Chrome Extension with a NAS-hosted Docker backend (FastAPI + Workers + FFmpeg) to automatica
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
 - [cassandra/home-information](https://github.com/cassandra/home-information) - Home Information - Your home, your data, organized.
 - [Psmths/esxi-log-parser](https://github.com/Psmths/esxi-log-parser) - Single-shot parser for ESXi logs that produces annotated timelines of interesting events.
