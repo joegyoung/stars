@@ -385,7 +385,7 @@
 
 ## chrome 
 
-- [asdfghj1237890/chrome2nas-m3u8](https://github.com/asdfghj1237890/chrome2nas-m3u8) - Seamlessly capture m3u8 video streams from Chrome and download them to your NAS
+- [asdfghj1237890/chrome2nas-m3u8](https://github.com/asdfghj1237890/chrome2nas-m3u8) - A lightweight Chrome-to-NAS pipeline for downloading and converting M3U8 streams. This project integrates a Chrome Extension with a NAS-hosted Docker backend (FastAPI + Workers + FFmpeg) to automatica
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [globecyber/Infornito](https://github.com/globecyber/Infornito) - Extract forensic interesting information from Chrome, Firefox, Safari browsers ...
 - [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Web browser forensics for Google Chrome/Chromium
