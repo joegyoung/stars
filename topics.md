@@ -482,6 +482,7 @@
 
 ## crawler 
 
+- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for credential leaks on paste sites.
 
 ## cryptography 
@@ -1109,6 +1110,7 @@
 
 ## kubernetes 
 
+- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS and Lyrion. Using powerful tools like Librosa and ONNX, it performs sonic an
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
@@ -1471,6 +1473,9 @@
 
 ## others 
 
+- [cmcooper1980/dockge](https://github.com/cmcooper1980/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose stack-oriented manager forked from louislam/dockge that has had several Pull Requests merged.
+- [anoniemerd/PruneMate](https://github.com/anoniemerd/PruneMate) - PruneMate - Docker image & resource cleanup helper, on a schedule!
+- [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [jorgedlcruz/netapp_ontap-grafana](https://github.com/jorgedlcruz/netapp_ontap-grafana) - Grafana Dashboard that shows NetApp ONTAP information, and metrics, from the RESTful API
 - [jellyfin/jellyfin-plugin-webhook](https://github.com/jellyfin/jellyfin-plugin-webhook) - 
