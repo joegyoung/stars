@@ -285,7 +285,7 @@
 
 ## arduino 
 
-- [WeSpeakEnglish/ANTIRTOS](https://github.com/WeSpeakEnglish/ANTIRTOS) - Unleash your interrupts with ulta-fast task manager, tens of thousand push/pull TPS.  Your interrupts now ultra-fast. Add simpicity into your architecture.
+- [WeSpeakEnglish/ANTIRTOS](https://github.com/WeSpeakEnglish/ANTIRTOS) - Unleash your interrupts with an ultra-fast task manager, delivering tens of thousands of push/pull TPS even on simple MCUs. Interrupts stay blazing fast by enqueueing parameterized tasks instead of ex
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
 - [googlecreativelab/paper-signals](https://github.com/googlecreativelab/paper-signals) - Build your own voice controlled object.
@@ -482,7 +482,7 @@
 
 ## crawler 
 
-- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
+- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for credential leaks on paste sites.
 
 ## cryptography 
@@ -514,6 +514,7 @@
 
 ## cybersecurity 
 
+- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
 - [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no cost, open source platform that centralizes log collection, enhances threat detection, and enables real-time alerting, helping small to medium-sized organizations secur
 - [cisagov/Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
@@ -1110,7 +1111,7 @@
 
 ## kubernetes 
 
-- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
+- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS and Lyrion. Using powerful tools like Librosa and ONNX, it performs sonic an
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
@@ -1457,7 +1458,7 @@
 
 ## operating-system 
 
-- [WeSpeakEnglish/ANTIRTOS](https://github.com/WeSpeakEnglish/ANTIRTOS) - Unleash your interrupts with ulta-fast task manager, tens of thousand push/pull TPS.  Your interrupts now ultra-fast. Add simpicity into your architecture.
+- [WeSpeakEnglish/ANTIRTOS](https://github.com/WeSpeakEnglish/ANTIRTOS) - Unleash your interrupts with an ultra-fast task manager, delivering tens of thousands of push/pull TPS even on simple MCUs. Interrupts stay blazing fast by enqueueing parameterized tasks instead of ex
 - [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video!
 
 ## osint 
@@ -2314,6 +2315,7 @@
 
 ## security 
 
+- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -2362,6 +2364,7 @@
 
 ## self-hosted 
 
+- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
@@ -2677,6 +2680,7 @@
 
 ## web 
 
+- [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 - [SajadTroy/websico](https://github.com/SajadTroy/websico) - A lightweight and flexible web server framework for Node.js.
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
