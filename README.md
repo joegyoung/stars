@@ -352,6 +352,8 @@
 
 ## JavaScript 
 
+- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
+- [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana + InfluxDB + Speedtest.net results
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [K0lin/loglynx](https://github.com/K0lin/loglynx) - LogLynx: Advanced log analytics platform for Traefik reverse proxy. Real-time monitoring, geographic insights, performance tracking, device analytics, and comprehensive REST API. Built with Go.
@@ -648,6 +650,7 @@
 
 ## Python 
 
+- [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [tencent-ailab/MuQ](https://github.com/tencent-ailab/MuQ) - Official repository of the paper "MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization".
 - [Stiv2804/MusicBrainzPicard-AudiomuseAi-plugin](https://github.com/Stiv2804/MusicBrainzPicard-AudiomuseAi-plugin) - This Plugin for MusicBrainz Picard connects to a local Audiomuse Server and fetches the Metadata
