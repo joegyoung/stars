@@ -1022,6 +1022,7 @@
 
 ## TypeScript 
 
+- [nkxxll/home-excalidraw](https://github.com/nkxxll/home-excalidraw) - reproducing the excalidraw workspace for me
 - [cmcooper1980/dockge](https://github.com/cmcooper1980/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose stack-oriented manager forked from louislam/dockge that has had several Pull Requests merged.
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
