@@ -68,6 +68,7 @@
 
 ## C 
 
+- [juiceme/jperf](https://github.com/juiceme/jperf) - Simple udp performance test utility
 - [hzeller/gmrender-resurrect](https://github.com/hzeller/gmrender-resurrect) - Resource efficient UPnP/DLNA renderer, optimal for Raspberry Pi, CuBox or a general MediaServer. Fork of GMediaRenderer to add some features to make it usable.
 - [IanMercer/pi-sniffer](https://github.com/IanMercer/pi-sniffer) - Sniffer for Bluetooth LE on Raspberry Pi
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
@@ -396,7 +397,7 @@
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+- [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [aunnnn/daily-p5](https://github.com/aunnnn/daily-p5) - p5.js development gallery using React
 - [daviscodesbugs/aax-converter](https://github.com/daviscodesbugs/aax-converter) - Convert Audible AAX files to other audio formats
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -689,7 +690,7 @@
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
-- [justakazh/sicat](https://github.com/justakazh/sicat) - The useful exploit finder
+- [justakazh/sicat](https://github.com/justakazh/sicat) - The useful vulnerability and exploit finder
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [taers232c/GAMADV-XTD3](https://github.com/taers232c/GAMADV-XTD3) - Command line tool to manage Google Workspace
 - [McCloudS/subgen](https://github.com/McCloudS/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr
@@ -955,6 +956,7 @@
 
 ## Shell 
 
+- [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [community-scripts/ProxmoxVED](https://github.com/community-scripts/ProxmoxVED) - Development Instance of ProxmoxVE!
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [refluxdb/influxdb3-community](https://github.com/refluxdb/influxdb3-community) - Unlocked InfluxDB 3.0 "IOx" Community Builds + Examples for Developers & Integrators. Experiment with low-cost storage, unlimited cardinality and FlightSQL APIs
@@ -1026,6 +1028,7 @@
 
 ## TypeScript 
 
+- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [nkxxll/home-excalidraw](https://github.com/nkxxll/home-excalidraw) - reproducing the excalidraw workspace for me
 - [cmcooper1980/dockge](https://github.com/cmcooper1980/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose stack-oriented manager forked from louislam/dockge that has had several Pull Requests merged.
@@ -1035,7 +1038,6 @@
 - [gensecaihq/react2shell-scanner](https://github.com/gensecaihq/react2shell-scanner) - Security scanner for CVE-2025-55182 - Critical RCE vulnerability in React Server Components. Scan npm/pnpm/yarn    lockfiles, Docker images, SBOMs, and live URLs. Auto-fix, SARIF output, GitHub Action
 - [fredrikburmester/streamystats](https://github.com/fredrikburmester/streamystats) - Streamystats is a statistics service for Jellyfin, providing analytics and data visualization.
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
-- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [casantosmu/audiodeck](https://github.com/casantosmu/audiodeck) - A modern, self-hostable web spectrogram analyzer for your music library
 - [dohsimpson/TaskTrove](https://github.com/dohsimpson/TaskTrove) - TaskTrove is a modern Todo Manager that is fully self-hostable.
 - [NabilNYMansour/excalihub](https://github.com/NabilNYMansour/excalihub) - A platform for creating and sharing Excalidraw drawings
