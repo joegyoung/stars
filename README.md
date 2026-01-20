@@ -524,7 +524,7 @@
 
 ## Kotlin 
 
-- [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Bukkit
+- [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Minecraft Java Edition
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 
 ## Lua 
@@ -654,6 +654,7 @@
 
 ## Python 
 
+- [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
 - [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [tencent-ailab/MuQ](https://github.com/tencent-ailab/MuQ) - Official repository of the paper "MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization".
@@ -690,7 +691,7 @@
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
-- [justakazh/sicat](https://github.com/justakazh/sicat) - The useful vulnerability and exploit finder
+- [justakazh/sicat](https://github.com/justakazh/sicat) - The useful exploit finder
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [taers232c/GAMADV-XTD3](https://github.com/taers232c/GAMADV-XTD3) - Command line tool to manage Google Workspace
 - [McCloudS/subgen](https://github.com/McCloudS/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr
@@ -750,7 +751,7 @@
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [Mar2ck/DAIN-Vulkan-GUI](https://github.com/Mar2ck/DAIN-Vulkan-GUI) - AI-Powered video interpolater (eg. 30fps -&gt; 60fps) for Vulkan devices. Based on dain-ncnn-vulkan and ffmpeg
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
-- [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, Threa
+- [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a rapid response tool used to gather intelligence information from VirusTotal, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, ThreatFox, Triage, 
 - [pibooth/pibooth](https://github.com/pibooth/pibooth) - The pibooth project provides a Photo Booth application out-of-the-box for Raspberry Pi and opencv compatible devices
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [lllyasviel/DanbooRegion](https://github.com/lllyasviel/DanbooRegion) - DanbooRegion: An Illustration Region Dataset (ECCV 2020)
@@ -977,7 +978,7 @@
 - [rtrouton/aws_lightsail](https://github.com/rtrouton/aws_lightsail) - This repo is for posting and sharing AWS Lightsail setup scripts.
 - [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video!
 - [SecondSonConsulting/Baseline](https://github.com/SecondSonConsulting/Baseline) - An MDM agnostic zero touch solution for macOS
-- [bashclub/proxmox-zfs-postinstall](https://github.com/bashclub/proxmox-zfs-postinstall) - This script is designed to run on a fresh installed Proxmox server, configures `pve-no-subscription` repository, adjusts `zfs_arc_cache` and installs basic tools like `zfs-auto-snapshot` or `ifupdown2
+- [bashclub/proxmox-zfs-postinstall](https://github.com/bashclub/proxmox-zfs-postinstall) - This script is designed to run on a fresh installed Proxmox server, configures proxmox and ceph repository, adjusts `zfs_arc_cache` and installs basic tools like `zfs-auto-snapshot` or `ifupdown2`
 - [jlesage/docker-qdirstat](https://github.com/jlesage/docker-qdirstat) - Docker container for QDirStat
 - [sawyermade/macos_win10_usb](https://github.com/sawyermade/macos_win10_usb) - Create Windows 10 Bootable USB in macOS Monterey Apple Silicon M1 / M2
 - [inspircd/docker](https://github.com/inspircd/docker) - InspIRCd Docker image
