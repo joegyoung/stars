@@ -523,7 +523,7 @@
 - [SAP/cloud-active-defense](https://github.com/SAP/cloud-active-defense) - Add a layer of active defense to your cloud applications.
 - [cmu-sei/GHOSTS](https://github.com/cmu-sei/GHOSTS) - GHOSTS is a realistic user simulation framework for cyber experimentation, simulation, training, and exercise
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
-- [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, Threa
+- [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a rapid response tool used to gather intelligence information from VirusTotal, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, ThreatFox, Triage, 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 
@@ -553,7 +553,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [gregnavis/active_record_doctor](https://github.com/gregnavis/active_record_doctor) - Identify database issues before they hit production.
 - [Marzin-bot/PostgreSQLClient](https://github.com/Marzin-bot/PostgreSQLClient) - PostgreSQL connector for Godot Engine in GDScript.
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python Applications
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
 - [archit-p/editable-react-table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
 
 ## deep-learning 
@@ -1036,7 +1036,7 @@
 ## java 
 
 - [garbagemule/MobArena](https://github.com/garbagemule/MobArena) - MobArena plugin for Minecraft
-- [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Bukkit
+- [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Minecraft Java Edition
 - [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.21.11 Lightweight Minecraft server
 - [cervinakuy/KitPvP](https://github.com/cervinakuy/KitPvP) - An all-in-one battle plugin built using customizable kits and features.
 - [liebki/SimplePushEvents](https://github.com/liebki/SimplePushEvents) - Stay informed with free real-time Minecraft server push notifications using SimplePushEvents!
@@ -1116,7 +1116,7 @@
 
 ## kotlin 
 
-- [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Bukkit
+- [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Minecraft Java Edition
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 
 ## kubernetes 
@@ -1148,7 +1148,7 @@
 ## library 
 
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python Applications
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [dogoncouch/logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python module for analyzing log files and other data.
 - [OpusCapita/react-markdown](https://github.com/OpusCapita/react-markdown) - Markdown editor (input) based on React
@@ -1308,7 +1308,7 @@
 ## minecraft 
 
 - [garbagemule/MobArena](https://github.com/garbagemule/MobArena) - MobArena plugin for Minecraft
-- [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Bukkit
+- [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Minecraft Java Edition
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.21.11 Lightweight Minecraft server
 - [cervinakuy/KitPvP](https://github.com/cervinakuy/KitPvP) - An all-in-one battle plugin built using customizable kits and features.
@@ -1429,7 +1429,7 @@
 
 ## nosql 
 
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python Applications
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
 - [mongodb/mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - The Official MongoDB Ruby Driver
 
 ## npm 
@@ -1618,7 +1618,7 @@
 - [Gooddoggie/godot_2d_light](https://github.com/Gooddoggie/godot_2d_light) - Top down 2d light in Godot
 - [App-Auto-Patch/App-Auto-Patch](https://github.com/App-Auto-Patch/App-Auto-Patch) - Auto patch management script via Dialog
 - [hello-smile6/NoVNC-windows](https://github.com/hello-smile6/NoVNC-windows) - 
-- [justakazh/sicat](https://github.com/justakazh/sicat) - The useful vulnerability and exploit finder
+- [justakazh/sicat](https://github.com/justakazh/sicat) - The useful exploit finder
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [aboutsecurity/attack-navigator-4.1](https://github.com/aboutsecurity/attack-navigator-4.1) - MITRE ATT&CK Navigator 4.1
 - [rohit267/cloudflare-ddns-updater](https://github.com/rohit267/cloudflare-ddns-updater) - Dynamic DNS using Cloudflare DNS
@@ -1636,7 +1636,7 @@
 - [gdquest-demos/godot-procedural-generation](https://github.com/gdquest-demos/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
 - [excalidraw/excalidraw-room](https://github.com/excalidraw/excalidraw-room) - 
 - [lau-zudelova/bunbun-kanban-board](https://github.com/lau-zudelova/bunbun-kanban-board) - Kanban board with Markdown support (incl. checkboxes), image support and local storage!
-- [bashclub/proxmox-zfs-postinstall](https://github.com/bashclub/proxmox-zfs-postinstall) - This script is designed to run on a fresh installed Proxmox server, configures `pve-no-subscription` repository, adjusts `zfs_arc_cache` and installs basic tools like `zfs-auto-snapshot` or `ifupdown2
+- [bashclub/proxmox-zfs-postinstall](https://github.com/bashclub/proxmox-zfs-postinstall) - This script is designed to run on a fresh installed Proxmox server, configures proxmox and ceph repository, adjusts `zfs_arc_cache` and installs basic tools like `zfs-auto-snapshot` or `ifupdown2`
 - [w4/pisshoff](https://github.com/w4/pisshoff) - 🧸 fully isolated honeypot ssh server using thrussh
 - [punk-security/smbeagle](https://github.com/punk-security/smbeagle) - SMBeagle - Fileshare auditing tool.
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
@@ -2081,7 +2081,7 @@
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [AstraZeneca/judgyprophet](https://github.com/AstraZeneca/judgyprophet) - Forecasting for knowable future events using Bayesian informative priors (forecasting with judgmental-adjustment).
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python Applications
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
