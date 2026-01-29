@@ -128,7 +128,6 @@
 - [bishoyh/mbox2eml](https://github.com/bishoyh/mbox2eml) - Simple tool to convert mbox file from google takeout to a folder of eml files
 - [WeSpeakEnglish/ANTIRTOS](https://github.com/WeSpeakEnglish/ANTIRTOS) - Unleash your interrupts with an ultra-fast task manager, delivering tens of thousands of push/pull TPS even on simple MCUs. Interrupts stay blazing fast by enqueueing parameterized tasks instead of ex
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDExtension wrapper for SQLite (Godot 4.x+)
 - [UMSKT/UMSKT](https://github.com/UMSKT/UMSKT) - An open source toolkit designed to research Microsoft Pre-Vista licensing mechanisms
 - [cloudposse-archives/inspircd](https://github.com/cloudposse-archives/inspircd) - 
@@ -298,6 +297,7 @@
 
 - [talvasconcelos/chaospad](https://github.com/talvasconcelos/chaospad) - Collaborative pads based on the excellent https://pads.ccc.de
 - [anoniemerd/PruneMate](https://github.com/anoniemerd/PruneMate) - PruneMate - Docker image & resource cleanup helper, on a schedule!
+- [slippyex/ym2149-rs](https://github.com/slippyex/ym2149-rs) - Cycle-accurate YM2149 PSG emulator with real-time audio playback and visualization. Includes a Bevy plugin for easy integration into game engines and creative projects. Supports SNDH, GIST, Arkos-Trac
 - [dkorecko/Ticky](https://github.com/dkorecko/Ticky) - Modern and free Kanban board app
 - [chipweinberger/ShaderToyLite.js](https://github.com/chipweinberger/ShaderToyLite.js) - A full-featured ShaderToy renderer in ~400 lines of code.
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
@@ -812,6 +812,7 @@
 - [RenoFi/rack-graphql](https://github.com/RenoFi/rack-graphql) - Rack middleware for building ruby services with graphql api.
 - [michelesr/puma-sinatra-example](https://github.com/michelesr/puma-sinatra-example) - Example Sinatra application running with Puma application server
 - [gbaptista/ollama-ai](https://github.com/gbaptista/ollama-ai) - A Ruby gem for interacting with Ollama's API that allows you to run open source AI LLMs (Large Language Models) locally.
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [ronin-rb/ronin-web-server](https://github.com/ronin-rb/ronin-web-server) - A custom Ruby web server based on Sinatra.
 - [natalie-lang/natalie](https://github.com/natalie-lang/natalie) - a work-in-progress Ruby compiler, written in Ruby and C++
 - [gregnavis/active_record_doctor](https://github.com/gregnavis/active_record_doctor) - Identify database issues before they hit production.
@@ -915,7 +916,6 @@
 ## Rust 
 
 - [refluxdb/refluxdb](https://github.com/refluxdb/refluxdb) - Scalable datastore for metrics, events, and real-time analytics - InfluxDB3-Core fork Unlocked w/ Enterprise Features
-- [slippyex/ym2149-rs](https://github.com/slippyex/ym2149-rs) - Cycle-accurate YM2149 PSG emulator with real-time audio playback and visualization. Includes a Bevy plugin for easy integration into game engines and creative projects. Supports SNDH, GIST, Arkos-Trac
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [ratatui/tachyonfx](https://github.com/ratatui/tachyonfx) - Effects and animation library for Ratatui applications
