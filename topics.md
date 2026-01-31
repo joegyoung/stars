@@ -557,7 +557,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [gregnavis/active_record_doctor](https://github.com/gregnavis/active_record_doctor) - Identify database issues before they hit production.
 - [Marzin-bot/PostgreSQLClient](https://github.com/Marzin-bot/PostgreSQLClient) - PostgreSQL connector for Godot Engine in GDScript.
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 - [archit-p/editable-react-table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
 
 ## deep-learning 
@@ -1149,7 +1149,7 @@
 ## library 
 
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [dogoncouch/logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python module for analyzing log files and other data.
 - [OpusCapita/react-markdown](https://github.com/OpusCapita/react-markdown) - Markdown editor (input) based on React
@@ -1438,7 +1438,7 @@
 
 ## nosql 
 
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 - [mongodb/mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - The Official MongoDB Ruby Driver
 
 ## npm 
@@ -2087,7 +2087,7 @@
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [AstraZeneca/judgyprophet](https://github.com/AstraZeneca/judgyprophet) - Forecasting for knowable future events using Bayesian informative priors (forecasting with judgmental-adjustment).
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
