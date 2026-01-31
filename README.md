@@ -713,7 +713,7 @@
 - [AstraZeneca/judgyprophet](https://github.com/AstraZeneca/judgyprophet) - Forecasting for knowable future events using Bayesian informative priors (forecasting with judgmental-adjustment).
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [eclipse-paho/paho.mqtt.python](https://github.com/eclipse-paho/paho.mqtt.python) - paho.mqtt.python
-- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python
+- [arun1729/cog](https://github.com/arun1729/cog) - Micro Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 - [eps696/aphantasia](https://github.com/eps696/aphantasia) - CLIP + FFT/DWT/RGB = text to image/video
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [dribnet/pixray](https://github.com/dribnet/pixray) - neural image generation
