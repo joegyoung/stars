@@ -99,6 +99,7 @@
 
 ## C# # 
 
+- [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 - [josdion/subbuzz](https://github.com/josdion/subbuzz) - Subtitles plugin for emby and jellyfin
 - [jellyfin/jellyfin-plugin-webhook](https://github.com/jellyfin/jellyfin-plugin-webhook) - 
 - [jyourstone/jellyfin-musictags-plugin](https://github.com/jyourstone/jellyfin-musictags-plugin) - A Jellyfin plugin that automatically extracts metadata from audio files - such as ID3 tags, Vorbis comments, and more - and converts them into standard Jellyfin tags.
@@ -646,6 +647,7 @@
 
 ## Python 
 
+- [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [tencent-ailab/MuQ](https://github.com/tencent-ailab/MuQ) - Official repository of the paper "MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization".
