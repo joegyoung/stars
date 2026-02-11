@@ -982,7 +982,7 @@
 - [sawyermade/macos_win10_usb](https://github.com/sawyermade/macos_win10_usb) - Create Windows 10 Bootable USB in macOS Monterey Apple Silicon M1 / M2
 - [inspircd/docker](https://github.com/inspircd/docker) - InspIRCd Docker image
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
-- [IanTeda/docker-stacks](https://github.com/IanTeda/docker-stacks) - Collection of Portainer Stacks (Docker Compose) for my home NAS
+- [IanTeda/docker-stacks](https://github.com/IanTeda/docker-stacks) - Collection of Docker Stacks (Docker Compose) for my home server
 - [Okazakee/DockerCraft](https://github.com/Okazakee/DockerCraft) - This is a Linux Docker image for creating Minecraft servers using lazymc with a lot of parameters.
 - [gb0x11/HLS-Blob-Video-Download](https://github.com/gb0x11/HLS-Blob-Video-Download) - HLS Steaming Video Download / Blob Video Download
 - [joshua-d-miller/macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS) - Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows
