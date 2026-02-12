@@ -2597,7 +2597,7 @@
 ## terraform 
 
 - [vmware/terraform-provider-vsphere](https://github.com/vmware/terraform-provider-vsphere) - Terraform Provider for VMware vSphere
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE
+- [bpg-dev/terraform-provider-proxmox](https://github.com/bpg-dev/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 
 ## testing 
