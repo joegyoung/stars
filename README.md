@@ -738,7 +738,6 @@
 - [kkristof200/py_bittrex_api](https://github.com/kkristof200/py_bittrex_api) - 
 - [mendhak/waveshare-epaper-display](https://github.com/mendhak/waveshare-epaper-display) - At-a-glance dashboard for Raspberry Pi with a Waveshare ePaper 7.5 Inch HAT. Date/Time, Weather, Alerts, Google/Outlook Calendar
 - [moritztng/prism](https://github.com/moritztng/prism) - High Resolution Style Transfer in PyTorch with Color Control and Mixed Precision :art:
-- [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
 - [huggingface/pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [msxie92/MangaRestoration](https://github.com/msxie92/MangaRestoration) - Implementation for "Exploiting Aliasing for Manga Restoration" (CVPR 2021)
 - [Mukosame/Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - A sketch extractor for anime/illustration.
