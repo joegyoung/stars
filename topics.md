@@ -1495,7 +1495,6 @@
 ## others 
 
 - [deepblue597/sixpath](https://github.com/deepblue597/sixpath) - A self-hosted professional network visualization and management tool that helps you map and maintain your connections through an interactive graph interface.
-- [eljojo/rememory](https://github.com/eljojo/rememory) - have a plan for the worst-case scenario
 - [Amal97/Photo-Clean-Up](https://github.com/Amal97/Photo-Clean-Up) - 
 - [JVKeller/dnsdaddy](https://github.com/JVKeller/dnsdaddy) - DNS analysis dashboard for Technitium
 - [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
@@ -2028,6 +2027,7 @@
 
 ## privacy 
 
+- [eljojo/rememory](https://github.com/eljojo/rememory) - have a plan for the worst-case scenario
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
