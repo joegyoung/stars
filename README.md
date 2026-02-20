@@ -168,7 +168,6 @@
 
 ## Dart 
 
-- [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -1030,6 +1029,7 @@
 
 ## TypeScript 
 
+- [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [nkxxll/home-excalidraw](https://github.com/nkxxll/home-excalidraw) - reproducing the excalidraw workspace for me
