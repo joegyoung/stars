@@ -405,7 +405,7 @@
 - [aunnnn/daily-p5](https://github.com/aunnnn/daily-p5) - p5.js development gallery using React
 - [daviscodesbugs/aax-converter](https://github.com/daviscodesbugs/aax-converter) - Convert Audible AAX files to other audio formats
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [audible-tools/audible-tools.github.io](https://github.com/audible-tools/audible-tools.github.io) - Converts aax to audiofiles online. Please don't sue me amazon.
+- [JKamsker/audible-tools.github.io](https://github.com/JKamsker/audible-tools.github.io) - Converts aax to audiofiles online. Please don't sue me amazon.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [prouhard/tfjs-mountaincar](https://github.com/prouhard/tfjs-mountaincar) - Reinforcement Learning in the browser with Mountain Car simulation
 - [jsmrcaga/minecraft-server](https://github.com/jsmrcaga/minecraft-server) - 
@@ -651,6 +651,7 @@
 
 ## Python 
 
+- [olimic1000/vinylflow](https://github.com/olimic1000/vinylflow) - Digitize vinyl 10x faster. Open source tool for splitting, tagging, and organizing vinyl recordings
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [deepblue597/sixpath](https://github.com/deepblue597/sixpath) - A self-hosted professional network visualization and management tool that helps you map and maintain your connections through an interactive graph interface.
 - [Amal97/Photo-Clean-Up](https://github.com/Amal97/Photo-Clean-Up) - 
