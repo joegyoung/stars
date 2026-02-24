@@ -1497,6 +1497,8 @@
 
 ## others 
 
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
+- [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service)
 - [deepblue597/sixpath](https://github.com/deepblue597/sixpath) - A self-hosted professional network visualization and management tool that helps you map and maintain your connections through an interactive graph interface.
 - [Amal97/Photo-Clean-Up](https://github.com/Amal97/Photo-Clean-Up) - 
 - [JVKeller/dnsdaddy](https://github.com/JVKeller/dnsdaddy) - DNS analysis dashboard for Technitium
