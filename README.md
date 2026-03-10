@@ -20,6 +20,7 @@
 - [Elm](#elm)
 - [GDScript](#gdscript)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haxe](#haxe)
@@ -41,7 +42,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -221,6 +221,7 @@
 
 ## Go 
 
+- [DemiCloud/nocloud-init](https://github.com/DemiCloud/nocloud-init) - A minimal NoCloud cloud-init client
 - [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service)
 - [eljojo/rememory](https://github.com/eljojo/rememory) - a digital safe with multiple keys, held by people you trust
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -289,6 +290,10 @@
 - [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+
+## Go Template 
+
+- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 
 ## HCL 
 
@@ -434,7 +439,6 @@
 - [JChiquin/boilerplate-react-pwa-fcm](https://github.com/JChiquin/boilerplate-react-pwa-fcm) - A boilerplate for quick start with: react, react-router, material-UI, create-react-app, progressive web application, firebase cloud messaging
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [mehulcse/material-ui-markdown-editor](https://github.com/mehulcse/material-ui-markdown-editor) - Material ui markdown editor
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
 - [Paratron/hookrouter](https://github.com/Paratron/hookrouter) - The flexible, and fast router for react that is entirely based on hooks
@@ -563,7 +567,7 @@
 
 ## Others 
 
-- [afkarxyz/SpotiFLAC-Next](https://github.com/afkarxyz/SpotiFLAC-Next) - Get Spotify tracks in Hi-Res lossless FLACs — no account required.
+- [afkarxyz/SpotiFLAC-Next](https://github.com/afkarxyz/SpotiFLAC-Next) - Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no account required.
 - [endcycles/ffmpeg-engineering-handbook](https://github.com/endcycles/ffmpeg-engineering-handbook) - Practical cheatsheet for video automation, clipping, and media processing pipelines
 - [iUniker/Pi-Zero-3.5-Inch-Screen](https://github.com/iUniker/Pi-Zero-3.5-Inch-Screen) - 
 - [DRA6N/SubGhz_Cust_Serv](https://github.com/DRA6N/SubGhz_Cust_Serv) - A library of customer service buttons for Flipper Zero
@@ -803,6 +807,7 @@
 
 ## Ruby 
 
+- [googleapis/google-api-ruby-client](https://github.com/googleapis/google-api-ruby-client) - REST client for Google APIs
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
@@ -1004,10 +1009,6 @@
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [beautifulcode/ssh-copy-id-for-OSX](https://github.com/beautifulcode/ssh-copy-id-for-OSX) - Quick Mac OSX port of the useful unix utility ssh-copy-id
 
-## Smarty 
-
-- [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
-
 ## Svelte 
 
 - [DevLeoko/license-gate](https://github.com/DevLeoko/license-gate) - License and API key management tool and validation API for developers
@@ -1125,6 +1126,7 @@
 - [luukdv/gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React, used for shape blobbing / metaballs (0.5 KB) 🧽
 - [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation) - React wrapper for rough-notation
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [nareshbhatia/slate-editor-deprecated](https://github.com/nareshbhatia/slate-editor-deprecated) - A pre-packaged editor built on top of Slate
 - [justadudewhohacks/tfjs-tiny-yolov2](https://github.com/justadudewhohacks/tfjs-tiny-yolov2) - Tiny YOLO v2 object detection with tensorflow.js.
