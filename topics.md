@@ -260,7 +260,7 @@
 
 ## ai-agents 
 
-- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring, API and cloud integrations
+- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
 
 ## algorithmic-trading 
 
@@ -321,7 +321,7 @@
 - [iassis/SpotiFLAC-Docker](https://github.com/iassis/SpotiFLAC-Docker) - Containerized SpotiFLAC with auto-updating via GitHub Actions
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
-- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring, API and cloud integrations
+- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
@@ -637,7 +637,7 @@
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
-- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring, API and cloud integrations
+- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -1511,6 +1511,7 @@
 
 ## others 
 
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [osa911/archimmich](https://github.com/osa911/archimmich) - Immich assets archiver
 - [googleapis/google-api-ruby-client](https://github.com/googleapis/google-api-ruby-client) - REST client for Google APIs
 - [DemiCloud/nocloud-init](https://github.com/DemiCloud/nocloud-init) - A minimal NoCloud cloud-init client
@@ -2590,7 +2591,7 @@
 
 ## telegram 
 
-- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring, API and cloud integrations
+- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
 
 ## tensorflow 
 
