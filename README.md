@@ -555,7 +555,6 @@
 
 ## Objective-C 
 
-- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - This application gives Mac users in enterprise environments control over the administration of their machines by elevating their access level to administrator privileges on macOS. Users can set a time
 - [Waitsnake/AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - A screensaver for Mac OSX / macOS that plays animated GIFs and APNGs
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
@@ -656,6 +655,7 @@
 
 ## Python 
 
+- [devnen/Kitten-TTS-Server](https://github.com/devnen/Kitten-TTS-Server) - Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [osa911/archimmich](https://github.com/osa911/archimmich) - Immich assets archiver
 - [simulationship/epstein-search](https://github.com/simulationship/epstein-search) - Python library to search over the Epstein Files. AI-powered vector search across unsealed court documents, FBI reports, and flight logs. Runs entirely locally or with API.
@@ -1021,6 +1021,7 @@
 ## Swift 
 
 - [maoyama/Changes](https://github.com/maoyama/Changes) - An Open Source GUI Git Client for macOS
+- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
