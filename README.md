@@ -317,7 +317,6 @@
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
 - [bobthekingofegypt/dagre-reactjs](https://github.com/bobthekingofegypt/dagre-reactjs) - React component for rendering a dagre graph layout without any dependency on d3
 - [areeves87/Flavor-Bible-App](https://github.com/areeves87/Flavor-Bible-App) - Code and report for my flavor bible shiny app
-- [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [fbngrm/honeycomb-js](https://github.com/fbngrm/honeycomb-js) - A bee came in my room today ...
@@ -746,6 +745,7 @@
 - [kkristof200/py_bittrex_api](https://github.com/kkristof200/py_bittrex_api) - 
 - [mendhak/waveshare-epaper-display](https://github.com/mendhak/waveshare-epaper-display) - At-a-glance dashboard for Raspberry Pi with a Waveshare ePaper 7.5 Inch HAT. Date/Time, Weather, Alerts, Google/Outlook Calendar
 - [moritztng/prism](https://github.com/moritztng/prism) - High Resolution Style Transfer in PyTorch with Color Control and Mixed Precision :art:
+- [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
 - [lucidrains/big-sleep](https://github.com/lucidrains/big-sleep) - A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun
 - [huggingface/pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [msxie92/MangaRestoration](https://github.com/msxie92/MangaRestoration) - Implementation for "Exploiting Aliasing for Manga Restoration" (CVPR 2021)
