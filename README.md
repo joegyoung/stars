@@ -654,7 +654,7 @@
 
 ## Python 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Liminal 3D World editor and game engine - inspired by Radiant and Hammer
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time Quake/Hammer-style level editor with built-in game engine
 - [devnen/Kitten-TTS-Server](https://github.com/devnen/Kitten-TTS-Server) - Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [osa911/archimmich](https://github.com/osa911/archimmich) - Immich assets archiver
