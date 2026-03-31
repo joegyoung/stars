@@ -778,7 +778,7 @@
 
 ## game-development 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time Quake/Hammer-style level editor with built-in game engine
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time liminal Quake/Hammer-style level editor with built-in game engine. Optimised for mobile CPUs
 - [openfl/openfl](https://github.com/openfl/openfl) - An open source library for creative expression on the web, desktop, mobile and consoles. Inspired by the classic Flash and AIR APIs.
 - [bypell/weeping-angel-godot](https://github.com/bypell/weeping-angel-godot) - Demo project for a statue that moves when the player can't see it.
 - [KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0](https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0) - This pack has a bunch of game assets for creating cities, great to use with city planning, simulation, RTS games and whatever you can think of putting these in.
@@ -790,7 +790,7 @@
 
 ## game-engine 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time Quake/Hammer-style level editor with built-in game engine
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time liminal Quake/Hammer-style level editor with built-in game engine. Optimised for mobile CPUs
 
 ## gamedev 
 
@@ -1498,7 +1498,7 @@
 
 ## opengl 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time Quake/Hammer-style level editor with built-in game engine
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time liminal Quake/Hammer-style level editor with built-in game engine. Optimised for mobile CPUs
 - [astefanutti/kms-glsl](https://github.com/astefanutti/kms-glsl) - CLI that runs OpenGL fragment shaders using the DRM/KMS Linux kernel subsystem
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
