@@ -385,7 +385,6 @@
 - [K-Francis-H/shadertoy-clone](https://github.com/K-Francis-H/shadertoy-clone) - A barebones reimplementation of shadertoy.com's fragment shader editor and visualizer
 - [Lumon-Industries/Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 - [zacharyreese/DualQRCode](https://github.com/zacharyreese/DualQRCode) - Two different URLs in one QR code
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [epassi/lumon-macrodata-refiner](https://github.com/epassi/lumon-macrodata-refiner) - 
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
@@ -654,7 +653,7 @@
 
 ## Python 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time Quake/Hammer-style level editor with built-in game engine
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time liminal Quake/Hammer-style level editor with built-in game engine. Optimised for mobile CPUs
 - [devnen/Kitten-TTS-Server](https://github.com/devnen/Kitten-TTS-Server) - Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [osa911/archimmich](https://github.com/osa911/archimmich) - Immich assets archiver
@@ -1025,6 +1024,7 @@
 - [maoyama/Changes](https://github.com/maoyama/Changes) - An Open Source GUI Git Client for macOS
 - [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
