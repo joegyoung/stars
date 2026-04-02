@@ -628,7 +628,7 @@
 - [iassis/SpotiFLAC-Docker](https://github.com/iassis/SpotiFLAC-Docker) - Containerized SpotiFLAC with auto-updating via GitHub Actions
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
@@ -677,7 +677,7 @@
 
 ## documentation 
 
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [PagerDuty/security-training](https://github.com/PagerDuty/security-training) - Public version of PagerDuty's employee security training courses.
@@ -934,7 +934,7 @@
 ## hacktoberfest 
 
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph) - Decentralize, Self-host Cloud Gaming/Application
 - [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
@@ -1075,7 +1075,7 @@
 
 ## javascript 
 
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [NeilFraser/JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter) - A sandboxed JavaScript interpreter in JavaScript.
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
@@ -1523,6 +1523,7 @@
 
 ## others 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 
 - [balazs-szucs/grimmory](https://github.com/balazs-szucs/grimmory) - Grimmory is the successor of booklore.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [osa911/archimmich](https://github.com/osa911/archimmich) - Immich assets archiver
@@ -2067,7 +2068,7 @@
 ## privacy 
 
 - [eljojo/rememory](https://github.com/eljojo/rememory) - a digital safe with multiple keys, held by people you trust
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
@@ -2441,12 +2442,12 @@
 
 - [sheshbabu/riffle](https://github.com/sheshbabu/riffle) - A keyboard-driven photo curating tool for photographers
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable lightweight cloud native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities and realistic, randomly generated decoy data
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is an Open Source Dockerized environment that brings automatic playlist generation to Jellyfin, Navidrome, LMS, Lyrion and Emby. Using powerful tools like Librosa and ONNX, it performs so
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [dohsimpson/TaskTrove](https://github.com/dohsimpson/TaskTrove) - TaskTrove is a modern Todo Manager that is fully self-hostable.
@@ -2674,7 +2675,7 @@
 ## typescript 
 
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
@@ -2737,7 +2738,7 @@
 
 ## visualization 
 
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
