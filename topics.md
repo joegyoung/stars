@@ -458,6 +458,7 @@
 
 ## cms 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 
 ## command-line 
@@ -1523,7 +1524,6 @@
 
 ## others 
 
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 
 - [balazs-szucs/grimmory](https://github.com/balazs-szucs/grimmory) - Grimmory is the successor of booklore.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [osa911/archimmich](https://github.com/osa911/archimmich) - Immich assets archiver
@@ -1902,7 +1902,6 @@
 - [SenseiKiwi/DimDoorsDungeons](https://github.com/SenseiKiwi/DimDoorsDungeons) - New dungeons for Dimensional Doors
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [hardmaru/sketch-rnn-datasets](https://github.com/hardmaru/sketch-rnn-datasets) - optional extra vector image datasets for sketch-rnn
-- [franton/CIS-Apple-Security-Casper](https://github.com/franton/CIS-Apple-Security-Casper) - Basic examples of scripts and EA's to implement the CIS Apple Security guidelines
 - [rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon) - A curated list of awesome Bluetooth beacon software and tools.
 - [daviesgeek/guetzli-gui](https://github.com/daviesgeek/guetzli-gui) - A super simple Mac GUI for Google's JPEG encoder, guetzli
 - [SciRuby/daru](https://github.com/SciRuby/daru) - Data Analysis in RUby
@@ -2440,6 +2439,7 @@
 
 ## self-hosted 
 
+- [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - A self-hosted dashboard and organizer for Excalidraw with multi-user collaboration and scoped sharing.
 - [sheshbabu/riffle](https://github.com/sheshbabu/riffle) - A keyboard-driven photo curating tool for photographers
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
@@ -2674,6 +2674,7 @@
 
 ## typescript 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
