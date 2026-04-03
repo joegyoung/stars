@@ -1007,7 +1007,6 @@
 - [wishbone1138/wan_ip_watchdog](https://github.com/wishbone1138/wan_ip_watchdog) - Simple wan ip change email alert system.
 - [PagerDuty/security-training](https://github.com/PagerDuty/security-training) - Public version of PagerDuty's employee security training courses.
 - [nolim1t/linux-ibeacon](https://github.com/nolim1t/linux-ibeacon) - Broadcasting an iBeacon using Linux device (i.e. Raspberry pi) and BLE dongle
-- [franton/CIS-Apple-Security-Casper](https://github.com/franton/CIS-Apple-Security-Casper) - Basic examples of scripts and EA's to implement the CIS Apple Security guidelines
 - [jamf/CIS-for-macOS-Sierra](https://github.com/jamf/CIS-for-macOS-Sierra) - 
 - [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - [beautifulcode/ssh-copy-id-for-OSX](https://github.com/beautifulcode/ssh-copy-id-for-OSX) - Quick Mac OSX port of the useful unix utility ssh-copy-id
@@ -1038,7 +1037,8 @@
 
 ## TypeScript 
 
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - 
+- [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - A self-hosted dashboard and organizer for Excalidraw with multi-user collaboration and scoped sharing.
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [eyebrowkang/garage-admin-console](https://github.com/eyebrowkang/garage-admin-console) - A modern web-based administration interface for managing Garage distributed object storage clusters.
 - [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
