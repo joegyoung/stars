@@ -219,6 +219,8 @@
 
 ## Go 
 
+- [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
+- [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [DemiCloud/nocloud-init](https://github.com/DemiCloud/nocloud-init) - A minimal NoCloud cloud-init client
 - [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service)
 - [eljojo/rememory](https://github.com/eljojo/rememory) - a digital safe with multiple keys, held by people you trust
@@ -652,6 +654,9 @@
 
 ## Python 
 
+- [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l
+- [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
 - [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time liminal Quake/Hammer-style level editor with built-in game engine. Optimised for mobile CPUs
 - [devnen/Kitten-TTS-Server](https://github.com/devnen/Kitten-TTS-Server) - Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
@@ -1037,6 +1042,7 @@
 
 ## TypeScript 
 
+- [hnykda/wifi-heatmapper](https://github.com/hnykda/wifi-heatmapper) - Tool to measure 📏 and generate a WiFi 🛜 connection quality heatmap over a floorplan📍
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - A self-hosted dashboard and organizer for Excalidraw with multi-user collaboration and scoped sharing.
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [eyebrowkang/garage-admin-console](https://github.com/eyebrowkang/garage-admin-console) - A modern web-based administration interface for managing Garage distributed object storage clusters.
