@@ -1549,6 +1549,7 @@
 
 ## others 
 
+- [immichFrame/ImmichFrame_Android](https://github.com/immichFrame/ImmichFrame_Android) - Android app using system WebView
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [hnykda/wifi-heatmapper](https://github.com/hnykda/wifi-heatmapper) - Tool to measure 📏 and generate a WiFi 🛜 connection quality heatmap over a floorplan📍
 - [balazs-szucs/grimmory](https://github.com/balazs-szucs/grimmory) - Grimmory is the successor of booklore.
