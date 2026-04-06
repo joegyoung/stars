@@ -529,6 +529,7 @@
 
 ## Kotlin 
 
+- [immichFrame/ImmichFrame_Android](https://github.com/immichFrame/ImmichFrame_Android) - Android app using system WebView
 - [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Minecraft Java Edition
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 
