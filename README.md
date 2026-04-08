@@ -167,6 +167,7 @@
 
 ## Dart 
 
+- [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -769,7 +770,6 @@
 - [pibooth/pibooth](https://github.com/pibooth/pibooth) - The pibooth project provides a Photo Booth application out-of-the-box for Raspberry Pi and opencv compatible devices
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [lllyasviel/DanbooRegion](https://github.com/lllyasviel/DanbooRegion) - DanbooRegion: An Illustration Region Dataset (ECCV 2020)
-- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ds4n6/ds4n6_lib](https://github.com/ds4n6/ds4n6_lib) - Library of functions to apply Data Science in several forensics artifacts
 - [anime-dl/anime-downloader](https://github.com/anime-dl/anime-downloader) - A simple but powerful anime downloader and streamer.
 - [alzamer2/Crunchyroll-XML-Decoder-py3](https://github.com/alzamer2/Crunchyroll-XML-Decoder-py3) - 
@@ -970,6 +970,7 @@
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [dfrankland/bluster](https://github.com/dfrankland/bluster) - A Rust crate for implementing BLE (Bluetooth Low Energy) peripherals
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [DuncanUszkay1/Patchwork](https://github.com/DuncanUszkay1/Patchwork) - Peer to Peer Minecraft server that connects multiple server instances together
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [ivanceras/spongedown](https://github.com/ivanceras/spongedown) - Markdown with svg bob support
@@ -1051,7 +1052,6 @@
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - A self-hosted dashboard and organizer for Excalidraw with multi-user collaboration and scoped sharing.
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [eyebrowkang/garage-admin-console](https://github.com/eyebrowkang/garage-admin-console) - A modern web-based administration interface for managing Garage distributed object storage clusters.
-- [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
