@@ -77,7 +77,7 @@
 - [OpenPrinting/cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 - [sist2app/sist2](https://github.com/sist2app/sist2) - Lightning-fast file system indexer and search tool
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
-- [VirusFriendly/SSHapendoes](https://github.com/VirusFriendly/SSHapendoes) - Capture passwords of login attempts on non-existent and disabled accounts.
+- [Scarbaci/SSHapendoes](https://github.com/Scarbaci/SSHapendoes) - Capture passwords of login attempts on non-existent and disabled accounts.
 - [mananapr/pxlart](https://github.com/mananapr/pxlart) - A terminal pixel art creator
 - [AngelJumbo/lavat](https://github.com/AngelJumbo/lavat) - Lava lamp simulation using metaballs in the terminal
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) - Small utilities that are useful in advanced password cracking
