@@ -1765,7 +1765,7 @@
 - [Evolution0/bandcamp-dl](https://github.com/Evolution0/bandcamp-dl) - Simple python script to download Bandcamp albums
 - [excalidraw/svg-to-excalidraw](https://github.com/excalidraw/svg-to-excalidraw) - Convert SVGs into Excalidraw data
 - [thecatcore/Fabric---Discord-Link](https://github.com/thecatcore/Fabric---Discord-Link) - 
-- [VirusFriendly/SSHapendoes](https://github.com/VirusFriendly/SSHapendoes) - Capture passwords of login attempts on non-existent and disabled accounts.
+- [Scarbaci/SSHapendoes](https://github.com/Scarbaci/SSHapendoes) - Capture passwords of login attempts on non-existent and disabled accounts.
 - [prouhard/tfjs-mountaincar](https://github.com/prouhard/tfjs-mountaincar) - Reinforcement Learning in the browser with Mountain Car simulation
 - [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
