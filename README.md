@@ -1031,7 +1031,7 @@
 
 ## Swift 
 
-- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste.
+- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 - [maoyama/Changes](https://github.com/maoyama/Changes) - An Open Source GUI Git Client for macOS
 - [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
@@ -1063,7 +1063,7 @@
 - [cmcooper1980/dockge](https://github.com/cmcooper1980/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose stack-oriented manager forked from louislam/dockge that has had several Pull Requests merged.
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
 - [gensecaihq/react2shell-scanner](https://github.com/gensecaihq/react2shell-scanner) - Security scanner for CVE-2025-55182 - Critical RCE vulnerability in React Server Components. Scan npm/pnpm/yarn    lockfiles, Docker images, SBOMs, and live URLs. Auto-fix, SARIF output, GitHub Action
 - [fredrikburmester/streamystats](https://github.com/fredrikburmester/streamystats) - Streamystats is a statistics service for Jellyfin, providing analytics and data visualization.
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
