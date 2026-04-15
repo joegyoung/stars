@@ -267,7 +267,7 @@
 
 ## ai-agents 
 
-- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
+- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: Eclipse Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
 
 ## algorithmic-trading 
 
@@ -328,7 +328,7 @@
 - [iassis/SpotiFLAC-Docker](https://github.com/iassis/SpotiFLAC-Docker) - Containerized SpotiFLAC with auto-updating via GitHub Actions
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
-- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
+- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: Eclipse Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
@@ -648,7 +648,7 @@
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
-- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
+- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: Eclipse Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -1414,7 +1414,7 @@
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
 - [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 - [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
-- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused metadata integration & UI
+- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused on metadata integration & UI
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 
 ## mysql 
@@ -2500,7 +2500,7 @@
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
-- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused metadata integration & UI
+- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused on metadata integration & UI
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
@@ -2540,7 +2540,7 @@
 ## server 
 
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
-- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused metadata integration & UI
+- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused on metadata integration & UI
 - [flashmob/go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang
 - [mariochavez/llm_server](https://github.com/mariochavez/llm_server) - Rack API application for Llama.cpp
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -2654,7 +2654,7 @@
 
 ## telegram 
 
-- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: All-in-one Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
+- [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: Eclipse Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
 
 ## tensorflow 
 
@@ -2777,7 +2777,7 @@
 ## video 
 
 - [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph) - Decentralize, Self-host Cloud Gaming/Application
-- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused metadata integration & UI
+- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused on metadata integration & UI
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, 
 
@@ -2846,7 +2846,7 @@
 
 ## webapp 
 
-- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused metadata integration & UI
+- [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused on metadata integration & UI
 - [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
