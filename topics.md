@@ -969,7 +969,6 @@
 - [geminabox/geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [Installomator/Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs
-- [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
@@ -1562,7 +1561,6 @@
 - [marcoroth/bubbletea-ruby](https://github.com/marcoroth/bubbletea-ruby) - A powerful TUI framework for Ruby, based on Charm's bubbletea.
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 - [dimastopel/certdepot](https://github.com/dimastopel/certdepot) - Create your self-signed SSL certificate instantly and for free
-- [immichFrame/ImmichFrame_Android](https://github.com/immichFrame/ImmichFrame_Android) - Android app using system WebView
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [hnykda/wifi-heatmapper](https://github.com/hnykda/wifi-heatmapper) - Tool to measure 📏 and generate a WiFi 🛜 connection quality heatmap over a floorplan📍
 - [balazs-szucs/grimmory](https://github.com/balazs-szucs/grimmory) - Grimmory is the successor of booklore.
