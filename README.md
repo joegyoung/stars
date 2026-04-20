@@ -657,6 +657,7 @@
 
 ## Python 
 
+- [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large video collections
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
@@ -1049,7 +1050,6 @@
 ## TypeScript 
 
 - [miseryco/shaderpad](https://github.com/miseryco/shaderpad) - A lightweight, dependency-free library to reduce boilerplate when writing fragment shaders.
-- [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large video collections
 - [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [hnykda/wifi-heatmapper](https://github.com/hnykda/wifi-heatmapper) - Tool to measure 📏 and generate a WiFi 🛜 connection quality heatmap over a floorplan📍
