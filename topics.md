@@ -2052,6 +2052,7 @@
 
 ## pentesting 
 
+- [Hackerest/pwneye](https://github.com/Hackerest/pwneye) - 🎥 Your ONVIF and RTSP camera companion for discovering, validating, viewing and recording real streams
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [PhonePe/mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
