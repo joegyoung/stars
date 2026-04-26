@@ -413,7 +413,6 @@
 
 ## chrome 
 
-- [asdfghj1237890/WebVideo2NAS](https://github.com/asdfghj1237890/WebVideo2NAS) - A lightweight browser-to-NAS pipeline for capturing and downloading web videos. It integrates a Chrome Extension with a NAS-hosted Docker backend (FastAPI, workers, FFmpeg) to automatically detect, qu
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [globecyber/Infornito](https://github.com/globecyber/Infornito) - Extract forensic interesting information from Chrome, Firefox, Safari browsers ...
 - [RyanDFIR/hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
@@ -423,6 +422,7 @@
 
 ## chrome-extension 
 
+- [asdfghj1237890/WebVideo2NAS](https://github.com/asdfghj1237890/WebVideo2NAS) - Self-hosted Chrome → NAS pipeline: capture HLS / DASH / MP4 streams from any site and download to your NAS. Single multi-arch Docker image (FastAPI + worker + ffmpeg) distributed via GHCR.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
@@ -488,7 +488,7 @@
 
 ## computer-science 
 
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## computer-vision 
 
@@ -644,6 +644,7 @@
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
+- [asdfghj1237890/WebVideo2NAS](https://github.com/asdfghj1237890/WebVideo2NAS) - Self-hosted Chrome → NAS pipeline: capture HLS / DASH / MP4 streams from any site and download to your NAS. Single multi-arch Docker image (FastAPI + worker + ffmpeg) distributed via GHCR.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [jittering/traefik-kop](https://github.com/jittering/traefik-kop) - A dynamic docker-&gt;redis-&gt;traefik discovery agent
@@ -740,6 +741,7 @@
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
 - [devnen/Kitten-TTS-Server](https://github.com/devnen/Kitten-TTS-Server) - Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
+- [asdfghj1237890/WebVideo2NAS](https://github.com/asdfghj1237890/WebVideo2NAS) - Self-hosted Chrome → NAS pipeline: capture HLS / DASH / MP4 streams from any site and download to your NAS. Single multi-arch Docker image (FastAPI + worker + ffmpeg) distributed via GHCR.
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 
@@ -1567,6 +1569,9 @@
 
 ## others 
 
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
+- [matz/spinel](https://github.com/matz/spinel) - 
+- [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) - 
 - [miseryco/shaderpad](https://github.com/miseryco/shaderpad) - A lightweight, dependency-free library to reduce boilerplate when writing fragment shaders.
 - [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large video collections
 - [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager
@@ -2513,6 +2518,7 @@
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
+- [asdfghj1237890/WebVideo2NAS](https://github.com/asdfghj1237890/WebVideo2NAS) - Self-hosted Chrome → NAS pipeline: capture HLS / DASH / MP4 streams from any site and download to your NAS. Single multi-arch Docker image (FastAPI + worker + ffmpeg) distributed via GHCR.
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [dohsimpson/TaskTrove](https://github.com/dohsimpson/TaskTrove) - TaskTrove is a modern Todo Manager that is fully self-hostable.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
