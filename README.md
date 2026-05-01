@@ -1186,6 +1186,7 @@
 
 ## YAML 
 
+- [ansible-lockdown/Windows-2022-CIS](https://github.com/ansible-lockdown/Windows-2022-CIS) - Automated CIS Benchmark Compliance Remediation for Windows Server 2022 with Ansible
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 
