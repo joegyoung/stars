@@ -207,7 +207,7 @@
 - [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D Terrain Tool for Godot
 - [tavurth/godot-simple-state](https://github.com/tavurth/godot-simple-state) - A simple Finite State Machine for Godot
 - [nathanhoad/godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager) - A powerful nonlinear dialogue system for Godot
-- [Marzin-bot/PostgreSQLClient](https://github.com/Marzin-bot/PostgreSQLClient) - PostgreSQL connector for Godot Engine in GDScript.
+- [KuwazyStudio/PostgreSQLClient](https://github.com/KuwazyStudio/PostgreSQLClient) - PostgreSQL connector for Godot Engine in GDScript.
 - [fahall/godot_2d_visibility](https://github.com/fahall/godot_2d_visibility) - 2D Field of View algorithm implemented in GDScript
 - [Gianclgar/GDScriptAudioImport](https://github.com/Gianclgar/GDScriptAudioImport) - A script in GDScript for importing .wav and .ogg audio files at runtime
 - [Bytezz/godot-fadeintro](https://github.com/Bytezz/godot-fadeintro) - Intro scene with fading pictures
