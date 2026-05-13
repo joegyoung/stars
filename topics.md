@@ -548,7 +548,7 @@
 - [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no cost, open source platform that centralizes log collection, enhances threat detection, and enables real-time alerting, helping small to medium-sized organizations secur
 - [cisagov/Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 - [SAP/cloud-active-defense](https://github.com/SAP/cloud-active-defense) - Add a layer of active defense to your cloud applications.
-- [cmu-sei/GHOSTS](https://github.com/cmu-sei/GHOSTS) - GHOSTS is a realistic user simulation framework for cyber experimentation, simulation, training, and exercise
+- [cmu-sei/GHOSTS](https://github.com/cmu-sei/GHOSTS) - GHOSTS (General Human-Oriented Synthetic Teammates and Systems) is a realistic user simulation framework for cyber experimentation, simulation, training, and exercise
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool for threat hunting across VirusTotal, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, ThreatFox, Triage, IPInfo, Shodan, Abu
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
