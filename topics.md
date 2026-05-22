@@ -1593,6 +1593,8 @@
 
 ## others 
 
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe
+- [breml/terraform-provider-uptimekuma](https://github.com/breml/terraform-provider-uptimekuma) - Terraform provider for uptime kuma
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
@@ -1875,7 +1877,7 @@
 - [aeroheim/midori](https://github.com/aeroheim/midori) - library for animated image backgrounds
 - [kkristof200/py_bittrex_api](https://github.com/kkristof200/py_bittrex_api) - 
 - [areeves87/Flavor-Bible-App](https://github.com/areeves87/Flavor-Bible-App) - Code and report for my flavor bible shiny app
-- [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
+- [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
 - [selforglive/selforglive.github.io](https://github.com/selforglive/selforglive.github.io) - Self-Organizing Systems Workshop
 - [scipag/password-list](https://github.com/scipag/password-list) - Password lists with top passwords to optimize bruteforce attacks
