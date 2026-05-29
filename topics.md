@@ -248,7 +248,7 @@
 ## ai 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI client for MCP servers using Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming response
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
 - [devnen/Kitten-TTS-Server](https://github.com/devnen/Kitten-TTS-Server) - Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy d
@@ -803,6 +803,7 @@
 
 ## game 
 
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Make Weird Worlds: A real-time liminal CSG level editor and game engine. Optimised for mobile CPUs
 - [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph) - Decentralize, Self-host Cloud Gaming/Application
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
@@ -815,7 +816,7 @@
 
 ## game-development 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time liminal Quake/Hammer-style CSG level editor and game engine. Optimised for mobile CPUs
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Make Weird Worlds: A real-time liminal CSG level editor and game engine. Optimised for mobile CPUs
 - [openfl/openfl](https://github.com/openfl/openfl) - An open source library for creative expression on the web, desktop, mobile and consoles. Inspired by the classic Flash and AIR APIs.
 - [bypell/weeping-angel-godot](https://github.com/bypell/weeping-angel-godot) - Demo project for a statue that moves when the player can't see it.
 - [KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0](https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0) - This pack has a bunch of game assets for creating cities, great to use with city planning, simulation, RTS games and whatever you can think of putting these in.
@@ -827,7 +828,7 @@
 
 ## game-engine 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time liminal Quake/Hammer-style CSG level editor and game engine. Optimised for mobile CPUs
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Make Weird Worlds: A real-time liminal CSG level editor and game engine. Optimised for mobile CPUs
 
 ## gamedev 
 
@@ -1228,7 +1229,7 @@
 ## linux 
 
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI client for MCP servers using Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming response
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
@@ -1321,7 +1322,7 @@
 - [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI client for MCP servers using Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming response
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [maoyama/Changes](https://github.com/maoyama/Changes) - An Open Source GUI Git Client for macOS
@@ -1393,7 +1394,7 @@
 
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI client for MCP servers using Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming response
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
 
 ## microsoft 
 
@@ -1544,7 +1545,7 @@
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
 - [ulsklyc/oikos](https://github.com/ulsklyc/oikos) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI client for MCP servers using Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming response
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
 - [olimic1000/vinylflow](https://github.com/olimic1000/vinylflow) - Digitize vinyl 10x faster. Open source tool for splitting, tagging, and organizing vinyl recordings
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
@@ -1568,7 +1569,7 @@
 
 ## opengl 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - A real-time liminal Quake/Hammer-style CSG level editor and game engine. Optimised for mobile CPUs
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Make Weird Worlds: A real-time liminal CSG level editor and game engine. Optimised for mobile CPUs
 - [astefanutti/shaderbang](https://github.com/astefanutti/shaderbang) - Shebang for Shaders
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
@@ -1592,6 +1593,7 @@
 
 ## others 
 
+- [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
 - [talvasconcelos/lnbits-agent-wallet-mcp](https://github.com/talvasconcelos/lnbits-agent-wallet-mcp) - 
 - [breml/terraform-provider-uptimekuma](https://github.com/breml/terraform-provider-uptimekuma) - Terraform provider for uptime kuma
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
@@ -2937,7 +2939,7 @@
 ## windows 
 
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI client for MCP servers using Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming response
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
