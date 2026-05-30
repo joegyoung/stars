@@ -248,7 +248,7 @@
 ## ai 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
 - [devnen/Kitten-TTS-Server](https://github.com/devnen/Kitten-TTS-Server) - Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy d
@@ -1229,7 +1229,7 @@
 ## linux 
 
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
@@ -1322,7 +1322,7 @@
 - [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [maoyama/Changes](https://github.com/maoyama/Changes) - An Open Source GUI Git Client for macOS
@@ -1394,7 +1394,7 @@
 
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
 
 ## microsoft 
 
@@ -1545,7 +1545,7 @@
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
 - [ulsklyc/oikos](https://github.com/ulsklyc/oikos) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
 - [olimic1000/vinylflow](https://github.com/olimic1000/vinylflow) - Digitize vinyl 10x faster. Open source tool for splitting, tagging, and organizing vinyl recordings
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
@@ -2939,7 +2939,7 @@
 ## windows 
 
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-th
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
