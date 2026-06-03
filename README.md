@@ -253,6 +253,7 @@
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [thebigbone/docker-rss](https://github.com/thebigbone/docker-rss) - an rss feed for docker image updates
 - [0x2142/frigate-notify](https://github.com/0x2142/frigate-notify) - Event notifications for a standalone Frigate NVR instance
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
@@ -348,6 +349,7 @@
 - [tomkeuper/BedWars2023](https://github.com/tomkeuper/BedWars2023) - A minecraft minigame where you have to defend your bed and destroy the others. Once your bed is destroyed, you cannot respawn.
 - [balazs-szucs/grimmory](https://github.com/balazs-szucs/grimmory) - Grimmory is the successor of booklore.
 - [garbagemule/MobArena](https://github.com/garbagemule/MobArena) - MobArena plugin for Minecraft
+- [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Minecraft Java Edition
 - [emortaldev/BlockPhysics](https://github.com/emortaldev/BlockPhysics) - A Minecraft physics playground made with Jolt and Minestom
 - [Minestom/Minestom](https://github.com/Minestom/Minestom) - 26.1 Lightweight Minecraft server
 - [cervinakuy/KitPvP](https://github.com/cervinakuy/KitPvP) - An all-in-one battle plugin built using customizable kits and features.
@@ -539,7 +541,6 @@
 
 ## Kotlin 
 
-- [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Minecraft Java Edition
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 
 ## Lua 
@@ -666,7 +667,7 @@
 
 ## Python 
 
-- [talvasconcelos/lnbits-agent-wallet-mcp](https://github.com/talvasconcelos/lnbits-agent-wallet-mcp) - 
+- [lnbits/lnbits-agent-wallet-mcp](https://github.com/lnbits/lnbits-agent-wallet-mcp) - 
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1109,7 +1110,6 @@
 - [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: Eclipse Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [WaveringAna/SimpleLink](https://github.com/WaveringAna/SimpleLink) - A very performant and light (2mb in memory) link shortener and tracker. Written in Rust and React and uses Postgres/SQLite.
 - [hackclub/how-did-i-get-here](https://github.com/hackclub/how-did-i-get-here) - A tool/website/article by @kognise about how routing on the Internet works.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
