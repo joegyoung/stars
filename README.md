@@ -81,7 +81,6 @@
 - [AngelJumbo/lavat](https://github.com/AngelJumbo/lavat) - Lava lamp simulation using metaballs in the terminal
 - [hashcat/hashcat-utils](https://github.com/hashcat/hashcat-utils) - Small utilities that are useful in advanced password cracking
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
-- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - [nihui/dain-ncnn-vulkan](https://github.com/nihui/dain-ncnn-vulkan) - DAIN, Depth-Aware Video Frame Interpolation implemented with ncnn library
@@ -1033,6 +1032,7 @@
 - [jsopdebeeck/CanaryOnPi](https://github.com/jsopdebeeck/CanaryOnPi) - Install HoneyPot on Raspberry Pi
 - [rahul-thakoor/balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 - [tianyoujian/MZDPI](https://github.com/tianyoujian/MZDPI) - 
+- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [orlikoski/Skadi](https://github.com/orlikoski/Skadi) - Collect, Process, and Hunt with host based data from MacOS, Windows, and Linux
 - [wishbone1138/wan_ip_watchdog](https://github.com/wishbone1138/wan_ip_watchdog) - Simple wan ip change email alert system.
 - [PagerDuty/security-training](https://github.com/PagerDuty/security-training) - Public version of PagerDuty's employee security training courses.
