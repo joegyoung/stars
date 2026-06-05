@@ -459,7 +459,7 @@
 - [pratyush1687/tensorflow-rex-run](https://github.com/pratyush1687/tensorflow-rex-run) - A TensorFlow.js based AI player platform for T-Rex Runner. T-Rex Runner is originally an easter egg game inside chrome.
 - [jktzes/humaaans](https://github.com/jktzes/humaaans) - Create Human Illustrations With Ease in React.
 - [wagenaartje/neataptic](https://github.com/wagenaartje/neataptic) - :rocket: Blazing fast neuro-evolution & backpropagation for the browser and Node.js
-- [mayakraft/SVG](https://github.com/mayakraft/SVG) - creative code svg
+- [amkraft/SVG](https://github.com/amkraft/SVG) - creative code svg
 - [GreenStage/react-central-state](https://github.com/GreenStage/react-central-state) - Easy to  use global state for React
 - [TeamWertarbyte/material-ui-image](https://github.com/TeamWertarbyte/material-ui-image) - Material style image with loading animation
 - [TeamWertarbyte/material-ui-rating](https://github.com/TeamWertarbyte/material-ui-rating) - Rate something with style.
@@ -632,6 +632,7 @@
 
 ## PHP 
 
+- [Nachtzuster/BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.
 - [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo) - A powerful, self-hosted file-sharing platform built with PHP and Laravel with a Vue.js frontend. It offers secure, customizable file-transfer capabilities through an elegant user interface, giving you
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [simplesamlphp/simplesamlphp](https://github.com/simplesamlphp/simplesamlphp) - SimpleSAMLphp is an application written in native PHP that deals with authentication.
@@ -666,6 +667,7 @@
 
 ## Python 
 
+- [AlexRosbach/Replibook](https://github.com/AlexRosbach/Replibook) - Scan a server. Generate an Ansible playbook. Reproduce it anywhere.
 - [lnbits/lnbits-agent-wallet-mcp](https://github.com/lnbits/lnbits-agent-wallet-mcp) - 
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
