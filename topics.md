@@ -1593,6 +1593,8 @@
 
 ## others 
 
+- [Nachtzuster/BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.
+- [AlexRosbach/Replibook](https://github.com/AlexRosbach/Replibook) - Scan a server. Generate an Ansible playbook. Reproduce it anywhere.
 - [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
 - [lnbits/lnbits-agent-wallet-mcp](https://github.com/lnbits/lnbits-agent-wallet-mcp) - 
 - [breml/terraform-provider-uptimekuma](https://github.com/breml/terraform-provider-uptimekuma) - Terraform provider for uptime kuma
@@ -1940,7 +1942,7 @@
 - [ToQuery/tensorflow-rex-run](https://github.com/ToQuery/tensorflow-rex-run) - A TensorFlow.js based AI player platform for T-Rex Runner. T-Rex Runner is originally an easter egg game inside chrome.
 - [pratyush1687/tensorflow-rex-run](https://github.com/pratyush1687/tensorflow-rex-run) - A TensorFlow.js based AI player platform for T-Rex Runner. T-Rex Runner is originally an easter egg game inside chrome.
 - [ruby-protobuf/protobuf](https://github.com/ruby-protobuf/protobuf) - A pure ruby implementation of Google's Protocol Buffers
-- [mayakraft/SVG](https://github.com/mayakraft/SVG) - creative code svg
+- [amkraft/SVG](https://github.com/amkraft/SVG) - creative code svg
 - [GreenStage/react-central-state](https://github.com/GreenStage/react-central-state) - Easy to  use global state for React
 - [davnicwil/react-frontload](https://github.com/davnicwil/react-frontload) - Async data loading for React components, on client & server
 - [aidan-/SimpleTOTP](https://github.com/aidan-/SimpleTOTP) - A highly configurable yet simple to use TOTP based two-factor authentication processing module for SimpleSAMLphp.
