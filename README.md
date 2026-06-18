@@ -377,6 +377,7 @@
 
 ## JavaScript 
 
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
 - [sheshbabu/riffle](https://github.com/sheshbabu/riffle) - A keyboard-driven photo curating tool for photographers
 - [JVKeller/dnsdaddy](https://github.com/JVKeller/dnsdaddy) - DNS analysis dashboard for Technitium
