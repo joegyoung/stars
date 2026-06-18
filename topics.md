@@ -1602,6 +1602,7 @@
 
 ## others 
 
+- [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [robinpie/fontliberator](https://github.com/robinpie/fontliberator) - Fully automatic font clean-room reimplementor
 - [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 - [yakushstanislav/UltraViolet](https://github.com/yakushstanislav/UltraViolet) - 
