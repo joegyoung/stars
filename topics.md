@@ -177,6 +177,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
@@ -2399,6 +2400,11 @@
 - [rcdexta/react-event-timeline](https://github.com/rcdexta/react-event-timeline) - A responsive event timeline in React.js
 - [jrm2k6/react-markdown-editor](https://github.com/jrm2k6/react-markdown-editor) - A markdown editor using React/Reflux
 - [andrewhathaway/Winterfell](https://github.com/andrewhathaway/Winterfell) - Generate complex, validated and extendable JSON-based forms in React.
+
+## redteam 
+
+- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## redux 
 
