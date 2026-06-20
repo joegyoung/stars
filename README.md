@@ -376,6 +376,7 @@
 
 ## JavaScript 
 
+- [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
 - [sheshbabu/riffle](https://github.com/sheshbabu/riffle) - A keyboard-driven photo curating tool for photographers
@@ -720,7 +721,7 @@
 - [cisagov/Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 - [pielgrzym/paper-terminal](https://github.com/pielgrzym/paper-terminal) - Terminal emulator for Waveshare 2.9inch e-paper display
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [PromptEngineer48/Ollama](https://github.com/PromptEngineer48/Ollama) - This repo brings numerous use cases from the Open Source Ollama
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
 - [Ellerhold/fs2es-indexer](https://github.com/Ellerhold/fs2es-indexer) - This tool indexes your directories into an elastic search index and prepares them for searching via Mac OS Spotlight  search in a samba file server.
@@ -838,6 +839,7 @@
 
 ## Ruby 
 
+- [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 - [matz/spinel](https://github.com/matz/spinel) - 
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [marcoroth/bubbletea-ruby](https://github.com/marcoroth/bubbletea-ruby) - A powerful TUI framework for Ruby, based on Charm's bubbletea.
@@ -1078,6 +1080,7 @@
 
 ## TypeScript 
 
+- [danielsyauqi/Seeder](https://github.com/danielsyauqi/Seeder) - Your personal project manager: kanban tasks, client requests, a public client board, and a built-in MCP server — open source and self-hosted on Cloudflare Workers.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
