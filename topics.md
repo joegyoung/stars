@@ -1657,7 +1657,7 @@
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [nkxxll/home-excalidraw](https://github.com/nkxxll/home-excalidraw) - reproducing the excalidraw workspace for me
-- [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
+- [ots-downloader/onthespot](https://github.com/ots-downloader/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana + InfluxDB + Speedtest.net results
 - [josdion/subbuzz](https://github.com/josdion/subbuzz) - Subtitles plugin for emby and jellyfin
 - [refluxdb/refluxdb](https://github.com/refluxdb/refluxdb) - Scalable datastore for metrics, events, and real-time analytics - InfluxDB3-Core fork Unlocked w/ Enterprise Features
@@ -2433,6 +2433,7 @@
 
 ## ruby 
 
+- [bkeepers/dotenv](https://github.com/bkeepers/dotenv) - A Ruby gem to load environment variables from `.env`.
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [johnae/sambal](https://github.com/johnae/sambal) - Ruby Samba Client
