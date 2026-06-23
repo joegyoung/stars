@@ -236,6 +236,7 @@
 - [eljojo/rememory](https://github.com/eljojo/rememory) - a digital safe with multiple keys, held by people you trust
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
+- [K0lin/loglynx](https://github.com/K0lin/loglynx) - LogLynx: Advanced log analytics platform for Traefik and Caddy reverse proxy. Real-time monitoring, geographic insights, performance tracking, device analytics, and comprehensive REST API. Built with 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [darylhjd/mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
 - [jittering/traefik-kop](https://github.com/jittering/traefik-kop) - A dynamic docker-&gt;redis-&gt;traefik discovery agent
@@ -359,7 +360,6 @@
 - [BentoBoxWorld/BentoBox](https://github.com/BentoBoxWorld/BentoBox) - Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [dasniko/keycloak-2fa-sms-authenticator](https://github.com/dasniko/keycloak-2fa-sms-authenticator) - Keycloak Authentication Provider implementation to get a 2nd-factor authentication with a OTP/code/token send via SMS (through AWS SNS). Demo purposes only!
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [TuxCoding/Minefana](https://github.com/TuxCoding/Minefana) - Bungee/Spigot plugin to send stats to a InfluxDB to be displayed by a Grafana instance.
 - [thecatcore/Fabric---Discord-Link](https://github.com/thecatcore/Fabric---Discord-Link) - 
 - [MultiPaper/MultiPaper](https://github.com/MultiPaper/MultiPaper) - Multi-server, single-world papermc implementation
@@ -387,7 +387,6 @@
 - [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana + InfluxDB + Speedtest.net results
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
-- [K0lin/loglynx](https://github.com/K0lin/loglynx) - LogLynx: Advanced log analytics platform for Traefik and Caddy reverse proxy. Real-time monitoring, geographic insights, performance tracking, device analytics, and comprehensive REST API. Built with 
 - [PoochyEXE/PoochyEXE.github.io](https://github.com/PoochyEXE/PoochyEXE.github.io) - 
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [mandatoryprogrammer/thermoptic](https://github.com/mandatoryprogrammer/thermoptic) - A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across all layers of the stack.
@@ -1137,6 +1136,7 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [aboutsecurity/attack-navigator-4.1](https://github.com/aboutsecurity/attack-navigator-4.1) - MITRE ATT&CK Navigator 4.1
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
