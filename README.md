@@ -360,6 +360,7 @@
 - [BentoBoxWorld/BentoBox](https://github.com/BentoBoxWorld/BentoBox) - Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [dasniko/keycloak-2fa-sms-authenticator](https://github.com/dasniko/keycloak-2fa-sms-authenticator) - Keycloak Authentication Provider implementation to get a 2nd-factor authentication with a OTP/code/token send via SMS (through AWS SNS). Demo purposes only!
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [TuxCoding/Minefana](https://github.com/TuxCoding/Minefana) - Bungee/Spigot plugin to send stats to a InfluxDB to be displayed by a Grafana instance.
 - [thecatcore/Fabric---Discord-Link](https://github.com/thecatcore/Fabric---Discord-Link) - 
 - [MultiPaper/MultiPaper](https://github.com/MultiPaper/MultiPaper) - Multi-server, single-world papermc implementation
@@ -671,6 +672,7 @@
 
 ## Python 
 
+- [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 - [AlexRosbach/Replibook](https://github.com/AlexRosbach/Replibook) - Scan a server. Generate an Ansible playbook. Reproduce it anywhere.
 - [lnbits/lnbits-agent-wallet-mcp](https://github.com/lnbits/lnbits-agent-wallet-mcp) - 
@@ -681,7 +683,7 @@
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Make Weird Worlds: A real-time liminal CSG level editor and game engine. Optimised for mobile CPUs
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Unified Liminal World Editor & Procedural Engine inspired by Radiant and Hammer. Optimised for low-power CPUs
 - [devnen/Kitten-TTS-Server](https://github.com/devnen/Kitten-TTS-Server) - Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration.
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [osa911/archimmich](https://github.com/osa911/archimmich) - Immich assets archiver
@@ -845,7 +847,7 @@
 - [marcoroth/bubbletea-ruby](https://github.com/marcoroth/bubbletea-ruby) - A powerful TUI framework for Ruby, based on Charm's bubbletea.
 - [googleapis/google-api-ruby-client](https://github.com/googleapis/google-api-ruby-client) - REST client for Google APIs
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) - See what sticks
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - Super simple group chat, without a subscription
 - [hspazio/hermes](https://github.com/hspazio/hermes) - Simple Sinatra PubSub Hub
 - [Mark24Code/sinatra-websocket-example](https://github.com/Mark24Code/sinatra-websocket-example) - Sinatra websocket example ( Ruby 3 + Puma + faye-websocket + Websocket DSL )
@@ -1136,7 +1138,6 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [aboutsecurity/attack-navigator-4.1](https://github.com/aboutsecurity/attack-navigator-4.1) - MITRE ATT&CK Navigator 4.1
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
