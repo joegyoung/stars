@@ -808,7 +808,7 @@
 
 ## game 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Make Weird Worlds: A real-time liminal CSG level editor and game engine. Optimised for mobile CPUs
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Unified Liminal World Editor & Procedural Engine inspired by Radiant and Hammer. Optimised for low-power CPUs
 - [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph) - Decentralize, Self-host Cloud Gaming/Application
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
@@ -821,7 +821,7 @@
 
 ## game-development 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Make Weird Worlds: A real-time liminal CSG level editor and game engine. Optimised for mobile CPUs
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Unified Liminal World Editor & Procedural Engine inspired by Radiant and Hammer. Optimised for low-power CPUs
 - [openfl/openfl](https://github.com/openfl/openfl) - An open source library for creative expression on the web, desktop, mobile and consoles. Inspired by the classic Flash and AIR APIs.
 - [bypell/weeping-angel-godot](https://github.com/bypell/weeping-angel-godot) - Demo project for a statue that moves when the player can't see it.
 - [KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0](https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0) - This pack has a bunch of game assets for creating cities, great to use with city planning, simulation, RTS games and whatever you can think of putting these in.
@@ -833,7 +833,7 @@
 
 ## game-engine 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Make Weird Worlds: A real-time liminal CSG level editor and game engine. Optimised for mobile CPUs
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Unified Liminal World Editor & Procedural Engine inspired by Radiant and Hammer. Optimised for low-power CPUs
 
 ## gamedev 
 
@@ -1044,6 +1044,7 @@
 
 ## home-assistant 
 
+- [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
@@ -1579,7 +1580,7 @@
 
 ## opengl 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Make Weird Worlds: A real-time liminal CSG level editor and game engine. Optimised for mobile CPUs
+- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Unified Liminal World Editor & Procedural Engine inspired by Radiant and Hammer. Optimised for low-power CPUs
 - [astefanutti/shaderbang](https://github.com/astefanutti/shaderbang) - Shebang for Shaders
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
@@ -1681,7 +1682,7 @@
 - [casantosmu/audiodeck](https://github.com/casantosmu/audiodeck) - A modern, self-hostable web spectrogram analyzer for your music library
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [mandatoryprogrammer/thermoptic](https://github.com/mandatoryprogrammer/thermoptic) - A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across all layers of the stack.
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) - See what sticks
 - [cassandra/home-information](https://github.com/cassandra/home-information) - Home Information - Your home, your data, organized.
 - [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import) - Import playlists from Spotify in Jellyfin
 - [jyourstone/jellyfin-smartlists-plugin](https://github.com/jyourstone/jellyfin-smartlists-plugin) - Create dynamic playlists and collections in Jellyfin based on a set of rules, which will automatically update as your library changes.
