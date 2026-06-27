@@ -1082,6 +1082,7 @@
 
 ## TypeScript 
 
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [danielsyauqi/Seeder](https://github.com/danielsyauqi/Seeder) - Your personal project manager: kanban tasks, client requests, a public client board, and a built-in MCP server — open source and self-hosted on Cloudflare Workers.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
