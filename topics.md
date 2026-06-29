@@ -76,7 +76,6 @@
 - [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
-- [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
 - [git](#git)
@@ -533,6 +532,7 @@
 
 ## csharp 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [ZL154/JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity) - A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all c
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
@@ -713,6 +713,7 @@
 
 ## dotnet 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [ZL154/JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity) - A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all c
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
@@ -809,7 +810,6 @@
 
 ## game 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Unified Liminal World Editor & Procedural Engine inspired by Radiant and Hammer. Optimised for low-power CPUs
 - [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph) - Decentralize, Self-host Cloud Gaming/Application
 - [Uriopass/Egregoria](https://github.com/Uriopass/Egregoria) - 3D City Builder without a grid
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
@@ -822,7 +822,6 @@
 
 ## game-development 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Unified Liminal World Editor & Procedural Engine inspired by Radiant and Hammer. Optimised for low-power CPUs
 - [openfl/openfl](https://github.com/openfl/openfl) - An open source library for creative expression on the web, desktop, mobile and consoles. Inspired by the classic Flash and AIR APIs.
 - [bypell/weeping-angel-godot](https://github.com/bypell/weeping-angel-godot) - Demo project for a statue that moves when the player can't see it.
 - [KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0](https://github.com/KayKit-Game-Assets/KayKit-City-Builder-Bits-1.0) - This pack has a bunch of game assets for creating cities, great to use with city planning, simulation, RTS games and whatever you can think of putting these in.
@@ -831,10 +830,6 @@
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
-
-## game-engine 
-
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Unified Liminal World Editor & Procedural Engine inspired by Radiant and Hammer. Optimised for low-power CPUs
 
 ## gamedev 
 
@@ -911,7 +906,7 @@
 - [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph) - Decentralize, Self-host Cloud Gaming/Application
 - [darylhjd/mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
-- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
+- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
@@ -982,6 +977,7 @@
 
 ## hacktoberfest 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
@@ -1330,7 +1326,7 @@
 ## macos 
 
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
-- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe and Golden Gate
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
@@ -1581,7 +1577,6 @@
 
 ## opengl 
 
-- [ViciousSquid/Fio](https://github.com/ViciousSquid/Fio) - Unified Liminal World Editor & Procedural Engine inspired by Radiant and Hammer. Optimised for low-power CPUs
 - [astefanutti/shaderbang](https://github.com/astefanutti/shaderbang) - Shebang for Shaders
 - [Bixilon/Minosoft](https://github.com/Bixilon/Minosoft) - An open source Minecraft reimplementation written from scratch. Mirror of https://gitlab.bixilon.de/bixilon/minosoft
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
@@ -1605,17 +1600,15 @@
 
 ## others 
 
+- [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [2dom/keypad](https://github.com/2dom/keypad) - Open Source minimalist Keypad for Zigbee / Thread / Matter
-- [danielsyauqi/Seeder](https://github.com/danielsyauqi/Seeder) - Your personal project manager: kanban tasks, client requests, a public client board, and a built-in MCP server — open source and self-hosted on Cloudflare Workers.
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [robinpie/fontliberator](https://github.com/robinpie/fontliberator) - Fully automatic font clean-room reimplementor
 - [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 - [yakushstanislav/UltraViolet](https://github.com/yakushstanislav/UltraViolet) - 
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
-- [Nachtzuster/BirdNET-Pi](https://github.com/Nachtzuster/BirdNET-Pi) - A realtime acoustic bird classification system for the Raspberry Pi 5, 4B 3B+ 0W2 and more. Built on the TFLite version of BirdNET.
 - [AlexRosbach/Replibook](https://github.com/AlexRosbach/Replibook) - Scan a server. Generate an Ansible playbook. Reproduce it anywhere.
 - [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
-- [lnbits/lnbits-agent-wallet-mcp](https://github.com/lnbits/lnbits-agent-wallet-mcp) - 
 - [breml/terraform-provider-uptimekuma](https://github.com/breml/terraform-provider-uptimekuma) - Terraform provider for uptime kuma
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
