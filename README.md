@@ -67,6 +67,7 @@
 ## C 
 
 - [lsferreira42/nfsdiag](https://github.com/lsferreira42/nfsdiag) - A nfs diagnostic application
+- [matz/spinel](https://github.com/matz/spinel) - 
 - [juiceme/jperf](https://github.com/juiceme/jperf) - Simple udp performance test utility
 - [hzeller/gmrender-resurrect](https://github.com/hzeller/gmrender-resurrect) - Resource efficient UPnP/DLNA renderer, optimal for Raspberry Pi, CuBox or a general MediaServer. Fork of GMediaRenderer to add some features to make it usable.
 - [IanMercer/pi-sniffer](https://github.com/IanMercer/pi-sniffer) - Sniffer for Bluetooth LE on Raspberry Pi
@@ -841,7 +842,6 @@
 
 - [bkeepers/dotenv](https://github.com/bkeepers/dotenv) - A Ruby gem to load environment variables from `.env`.
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
-- [matz/spinel](https://github.com/matz/spinel) - 
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [marcoroth/bubbletea-ruby](https://github.com/marcoroth/bubbletea-ruby) - A powerful TUI framework for Ruby, based on Charm's bubbletea.
 - [googleapis/google-api-ruby-client](https://github.com/googleapis/google-api-ruby-client) - REST client for Google APIs
