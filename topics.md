@@ -287,12 +287,14 @@
 
 ## android 
 
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## ansible 
 
+- [Nonetss/playbook-runner](https://github.com/Nonetss/playbook-runner) - UI web auto-hospedada para ejecutar playbooks de Ansible contra tu inventario, sin la complejidad de AWX/Tower.
 - [ansible-lockdown/Windows-2022-CIS](https://github.com/ansible-lockdown/Windows-2022-CIS) - Automated CIS Benchmark Compliance Remediation for Windows Server 2022 with Ansible
 - [cisagov/ansible-manage-user](https://github.com/cisagov/ansible-manage-user) - Ansible playbooks to manage a user account on a set of hosts
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
@@ -333,6 +335,7 @@
 
 ## automation 
 
+- [Nonetss/playbook-runner](https://github.com/Nonetss/playbook-runner) - UI web auto-hospedada para ejecutar playbooks de Ansible contra tu inventario, sin la complejidad de AWX/Tower.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [ansible-lockdown/Windows-2022-CIS](https://github.com/ansible-lockdown/Windows-2022-CIS) - Automated CIS Benchmark Compliance Remediation for Windows Server 2022 with Ansible
 - [iassis/SpotiFLAC-Docker](https://github.com/iassis/SpotiFLAC-Docker) - Containerized SpotiFLAC with auto-updating via GitHub Actions
@@ -634,6 +637,7 @@
 
 ## devops 
 
+- [Nonetss/playbook-runner](https://github.com/Nonetss/playbook-runner) - UI web auto-hospedada para ejecutar playbooks de Ansible contra tu inventario, sin la complejidad de AWX/Tower.
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -647,6 +651,7 @@
 
 ## docker 
 
+- [Nonetss/playbook-runner](https://github.com/Nonetss/playbook-runner) - UI web auto-hospedada para ejecutar playbooks de Ansible contra tu inventario, sin la complejidad de AWX/Tower.
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
@@ -783,6 +788,7 @@
 
 ## flutter 
 
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -906,6 +912,7 @@
 
 ## golang 
 
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI / TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph) - Decentralize, Self-host Cloud Gaming/Application
 - [darylhjd/mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
@@ -1097,6 +1104,7 @@
 
 ## ios 
 
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
@@ -2179,6 +2187,7 @@
 
 ## privacy 
 
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [eljojo/rememory](https://github.com/eljojo/rememory) - a digital safe with multiple keys, held by people you trust
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
@@ -2834,6 +2843,7 @@
 
 ## typescript 
 
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
