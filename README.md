@@ -584,7 +584,7 @@
 
 ## Others 
 
-- [spotbye/SpotiFLAC-Next](https://github.com/spotbye/SpotiFLAC-Next) - Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music, Deezer & Apple Music — no account required.
+- [spotbye/SpotiFLAC-Next](https://github.com/spotbye/SpotiFLAC-Next) - Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music & Deezer — no account required.
 - [endcycles/ffmpeg-engineering-handbook](https://github.com/endcycles/ffmpeg-engineering-handbook) - Practical cheatsheet for video automation, clipping, and media processing pipelines
 - [iUniker/Pi-Zero-3.5-Inch-Screen](https://github.com/iUniker/Pi-Zero-3.5-Inch-Screen) - 
 - [DRA6N/SubGhz_Cust_Serv](https://github.com/DRA6N/SubGhz_Cust_Serv) - A library of customer service buttons for Flipper Zero
@@ -702,7 +702,7 @@
 - [tencent-ailab/MuQ](https://github.com/tencent-ailab/MuQ) - Official repository of the paper "MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization".
 - [Stiv2804/MusicBrainzPicard-AudiomuseAi-plugin](https://github.com/Stiv2804/MusicBrainzPicard-AudiomuseAi-plugin) - This Plugin for MusicBrainz Picard connects to a local Audiomuse Server and fetches the Metadata
 - [TheWicklowWolf/ConvertBooks](https://github.com/TheWicklowWolf/ConvertBooks) - Convert eBooks to epub, mobi and/or awz3
-- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no 
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [asdfghj1237890/WebVideo2NAS](https://github.com/asdfghj1237890/WebVideo2NAS) - Self-hosted Chrome → NAS pipeline: capture HLS / DASH / MP4 streams from any site and download to your NAS. Single multi-arch Docker image (FastAPI + worker + ffmpeg) distributed via GHCR.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [cassandra/home-information](https://github.com/cassandra/home-information) - Home Information - Your home, your data, organized.
