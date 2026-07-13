@@ -1134,7 +1134,7 @@
 
 - [garbagemule/MobArena](https://github.com/garbagemule/MobArena) - MobArena plugin for Minecraft
 - [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Minecraft Java Edition
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 26.1 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 26.2 Lightweight Minecraft server
 - [cervinakuy/KitPvP](https://github.com/cervinakuy/KitPvP) - An all-in-one battle plugin built using customizable kits and features.
 - [liebki/SimplePushEvents](https://github.com/liebki/SimplePushEvents) - Stay informed with free real-time Minecraft server push notifications using SimplePushEvents!
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
@@ -1441,7 +1441,7 @@
 - [garbagemule/MobArena](https://github.com/garbagemule/MobArena) - MobArena plugin for Minecraft
 - [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Minecraft Java Edition
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 26.1 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 26.2 Lightweight Minecraft server
 - [cervinakuy/KitPvP](https://github.com/cervinakuy/KitPvP) - An all-in-one battle plugin built using customizable kits and features.
 - [liebki/SimplePushEvents](https://github.com/liebki/SimplePushEvents) - Stay informed with free real-time Minecraft server push notifications using SimplePushEvents!
 - [BentoBoxWorld/BentoBox](https://github.com/BentoBoxWorld/BentoBox) - Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland.
@@ -2637,7 +2637,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
