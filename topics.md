@@ -695,6 +695,7 @@
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
+- [BattermanZ/FlareSync](https://github.com/BattermanZ/FlareSync) - A simple Rust app to update automatically your DNS records on Cloudflare
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [bucherfa/dcc-web](https://github.com/bucherfa/dcc-web) - Convert docker run/create commands to docker-compose.yml files.
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
@@ -1778,7 +1779,6 @@
 - [hackclub/how-did-i-get-here](https://github.com/hackclub/how-did-i-get-here) - A tool/website/article by @kognise about how routing on the Internet works.
 - [epassi/lumon-macrodata-refiner](https://github.com/epassi/lumon-macrodata-refiner) - 
 - [IGLADI/Pi-DNStack](https://github.com/IGLADI/Pi-DNStack) - Pi-DNStack is an automated solution for deploying a containerized DNS management stack, including Pi-hole, Unbound, and Cloudflared.
-- [BattermanZ/FlareSync](https://github.com/BattermanZ/FlareSync) - A simple Rust app to update automatically your DNS records on Cloudflare
 - [Praqma/smallstep-ca-demo](https://github.com/Praqma/smallstep-ca-demo) - Demo showing how to provide a behind the firewall Certificate Authority for development environments.
 - [TheoGil/interactive-plants](https://github.com/TheoGil/interactive-plants) - Generative plants and flowers.
 - [pielgrzym/paper-terminal](https://github.com/pielgrzym/paper-terminal) - Terminal emulator for Waveshare 2.9inch e-paper display
@@ -2532,6 +2532,7 @@
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [refluxdb/influxdb3-community](https://github.com/refluxdb/influxdb3-community) - Unlocked InfluxDB 3.0 "IOx" Community Builds + Examples for Developers & Integrators. Experiment with low-cost storage, unlimited cardinality and FlightSQL APIs
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+- [BattermanZ/FlareSync](https://github.com/BattermanZ/FlareSync) - A simple Rust app to update automatically your DNS records on Cloudflare
 - [p-e-w/ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -2643,6 +2644,7 @@
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
+- [BattermanZ/FlareSync](https://github.com/BattermanZ/FlareSync) - A simple Rust app to update automatically your DNS records on Cloudflare
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
