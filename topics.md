@@ -1635,6 +1635,7 @@
 
 ## others 
 
+- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [patonw/leaves](https://github.com/patonw/leaves) - A text-mode disk usage visualization utility
 - [RedPlanetHQ/town](https://github.com/RedPlanetHQ/town) - Discord, but you walk around a pixel town — where the NPCs have skills.
 - [NeptuneHub/AudioMuse-AI-plugins](https://github.com/NeptuneHub/AudioMuse-AI-plugins) - AudioMuse-AI plugins register
@@ -1658,7 +1659,6 @@
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [matz/spinel](https://github.com/matz/spinel) - 
 - [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) - A web-based RDP client
-- [miseryco/shaderpad](https://github.com/miseryco/shaderpad) - A lightweight, dependency-free library to reduce boilerplate when writing fragment shaders.
 - [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large media collections
 - [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager
 - [marcoroth/bubbletea-ruby](https://github.com/marcoroth/bubbletea-ruby) - A powerful TUI framework for Ruby, based on Charm's bubbletea.
