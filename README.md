@@ -227,6 +227,7 @@
 
 ## Go 
 
+- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [yakushstanislav/UltraViolet](https://github.com/yakushstanislav/UltraViolet) - 
 - [deploymenttheory/terraform-provider-jamfpro](https://github.com/deploymenttheory/terraform-provider-jamfpro) - A community terraform provider for Jamf Pro for configuration as code workflows. It can interface with both classic and jamf pro API's. Built upon the terraform provider sdkV2 and go-api-sdk-jamfpro S
 - [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
@@ -1098,7 +1099,6 @@
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
-- [miseryco/shaderpad](https://github.com/miseryco/shaderpad) - A lightweight, dependency-free library to reduce boilerplate when writing fragment shaders.
 - [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large media collections
 - [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
