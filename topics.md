@@ -156,6 +156,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [perl](#perl)
+- [phishing](#phishing)
 - [php](#php)
 - [physics](#physics)
 - [pico-8](#pico-8)
@@ -1635,6 +1636,7 @@
 
 ## others 
 
+- [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [patonw/leaves](https://github.com/patonw/leaves) - A text-mode disk usage visualization utility
 - [RedPlanetHQ/town](https://github.com/RedPlanetHQ/town) - Discord, but you walk around a pixel town — where the NPCs have skills.
@@ -1735,7 +1737,6 @@
 - [brookst/otpauth_migrate](https://github.com/brookst/otpauth_migrate) - Decode secrets from otpauth-migrate data in Google Authenticator QR code exports
 - [emortaldev/BlockPhysics](https://github.com/emortaldev/BlockPhysics) - A Minecraft physics playground made with Jolt and Minestom
 - [dkorecko/Ticky](https://github.com/dkorecko/Ticky) - Modern and free Kanban board app
-- [phishingclub/phishingclub](https://github.com/phishingclub/phishingclub) - Simulation and red team Phishing Framework
 - [cisagov/playbook-ng](https://github.com/cisagov/playbook-ng) - Playbook-NG is a stateless web-based application used to match incident findings with countermeasures for adversary containment and eviction.
 - [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs in UI with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
 - [iUniker/Pi-Zero-3.5-Inch-Screen](https://github.com/iUniker/Pi-Zero-3.5-Inch-Screen) - 
@@ -2162,6 +2163,12 @@
 ## perl 
 
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
+
+## phishing 
+
+- [phishingclub/phishingclub](https://github.com/phishingclub/phishingclub) - Simulation and red team Phishing Framework
+- [CanIPhish/Phishious](https://github.com/CanIPhish/Phishious) - An open-source Secure Email Gateway (SEG) evaluation toolkit designed for red-teamers.
+- [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 
 ## php 
 
