@@ -1360,7 +1360,7 @@
 ## macos 
 
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
-- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - A video wallpaper engine for macOS Tahoe and Golden Gate
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - Custom video wallpapers for macOS — any video, on the desktop and the lock screen, picked directly from System Settings' Wallpaper pane
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
