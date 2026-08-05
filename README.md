@@ -239,7 +239,7 @@
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 - [paulilaaso/bit](https://github.com/paulilaaso/bit) - CLI / TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [DemiCloud/nocloud-init](https://github.com/DemiCloud/nocloud-init) - A minimal NoCloud cloud-init client
-- [pgsty/minio](https://github.com/pgsty/minio) - Community Maintained Fork of minio (Object Storage Service)
+- [pgsty/minio](https://github.com/pgsty/minio) - S3/MinIO Compatible Object Storage, MinIO fork maintained by PGSTY
 - [eljojo/rememory](https://github.com/eljojo/rememory) - a digital safe with multiple keys, held by people you trust
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
