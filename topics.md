@@ -1471,7 +1471,7 @@
 
 ## monitoring 
 
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy d
 - [K0lin/loglynx](https://github.com/K0lin/loglynx) - LogLynx: Advanced log analytics platform for Traefik and Caddy reverse proxy. Real-time monitoring, geographic insights, performance tracking, device analytics, and comprehensive REST API. Built with 
@@ -2182,7 +2182,7 @@
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [simplesamlphp/simplesamlphp](https://github.com/simplesamlphp/simplesamlphp) - SimpleSAMLphp is an application written in native PHP that deals with authentication.
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 17 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 26 languages.
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -2281,7 +2281,7 @@
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!
 - [devnen/Kitten-TTS-Server](https://github.com/devnen/Kitten-TTS-Server) - Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration.
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
@@ -2704,7 +2704,7 @@
 - [mariochavez/llm_server](https://github.com/mariochavez/llm_server) - Rack API application for Llama.cpp
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 17 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 26 languages.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -2844,7 +2844,7 @@
 
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [paulilaaso/bit](https://github.com/paulilaaso/bit) - CLI / TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [darylhjd/mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
@@ -3002,7 +3002,7 @@
 
 ## web 
 
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy d
 - [SajadTroy/websico](https://github.com/SajadTroy/websico) - A lightweight and flexible web server framework for Node.js.
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
