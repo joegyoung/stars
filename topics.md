@@ -1684,7 +1684,7 @@
 - [eyebrowkang/garage-admin-console](https://github.com/eyebrowkang/garage-admin-console) - A modern web-based administration interface for managing Garage distributed object storage clusters.
 - [simulationship/epstein-search](https://github.com/simulationship/epstein-search) - Python library to search over the Epstein Files. AI-powered vector search across unsealed court documents, FBI reports, and flight logs. Runs entirely locally or with API.
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
-- [pgsty/silo](https://github.com/pgsty/silo) - S3/MinIO Compatible Object Storage. A MinIO fork maintained by PGSTY
+- [pgsty/silo](https://github.com/pgsty/silo) - S3-Compatible Object Storage. A MinIO fork maintained by PGSTY
 - [deepblue597/sixpath](https://github.com/deepblue597/sixpath) - A self-hosted professional network visualization and management tool that helps you map and maintain your connections through an interactive graph interface.
 - [Amal97/Photo-Clean-Up](https://github.com/Amal97/Photo-Clean-Up) - 
 - [JVKeller/dnsdaddy](https://github.com/JVKeller/dnsdaddy) - DNS analysis dashboard for Technitium
@@ -2182,7 +2182,7 @@
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [simplesamlphp/simplesamlphp](https://github.com/simplesamlphp/simplesamlphp) - SimpleSAMLphp is an application written in native PHP that deals with authentication.
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 447 file formats in 26 languages.
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -2704,7 +2704,7 @@
 - [mariochavez/llm_server](https://github.com/mariochavez/llm_server) - Rack API application for Llama.cpp
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 447 file formats in 26 languages.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
