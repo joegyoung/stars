@@ -585,6 +585,7 @@
 
 ## Others 
 
+- [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [spotbye/SpotiFLAC-Next](https://github.com/spotbye/SpotiFLAC-Next) - Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music & Deezer — no account required.
 - [endcycles/ffmpeg-engineering-handbook](https://github.com/endcycles/ffmpeg-engineering-handbook) - Practical cheatsheet for video automation, clipping, and media processing pipelines
 - [iUniker/Pi-Zero-3.5-Inch-Screen](https://github.com/iUniker/Pi-Zero-3.5-Inch-Screen) - 
@@ -1093,6 +1094,7 @@
 
 ## TypeScript 
 
+- [spencerthayer/home-assistant-sun-card](https://github.com/spencerthayer/home-assistant-sun-card) - Home assistant sun card based on Google weather design
 - [wolfoo2931/linkedrecords](https://github.com/wolfoo2931/linkedrecords) - A BaaS (Backend-as-a-Service) solution for web applications, inspired by the flexible nature of triplestores. Featuring real-time collaboration and serverless authorization 🔐
 - [caglaryalcin/lockstep](https://github.com/caglaryalcin/lockstep) - Lockstep is a personal security checklist platform. It helps users track security habits, checklist progress, priorities, and profile-based progress from a clean web interface.
 - [RedPlanetHQ/town](https://github.com/RedPlanetHQ/town) - Discord, but you walk around a pixel town — where the NPCs have skills.
