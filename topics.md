@@ -55,6 +55,7 @@
 - [design](#design)
 - [developer-tools](#developer-tools)
 - [devops](#devops)
+- [discord](#discord)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -667,6 +668,10 @@
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
+
+## discord 
+
+- [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 
 ## django 
 
@@ -1605,6 +1610,7 @@
 
 ## open-source 
 
+- [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [caglaryalcin/lockstep](https://github.com/caglaryalcin/lockstep) - Lockstep is a personal security checklist platform. It helps users track security habits, checklist progress, priorities, and profile-based progress from a clean web interface.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
@@ -1656,6 +1662,7 @@
 
 ## others 
 
+- [spencerthayer/home-assistant-sun-card](https://github.com/spencerthayer/home-assistant-sun-card) - Home assistant sun card based on Google weather design
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
