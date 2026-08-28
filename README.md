@@ -681,6 +681,8 @@
 
 ## Python 
 
+- [tomaae/homeassistant-mikrotik_router](https://github.com/tomaae/homeassistant-mikrotik_router) - Mikrotik router integration for Home Assistant
+- [agittins/bermuda](https://github.com/agittins/bermuda) - Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 - [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT.
 - [spencerthayer/homeassistant-pge](https://github.com/spencerthayer/homeassistant-pge) - Home Assistant custom integration for Portland General Electric (PGE) energy usage, billing, and programs — not California PG&E.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
