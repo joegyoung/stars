@@ -451,7 +451,7 @@
 - [receiptline/receiptline](https://github.com/receiptline/receiptline) - Markdown for receipts. Printable digital receipts. Generate receipt printer commands and images.
 - [karthik-js/nextjs-fcm](https://github.com/karthik-js/nextjs-fcm) - 
 - [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
 - [exogen/use-mouse-prediction](https://github.com/exogen/use-mouse-prediction) - 
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
@@ -588,6 +588,7 @@
 
 ## Others 
 
+- [DeastinY/esphome-waveshare-e-paper-dashboard](https://github.com/DeastinY/esphome-waveshare-e-paper-dashboard) - Dashboard for office co2 and some plant swag
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [spotbye/SpotiFLAC-Next](https://github.com/spotbye/SpotiFLAC-Next) - Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music & Deezer — no account required.
 - [endcycles/ffmpeg-engineering-handbook](https://github.com/endcycles/ffmpeg-engineering-handbook) - Practical cheatsheet for video automation, clipping, and media processing pipelines
