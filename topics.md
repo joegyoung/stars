@@ -707,7 +707,6 @@
 - [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 - [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: Eclipse Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
@@ -1263,7 +1262,6 @@
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [brettinternet/homeops](https://github.com/brettinternet/homeops) - devops resources in my self-hosted homelab
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
@@ -1677,6 +1675,7 @@
 
 ## others 
 
+- [yeet-src/pktscope](https://github.com/yeet-src/pktscope) - Wireshark-style terminal packet analyzer on eBPF/TCX — live packet list, protocol detail tree, section-colorized hex; works on raw-IP tunnel devices
 - [DeastinY/esphome-waveshare-e-paper-dashboard](https://github.com/DeastinY/esphome-waveshare-e-paper-dashboard) - Dashboard for office co2 and some plant swag
 - [tomaae/homeassistant-mikrotik_router](https://github.com/tomaae/homeassistant-mikrotik_router) - Mikrotik router integration for Home Assistant
 - [agittins/bermuda](https://github.com/agittins/bermuda) - Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
@@ -1814,6 +1813,7 @@
 - [jelanidm/Security-Monitoring-Lab-with-Elastic-SIEM-Kali-Linux](https://github.com/jelanidm/Security-Monitoring-Lab-with-Elastic-SIEM-Kali-Linux) - Building a Security Monitoring Lab with Elastic SIEM and Kali VM
 - [gtibo/blog-notebook](https://github.com/gtibo/blog-notebook) - Blog notebook source code
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [Lumon-Industries/Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 - [andrewchilicki/LumonMDR](https://github.com/andrewchilicki/LumonMDR) - Lumon's Macrodata Refinement application inspired by Apple TV's 'Severance'.
