@@ -48,7 +48,6 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [YAML](#yaml)
-- [Zeek](#zeek)
 
 ## Assembly 
 
@@ -1029,12 +1028,16 @@
 
 ## Shell 
 
+- [zyrakq/cinny-stack](https://github.com/zyrakq/cinny-stack) - 🚀 Complete Docker stack for Cinny Matrix messenger - ready-to-deploy containerized solution 💬✨
+- [wlphi/ess-docker-compose](https://github.com/wlphi/ess-docker-compose) - Element Server Suite on Docker Compose
+- [element-hq/element-docker-demo](https://github.com/element-hq/element-docker-demo) - Experimental docker-compose Matrix 2.0 stack for rapidly showing off EW+EX+EC
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [community-scripts/ProxmoxVED](https://github.com/community-scripts/ProxmoxVED) - Development Instance of ProxmoxVE!
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [refluxdb/influxdb3-community](https://github.com/refluxdb/influxdb3-community) - Unlocked InfluxDB 3.0 "IOx" Community Builds + Examples for Developers & Integrators. Experiment with low-cost storage, unlimited cardinality and FlightSQL APIs
 - [jorgedlcruz/netapp_ontap-grafana](https://github.com/jorgedlcruz/netapp_ontap-grafana) - Grafana Dashboard that shows NetApp ONTAP information, and metrics, from the RESTful API
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
+- [zeek/zeek-training](https://github.com/zeek/zeek-training) - Zeek Training Materials/Products
 - [cisagov/ansible-role-banner](https://github.com/cisagov/ansible-role-banner) - Ansible role for installing CISA banner text.
 - [cisagov/ansible-manage-user](https://github.com/cisagov/ansible-manage-user) - Ansible playbooks to manage a user account on a set of hosts
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -1254,10 +1257,6 @@
 - [ansible-lockdown/Windows-2022-CIS](https://github.com/ansible-lockdown/Windows-2022-CIS) - Automated CIS Benchmark Compliance Remediation for Windows Server 2022 with Ansible
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
-
-## Zeek 
-
-- [zeek/zeek-training](https://github.com/zeek/zeek-training) - Zeek Training Materials/Products
 
 
 ## License
