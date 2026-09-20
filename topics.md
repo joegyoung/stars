@@ -1106,7 +1106,7 @@
 ## homebrew 
 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 
 ## html 
 
@@ -1397,7 +1397,7 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [maoyama/Changes](https://github.com/maoyama/Changes) - An Open Source GUI Git Client for macOS
 - [thusvill/LiveWallpaperMacOS](https://github.com/thusvill/LiveWallpaperMacOS) - This is a Opensource Live wallpaper solution for MacOS
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges) - This application gives Mac users in enterprise environments control over the administration of their machines by elevating their access level to administrator privileges on macOS. Users can set a time
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
@@ -1512,7 +1512,7 @@
 ## music 
 
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal
-- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download your playlists and songs, along with album art and metadata, in a self-hosted format via Docker
+- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music and playlists, along with album art and metadata
 - [olimic1000/vinylflow](https://github.com/olimic1000/vinylflow) - Digitize vinyl 10x faster. Open source tool for splitting, tagging, and organizing vinyl recordings
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source Jellyfin music player
@@ -2681,7 +2681,7 @@
 
 - [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT.
 - [caglaryalcin/lockstep](https://github.com/caglaryalcin/lockstep) - Lockstep is a personal security checklist platform. It helps users track security habits, checklist progress, priorities, and profile-based progress from a clean web interface.
-- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download your playlists and songs, along with album art and metadata, in a self-hosted format via Docker
+- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music and playlists, along with album art and metadata
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
 - [ZL154/JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity) - A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all c
@@ -2847,7 +2847,7 @@
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [joshua-d-miller/macOSLAPS](https://github.com/joshua-d-miller/macOSLAPS) - Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows
 - [SuprHackerSteve/Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
@@ -2862,7 +2862,7 @@
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [maoyama/Changes](https://github.com/maoyama/Changes) - An Open Source GUI Git Client for macOS
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
 
