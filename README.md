@@ -372,7 +372,6 @@
 - [BentoBoxWorld/BentoBox](https://github.com/BentoBoxWorld/BentoBox) - Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [dasniko/keycloak-2fa-sms-authenticator](https://github.com/dasniko/keycloak-2fa-sms-authenticator) - Keycloak Authentication Provider implementation to get a 2nd-factor authentication with a OTP/code/token send via SMS (through AWS SNS). Demo purposes only!
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [TuxCoding/Minefana](https://github.com/TuxCoding/Minefana) - Bungee/Spigot plugin to send stats to a InfluxDB to be displayed by a Grafana instance.
 - [thecatcore/Fabric---Discord-Link](https://github.com/thecatcore/Fabric---Discord-Link) - 
 - [MultiPaper/MultiPaper](https://github.com/MultiPaper/MultiPaper) - Multi-server, single-world papermc implementation
@@ -694,7 +693,7 @@
 - [spencerthayer/homeassistant-pge](https://github.com/spencerthayer/homeassistant-pge) - Home Assistant custom integration for Portland General Electric (PGE) energy usage, billing, and programs — not California PG&E.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [NeptuneHub/AudioMuse-AI-plugins](https://github.com/NeptuneHub/AudioMuse-AI-plugins) - AudioMuse-AI plugins register
-- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music and playlists, along with album art and metadata
+- [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata
 - [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
 - [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 - [AlexRosbach/Replibook](https://github.com/AlexRosbach/Replibook) - Scan a server. Generate an Ansible playbook. Reproduce it anywhere.
@@ -729,6 +728,7 @@
 - [jwolf842/mbox-email-viewer](https://github.com/jwolf842/mbox-email-viewer) - Windows desktop application for viewing and extracting emails from MBOX files
 - [brookst/otpauth_migrate](https://github.com/brookst/otpauth_migrate) - Decode secrets from otpauth-migrate data in Google Authenticator QR code exports
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [Zero-Sploit/FlipperZero-Subghz-DB](https://github.com/Zero-Sploit/FlipperZero-Subghz-DB) - A collection of Flipper Zero sub files
 - [hackertarget/pcap-did-what](https://github.com/hackertarget/pcap-did-what) - Analyze pcaps with Zeek and a Grafana Dashboard
@@ -1157,7 +1157,6 @@
 - [cisagov/playbook-ng](https://github.com/cisagov/playbook-ng) - Playbook-NG is a stateless web-based application used to match incident findings with countermeasures for adversary containment and eviction.
 - [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs in UI with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
 - [Kanba-co/kanba](https://github.com/Kanba-co/kanba) - Kanba is an open-source project management tool for modern teams.
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
 - [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
@@ -1181,13 +1180,14 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [aboutsecurity/attack-navigator-4.1](https://github.com/aboutsecurity/attack-navigator-4.1) - MITRE ATT&CK Navigator 4.1
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [excalidraw/excalidraw-room](https://github.com/excalidraw/excalidraw-room) - 
 - [suren-atoyan/react-pwa](https://github.com/suren-atoyan/react-pwa) - Starter kit for modern web applications
 - [giuseppelt/EmailFlare](https://github.com/giuseppelt/EmailFlare) - Send emails from your domain through Cloudflare for free. Self host on your account.
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
