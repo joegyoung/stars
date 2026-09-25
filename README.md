@@ -67,7 +67,7 @@
 
 - [ClockVapor/rpi_gpio](https://github.com/ClockVapor/rpi_gpio) - Ruby conversion of RPi.GPIO Python module
 - [lsferreira42/nfsdiag](https://github.com/lsferreira42/nfsdiag) - A nfs diagnostic application
-- [matz/spinel](https://github.com/matz/spinel) - 
+- [matz/spinel](https://github.com/matz/spinel) - Ruby AOT compiler
 - [juiceme/jperf](https://github.com/juiceme/jperf) - Simple udp performance test utility
 - [hzeller/gmrender-resurrect](https://github.com/hzeller/gmrender-resurrect) - Resource efficient UPnP/DLNA renderer, optimal for Raspberry Pi, CuBox or a general MediaServer. Fork of GMediaRenderer to add some features to make it usable.
 - [IanMercer/pi-sniffer](https://github.com/IanMercer/pi-sniffer) - Sniffer for Bluetooth LE on Raspberry Pi
@@ -685,6 +685,7 @@
 
 ## Python 
 
+- [mbillow/localthings](https://github.com/mbillow/localthings) - Local-control Home Assistant component that authenticates to newer-firmware Samsung devices and talks over CoAP-DTLS.
 - [gioblu/NPC-Forge](https://github.com/gioblu/NPC-Forge) - NPC-Forge is a framework for building conversational agents that run on the CPU without relying on machine learning or LLMs.
 - [nyc-esq/hey-donut](https://github.com/nyc-esq/hey-donut) - A custom "Hey Donut" wake word for Home Assistant — 62 KB, runs on-device, zero false accepts per hour. Includes the full training pipeline so you can teach your assistant any name. CC0.
 - [Fluder-Paradyne/FictionReaper](https://github.com/Fluder-Paradyne/FictionReaper) - Download Royal Road fiction chapters as Markdown (CLI + FastAPI)
