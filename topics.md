@@ -30,6 +30,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -287,6 +288,7 @@
 ## ai-agents 
 
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: Eclipse Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
 
 ## algorithmic-trading 
@@ -352,6 +354,7 @@
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [ansible-lockdown/Windows-2022-CIS](https://github.com/ansible-lockdown/Windows-2022-CIS) - Ansible CIS Benchmark Compliance Remediation for WINDOWS-2022
 - [iassis/SpotiFLAC-Docker](https://github.com/iassis/SpotiFLAC-Docker) - Containerized SpotiFLAC with auto-updating via GitHub Actions
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: Eclipse Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
@@ -451,6 +454,10 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
+
+## claude 
+
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 
 ## claude-code 
 
@@ -558,7 +565,7 @@
 - [LokLakh-s/JellyCrowd](https://github.com/LokLakh-s/JellyCrowd) - One plugin to rule them all — TMDB catalog, media requests, per-user quotas, branding and stats, inside Jellyfin.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [ZL154/JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity) - A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all c
-- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
 - [nathanhoad/godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager) - A powerful nonlinear dialogue system for Godot
 
@@ -574,6 +581,7 @@
 
 ## cybersecurity 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [caglaryalcin/lockstep](https://github.com/caglaryalcin/lockstep) - Lockstep is a personal security checklist platform. It helps users track security habits, checklist progress, priorities, and profile-based progress from a clean web interface.
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
 - [ansible-lockdown/Windows-2022-CIS](https://github.com/ansible-lockdown/Windows-2022-CIS) - Ansible CIS Benchmark Compliance Remediation for WINDOWS-2022
@@ -1470,6 +1478,7 @@
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 
@@ -1693,7 +1702,6 @@
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [patonw/leaves](https://github.com/patonw/leaves) - A text-mode disk usage visualization utility
-- [RedPlanetHQ/town](https://github.com/RedPlanetHQ/town) - Discord, but you walk around a pixel town — where the NPCs have skills.
 - [NeptuneHub/AudioMuse-AI-plugins](https://github.com/NeptuneHub/AudioMuse-AI-plugins) - AudioMuse-AI plugins register
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [2dom/keypad](https://github.com/2dom/keypad) - Open Source minimalist Keypad for Zigbee / Thread / Matter
