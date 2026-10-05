@@ -1638,6 +1638,7 @@
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [caglaryalcin/lockstep](https://github.com/caglaryalcin/lockstep) - Lockstep is a personal security checklist platform. It helps users track security habits, checklist progress, priorities, and profile-based progress from a clean web interface.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - Custom video wallpapers for macOS — any video, on the desktop and the lock screen, picked directly from System Settings' Wallpaper pane
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
 - [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -2700,6 +2701,7 @@
 - [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT.
 - [caglaryalcin/lockstep](https://github.com/caglaryalcin/lockstep) - Lockstep is a personal security checklist platform. It helps users track security habits, checklist progress, priorities, and profile-based progress from a clean web interface.
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata
+- [Nonetss/playbook-runner](https://github.com/Nonetss/playbook-runner) - Self-hosted web UI to run Ansible playbooks against your inventory, without the complexity of AWX/Tower.
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
 - [ZL154/JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity) - A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all c
@@ -2863,6 +2865,7 @@
 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - Custom video wallpapers for macOS — any video, on the desktop and the lock screen, picked directly from System Settings' Wallpaper pane
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
@@ -2877,6 +2880,7 @@
 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
+- [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - Custom video wallpapers for macOS — any video, on the desktop and the lock screen, picked directly from System Settings' Wallpaper pane
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [maoyama/Changes](https://github.com/maoyama/Changes) - An Open Source GUI Git Client for macOS
@@ -2969,6 +2973,7 @@
 - [mediocreatmybest/RackDown](https://github.com/mediocreatmybest/RackDown) - Plain-text rack documentation that renders deterministic SVG rack diagrams, from CLI, Obsidian, Hugo and other host apps.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 - [Fanfulla/OCR-buddy](https://github.com/Fanfulla/OCR-buddy) - Faithful, 100% local OCR Chrome extension | code, prose, formulas (LaTeX) & tables. No server, nothing leaves your device, no hallucinated text. PP-OCRv5 on ONNX Runtime Web.
+- [Nonetss/playbook-runner](https://github.com/Nonetss/playbook-runner) - Self-hosted web UI to run Ansible playbooks against your inventory, without the complexity of AWX/Tower.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
