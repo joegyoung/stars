@@ -879,7 +879,7 @@
 - [loudsmilestudios/TetraForce](https://github.com/loudsmilestudios/TetraForce) - GBC Zelda-inspired game with online multiplayer. Built with Godot Engine
 - [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - [ondras/trw](https://github.com/ondras/trw) - The Royal Wedding – coffebreak roguelike with story, lighting, zombies and (sometimes) lutefisk!
-- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod - Adds the /lua command to the Minecraft game
+- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod for Forge - Adds the /lua command to the Minecraft game
 
 ## game-development 
 
@@ -1189,7 +1189,7 @@
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [codota/tabnine-sublime](https://github.com/codota/tabnine-sublime) - Tabnine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, Julia, Lua, OCaml, Perl, Haskell, React
-- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod - Adds the /lua command to the Minecraft game
+- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod for Forge - Adds the /lua command to the Minecraft game
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
 ## javascript 
@@ -1290,7 +1290,7 @@
 
 ## learn-to-code 
 
-- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod - Adds the /lua command to the Minecraft game
+- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod for Forge - Adds the /lua command to the Minecraft game
 
 ## learning 
 
@@ -1362,7 +1362,7 @@
 - [actuino/minecraft2webhooks](https://github.com/actuino/minecraft2webhooks) - A LUA plugin to send Webhook events from a Minecraft virtual world
 - [BlueAmulet/midi2pico](https://github.com/BlueAmulet/midi2pico) - Midi to PICO-8 converter
 - [codota/tabnine-sublime](https://github.com/codota/tabnine-sublime) - Tabnine Autocomplete AI: JavaScript, Python, TypeScript, PHP, C/C++, HTML/CSS, Go, Java, Ruby, C#, Rust, SQL, Bash, Kotlin, Julia, Lua, OCaml, Perl, Haskell, React
-- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod - Adds the /lua command to the Minecraft game
+- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod for Forge - Adds the /lua command to the Minecraft game
 
 ## mac 
 
@@ -1503,7 +1503,7 @@
 - [andrei1058/BedWars1058](https://github.com/andrei1058/BedWars1058) - A minecraft minigame where you have to defend your bed and destroy the others. Once your bed is destroyed, you cannot respawn.
 - [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
 - [actuino/minecraft2webhooks](https://github.com/actuino/minecraft2webhooks) - A LUA plugin to send Webhook events from a Minecraft virtual world
-- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod - Adds the /lua command to the Minecraft game
+- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod for Forge - Adds the /lua command to the Minecraft game
 
 ## mongodb 
 
@@ -1527,6 +1527,7 @@
 ## music 
 
 - [suitux/Tagr](https://github.com/suitux/Tagr) - Self-hosted web app for browsing, playing, and editing    music file metadata. Features a three-panel UI to navigate       your library, listen to tracks, and write tag changes directly    back to aud
+- [blacklight/songhive](https://github.com/blacklight/songhive) - A federated and self-hosted music sharing service
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata
 - [olimic1000/vinylflow](https://github.com/olimic1000/vinylflow) - Digitize vinyl 10x faster. Open source tool for splitting, tagging, and organizing vinyl recordings
@@ -1688,7 +1689,6 @@
 
 ## others 
 
-- [blacklight/songhive](https://github.com/blacklight/songhive) - A federated and self-hosted music sharing service
 - [buckets/application](https://github.com/buckets/application) - Buckets Desktop Application
 - [lmmendes/attic](https://github.com/lmmendes/attic) - Self-hosted home inventory management. Track everything. Lose nothing.
 - [mk6i/im-for-macos](https://github.com/mk6i/im-for-macos) - Run classic Windows AIM on modern MacOS.
@@ -1752,7 +1752,7 @@
 - [talvasconcelos/chaospad](https://github.com/talvasconcelos/chaospad) - Collaborative pads based on the excellent https://pads.ccc.de
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [juiceme/jperf](https://github.com/juiceme/jperf) - Simple udp performance test utility
-- [community-scripts/ProxmoxVED](https://github.com/community-scripts/ProxmoxVED) - Development Instance of ProxmoxVE!
+- [community-scripts/DevScripts](https://github.com/community-scripts/DevScripts) - Development Instance of ProxmoxVE!
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [nkxxll/home-excalidraw](https://github.com/nkxxll/home-excalidraw) - reproducing the excalidraw workspace for me
@@ -2306,7 +2306,7 @@
 ## programming 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod - Adds the /lua command to the Minecraft game
+- [wizards-of-lua/wizards-of-lua](https://github.com/wizards-of-lua/wizards-of-lua) - Wizards of Lua Mod for Forge - Adds the /lua command to the Minecraft game
 
 ## programming-language 
 
@@ -2696,6 +2696,7 @@
 ## self-hosted 
 
 - [suitux/Tagr](https://github.com/suitux/Tagr) - Self-hosted web app for browsing, playing, and editing    music file metadata. Features a three-panel UI to navigate       your library, listen to tracks, and write tag changes directly    back to aud
+- [blacklight/songhive](https://github.com/blacklight/songhive) - A federated and self-hosted music sharing service
 - [logabell/dewarr](https://github.com/logabell/dewarr) - Self-hosted audiobook discovery, Goodreads and Hardcover lists, Audiobookshelf integration, and automatic downloads.
 - [LokLakh-s/JellyCrowd](https://github.com/LokLakh-s/JellyCrowd) - One plugin to rule them all — TMDB catalog, media requests, per-user quotas, branding and stats, inside Jellyfin.
 - [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT.
