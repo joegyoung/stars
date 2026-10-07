@@ -859,7 +859,7 @@
 
 ## framework 
 
-- [gioblu/NPC-Forge](https://github.com/gioblu/NPC-Forge) - NPC-Forge is a framework for building conversational agents that run on the CPU without relying on machine learning or LLMs.
+- [gioblu/NPC-Forge](https://github.com/gioblu/NPC-Forge) - The world's first open-source neuro-symbolic AI agent framework that runs on the CPU even on obsolete hardware.
 - [SajadTroy/websico](https://github.com/SajadTroy/websico) - A lightweight and flexible web server framework for Node.js.
 
 ## frontend 
@@ -2918,7 +2918,7 @@
 
 ## terminal 
 
-- [gioblu/NPC-Forge](https://github.com/gioblu/NPC-Forge) - NPC-Forge is a framework for building conversational agents that run on the CPU without relying on machine learning or LLMs.
+- [gioblu/NPC-Forge](https://github.com/gioblu/NPC-Forge) - The world's first open-source neuro-symbolic AI agent framework that runs on the CPU even on obsolete hardware.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [paulilaaso/bit](https://github.com/paulilaaso/bit) - CLI / TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
