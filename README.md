@@ -265,6 +265,7 @@
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [thebigbone/docker-rss](https://github.com/thebigbone/docker-rss) - an rss feed for docker image updates
 - [0x2142/frigate-notify](https://github.com/0x2142/frigate-notify) - Event notifications for a standalone Frigate NVR instance
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
@@ -449,7 +450,7 @@
 - [receiptline/receiptline](https://github.com/receiptline/receiptline) - Markdown for receipts. Printable digital receipts. Generate receipt printer commands and images.
 - [karthik-js/nextjs-fcm](https://github.com/karthik-js/nextjs-fcm) - 
 - [crafatar/crafatar](https://github.com/crafatar/crafatar) - A blazing fast API for Minecraft faces
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
+- [wekan/wekan](https://github.com/wekan/wekan) - FLOSS kanban, built with Meteor. Official Public Support at GitHub issues only. Official Private Pre-Paid Support at https://wekan.fi/commercial-support/ only. Translation PRs to imports/i18n/data/en.
 - [exogen/use-mouse-prediction](https://github.com/exogen/use-mouse-prediction) - 
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
@@ -684,8 +685,8 @@
 
 - [blacklight/songhive](https://github.com/blacklight/songhive) - A federated and self-hosted music sharing service
 - [logabell/dewarr](https://github.com/logabell/dewarr) - Self-hosted audiobook discovery, Goodreads and Hardcover lists, Audiobookshelf integration, and automatic downloads.
-- [mbillow/localthings](https://github.com/mbillow/localthings) - Local-control Home Assistant component that authenticates to newer-firmware Samsung devices and talks over CoAP-DTLS.
-- [gioblu/NPC-Forge](https://github.com/gioblu/NPC-Forge) - The world's first open-source neuro-symbolic AI agent framework that runs on the CPU even on obsolete hardware.
+- [mbillow/localthings](https://github.com/mbillow/localthings) - Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
+- [gioblu/NPC-Forge](https://github.com/gioblu/NPC-Forge) - The open-source neuro-symbolic AI agent framework.
 - [nyc-esq/hey-donut](https://github.com/nyc-esq/hey-donut) - A custom "Hey Donut" wake word for Home Assistant — 62 KB, runs on-device, zero false accepts per hour. Includes the full training pipeline so you can teach your assistant any name. CC0.
 - [Fluder-Paradyne/FictionReaper](https://github.com/Fluder-Paradyne/FictionReaper) - Download Royal Road fiction chapters as Markdown (CLI + FastAPI)
 - [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan
@@ -1170,7 +1171,6 @@
 - [bunkeriot/BunkerM](https://github.com/bunkeriot/BunkerM) - 🚀 BunkerM: Eclipse Mosquitto MQTT management platform, featuring dynamic security, MQTT ACL management, monitoring,and AI integrations
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [WaveringAna/SimpleLink](https://github.com/WaveringAna/SimpleLink) - A very performant and light (2mb in memory) link shortener and tracker. Written in Rust and React and uses Postgres/SQLite.
 - [hackclub/how-did-i-get-here](https://github.com/hackclub/how-did-i-get-here) - A tool/website/article by @kognise about how routing on the Internet works.
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
