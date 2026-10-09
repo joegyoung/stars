@@ -1956,7 +1956,7 @@
 - [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, minimalist loaders & spinners. Made with CSS, HTML and SVG. https://uiball.com/ldrs
 - [tias/xinput_calibrator](https://github.com/tias/xinput_calibrator) - A generic touchscreen calibration program for X.Org
 - [Bauxitedev/bendyworm](https://github.com/Bauxitedev/bendyworm) - A platformer where the entire world bends like a worm
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menu bar Tool to set Charge Limits and Prolong Battery Lifespan
 - [miskatonicstudio/goat](https://github.com/miskatonicstudio/goat) - Godot Open Adventure Template (GOAT) is a tool for making 3D adventure games.
 - [fahall/godot_2d_visibility](https://github.com/fahall/godot_2d_visibility) - 2D Field of View algorithm implemented in GDScript
 - [Gianclgar/GDScriptAudioImport](https://github.com/Gianclgar/GDScriptAudioImport) - A script in GDScript for importing .wav and .ogg audio files at runtime
