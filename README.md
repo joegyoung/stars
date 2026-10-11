@@ -684,6 +684,7 @@
 
 ## Python 
 
+- [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen) - Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.
 - [blacklight/songhive](https://github.com/blacklight/songhive) - A federated and self-hosted music sharing service
 - [logabell/dewarr](https://github.com/logabell/dewarr) - Self-hosted audiobook discovery, Goodreads and Hardcover lists, Audiobookshelf integration, and automatic downloads.
 - [mbillow/localthings](https://github.com/mbillow/localthings) - Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
@@ -1120,6 +1121,7 @@
 
 ## TypeScript 
 
+- [C2Tech-sys/proxion](https://github.com/C2Tech-sys/proxion) - A modern, open-source web console for Proxmox VE: live dashboard with console thumbnails, vSphere-style object pages, embedded VNC console and terminal, power actions, per-user preferences.
 - [suitux/Tagr](https://github.com/suitux/Tagr) - Self-hosted web app for browsing, playing, and editing    music file metadata. Features a three-panel UI to navigate       your library, listen to tracks, and write tag changes directly    back to aud
 - [mediocreatmybest/RackDown](https://github.com/mediocreatmybest/RackDown) - Plain-text rack documentation that renders deterministic SVG rack diagrams, from CLI, Obsidian, Hugo and other host apps.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
