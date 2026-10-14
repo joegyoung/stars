@@ -1268,6 +1268,7 @@
 
 ## YAML 
 
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 - [ansible-lockdown/Windows-2022-CIS](https://github.com/ansible-lockdown/Windows-2022-CIS) - Ansible CIS Benchmark Compliance Remediation for WINDOWS-2022
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
