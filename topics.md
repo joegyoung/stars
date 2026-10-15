@@ -373,6 +373,7 @@
 
 ## awesome 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -466,6 +467,7 @@
 
 ## claude 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 
 ## claude-code 
@@ -806,6 +808,7 @@
 
 ## esp32 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen) - Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.
 - [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT.
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
@@ -866,6 +869,7 @@
 
 ## font 
 
+- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [arrowtype/shantell-sans](https://github.com/arrowtype/shantell-sans) - Shantell Sans, from Shantell Martin, is a marker-style font built for creative expression, typographic play, and animation.
 - [paulilaaso/bit](https://github.com/paulilaaso/bit) - CLI / TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [romeovs/creep](https://github.com/romeovs/creep) - a pretty sweet 4px wide pixel font.
@@ -1120,6 +1124,7 @@
 
 ## home-assistant 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen) - Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.
 - [mbillow/localthings](https://github.com/mbillow/localthings) - Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
 - [nyc-esq/hey-donut](https://github.com/nyc-esq/hey-donut) - A custom "Hey Donut" wake word for Home Assistant — 62 KB, runs on-device, zero false accepts per hour. Includes the full training pipeline so you can teach your assistant any name. CC0.
@@ -1187,6 +1192,7 @@
 
 ## iot 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen) - Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
@@ -1530,6 +1536,7 @@
 
 ## monitoring 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy d
@@ -1640,6 +1647,7 @@
 
 ## npm 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) - A node package wrapper for https://github.com/OpenAPITools/openapi-generator
 
 ## objective-c 
@@ -2448,6 +2456,7 @@
 
 ## react 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [C2Tech-sys/proxion](https://github.com/C2Tech-sys/proxion) - A modern, open-source web console for Proxmox VE: live dashboard with console thumbnails, vSphere-style object pages, embedded VNC console and terminal, power actions, per-user preferences.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
@@ -2995,6 +3004,7 @@
 
 ## typescript 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [C2Tech-sys/proxion](https://github.com/C2Tech-sys/proxion) - A modern, open-source web console for Proxmox VE: live dashboard with console thumbnails, vSphere-style object pages, embedded VNC console and terminal, power actions, per-user preferences.
 - [mediocreatmybest/RackDown](https://github.com/mediocreatmybest/RackDown) - Plain-text rack documentation that renders deterministic SVG rack diagrams, from CLI, Obsidian, Hugo and other host apps.
