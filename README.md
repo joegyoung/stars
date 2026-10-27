@@ -97,6 +97,7 @@
 
 - [LokLakh-s/JellyCrowd](https://github.com/LokLakh-s/JellyCrowd) - One plugin to rule them all — TMDB catalog, media requests, per-user quotas, branding and stats, inside Jellyfin.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+- [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [ZL154/JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity) - A Jellyfin plugin that adds native two-factor authentication (TOTP, email OTP) with trusted device tokens, TV device pairing, LAN bypass, and API key bypass. Server-side enforcement — works with all c
 - [Felitendo/jellyfin-plugin-lyrics](https://github.com/Felitendo/jellyfin-plugin-lyrics) - A plugin for Jellyfin that automatically downloads and applies lyrics to your songs
@@ -184,7 +185,7 @@
 
 ## Elixir 
 
-- [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - Open-Source Network Management, Monitoring, ITOM, and Security Analytics
+- [carverauto/serviceradar](https://github.com/carverauto/serviceradar) - Open-Source Network Management, Monitoring, ITOM, Observability, and Security Analytics
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
@@ -386,7 +387,6 @@
 
 - [yeet-src/pktscope](https://github.com/yeet-src/pktscope) - Wireshark-style terminal packet analyzer on eBPF/TCX — live packet list, protocol detail tree, section-colorized hex; works on raw-IP tunnel devices
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
-- [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 - [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS,
 - [sheshbabu/riffle](https://github.com/sheshbabu/riffle) - A keyboard-driven photo curating tool for photographers
 - [JVKeller/dnsdaddy](https://github.com/JVKeller/dnsdaddy) - DNS analysis dashboard for Technitium
@@ -585,6 +585,7 @@
 
 ## Others 
 
+- [pham-tuan-binh/glados-respeaker](https://github.com/pham-tuan-binh/glados-respeaker) - Building Potato GLaDOS with Home Assistant and ESPHome
 - [buckets/application](https://github.com/buckets/application) - Buckets Desktop Application
 - [zyrakq/cinny-stack](https://github.com/zyrakq/cinny-stack) - 🚀 Complete Docker stack for Cinny Matrix messenger - ready-to-deploy containerized solution 💬✨
 - [DeastinY/esphome-waveshare-e-paper-dashboard](https://github.com/DeastinY/esphome-waveshare-e-paper-dashboard) - Dashboard for office co2 and some plant swag
@@ -988,7 +989,6 @@
 
 ## Rust 
 
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
