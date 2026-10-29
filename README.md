@@ -689,7 +689,6 @@
 - [agittins/bermuda](https://github.com/agittins/bermuda) - Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant
 - [dmellok/tesserae](https://github.com/dmellok/tesserae) - E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT.
 - [spencerthayer/homeassistant-pge](https://github.com/spencerthayer/homeassistant-pge) - Home Assistant custom integration for Portland General Electric (PGE) energy usage, billing, and programs — not California PG&E.
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [NeptuneHub/AudioMuse-AI-plugins](https://github.com/NeptuneHub/AudioMuse-AI-plugins) - AudioMuse-AI plugins register
 - [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) - Download and listen to your music, playlists, and podcasts, along with album art and metadata
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
@@ -721,6 +720,7 @@
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [asdfghj1237890/WebVideo2NAS](https://github.com/asdfghj1237890/WebVideo2NAS) - Self-hosted Chrome → NAS pipeline: capture HLS / DASH / MP4 streams from any site and download to your NAS. Single multi-arch Docker image (FastAPI + worker + ffmpeg) distributed via GHCR.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [cassandra/home-information](https://github.com/cassandra/home-information) - Home Information - Your home, your data, organized.
 - [Psmths/esxi-log-parser](https://github.com/Psmths/esxi-log-parser) - Single-shot parser for ESXi logs that produces annotated timelines of interesting events.
 - [jwolf842/mbox-email-viewer](https://github.com/jwolf842/mbox-email-viewer) - Windows desktop application for viewing and extracting emails from MBOX files
@@ -1040,7 +1040,6 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [refluxdb/influxdb3-community](https://github.com/refluxdb/influxdb3-community) - Unlocked InfluxDB 3.0 "IOx" Community Builds + Examples for Developers & Integrators. Experiment with low-cost storage, unlimited cardinality and FlightSQL APIs
 - [jorgedlcruz/netapp_ontap-grafana](https://github.com/jorgedlcruz/netapp_ontap-grafana) - Grafana Dashboard that shows NetApp ONTAP information, and metrics, from the RESTful API
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [zeek/zeek-training](https://github.com/zeek/zeek-training) - Zeek Training Materials/Products
 - [cisagov/ansible-role-banner](https://github.com/cisagov/ansible-role-banner) - Ansible role for installing CISA banner text.
 - [cisagov/ansible-manage-user](https://github.com/cisagov/ansible-manage-user) - Ansible playbooks to manage a user account on a set of hosts
@@ -1122,13 +1121,14 @@
 - [mediocreatmybest/RackDown](https://github.com/mediocreatmybest/RackDown) - Plain-text rack documentation that renders deterministic SVG rack diagrams, from CLI, Obsidian, Hugo and other host apps.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 - [spencerthayer/home-assistant-sun-card](https://github.com/spencerthayer/home-assistant-sun-card) - Home assistant sun card based on Google weather design
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [wolfoo2931/linkedrecords](https://github.com/wolfoo2931/linkedrecords) - A BaaS (Backend-as-a-Service) solution for web applications, inspired by the flexible nature of triplestores. Featuring real-time collaboration and serverless authorization 🔐
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [caglaryalcin/lockstep](https://github.com/caglaryalcin/lockstep) - Lockstep is a personal security checklist platform. It helps users track security habits, checklist progress, priorities, and profile-based progress from a clean web interface.
 - [Fanfulla/OCR-buddy](https://github.com/Fanfulla/OCR-buddy) - Faithful, 100% local OCR Chrome extension | code, prose, formulas (LaTeX) & tables. No server, nothing leaves your device, no hallucinated text. PP-OCRv5 on ONNX Runtime Web.
 - [Nonetss/playbook-runner](https://github.com/Nonetss/playbook-runner) - Self-hosted web UI to run Ansible playbooks against your inventory, without the complexity of AWX/Tower.
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
