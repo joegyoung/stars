@@ -440,7 +440,7 @@
 ## bot 
 
 - [chiefonboarding/ChiefOnboarding](https://github.com/chiefonboarding/ChiefOnboarding) - Free and open-source employee onboarding platform. Onboard new hires through Slack or the web portal.
-- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for credential leaks on paste sites.
+- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for leaks on paste sites.
 
 ## bugbounty 
 
@@ -568,7 +568,7 @@
 ## crawler 
 
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy d
-- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for credential leaks on paste sites.
+- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for leaks on paste sites.
 
 ## cryptography 
 
@@ -1725,7 +1725,7 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [PhonePe/mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
-- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for credential leaks on paste sites.
+- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for leaks on paste sites.
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [iojw/socialscan](https://github.com/iojw/socialscan) - Python library for accurately querying username and email usage on online platforms
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -2410,7 +2410,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for credential leaks on paste sites.
+- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for leaks on paste sites.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [gsurma/password_cracker](https://github.com/gsurma/password_cracker) - Char-level RNN LSTM password cracker 🔑🔓.
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
