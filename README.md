@@ -108,6 +108,7 @@
 - [jellyfin/jellyfin-plugin-opensubtitles](https://github.com/jellyfin/jellyfin-plugin-opensubtitles) - 
 - [Viperinius/jellyfin-plugin-spotify-import](https://github.com/Viperinius/jellyfin-plugin-spotify-import) - Import playlists from Spotify in Jellyfin
 - [jyourstone/jellyfin-smartlists-plugin](https://github.com/jyourstone/jellyfin-smartlists-plugin) - Create smart, rule-based playlists and collections in Jellyfin — for movies, shows, music, or anything your library holds. A single genre rule takes seconds; stack rules into groups and you can expres
+- [dkorecko/Ticky](https://github.com/dkorecko/Ticky) - Modern and free Kanban board app
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [sakakun/Proxmox-Desktop-Client](https://github.com/sakakun/Proxmox-Desktop-Client) - A windows desktop client for Proxmox.
 - [cmu-sei/GHOSTS](https://github.com/cmu-sei/GHOSTS) - GHOSTS (General Human-Oriented Synthetic Teammates and Systems) is a realistic user simulation framework for cyber experimentation, simulation, training, and exercise
@@ -298,7 +299,7 @@
 - [wader/ydls](https://github.com/wader/ydls) - youtube-dl HTTP download and transcode service
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt and export passwords, cookies, history and more from 20 browsers on Windows, macOS and Linux. For authorized security research, incident response and DFIR.
 - [Fusion/kittendns](https://github.com/Fusion/kittendns) - 
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
@@ -329,7 +330,6 @@
 - [talvasconcelos/chaospad](https://github.com/talvasconcelos/chaospad) - Collaborative pads based on the excellent https://pads.ccc.de
 - [anoniemerd/PruneMate](https://github.com/anoniemerd/PruneMate) - PruneMate - Docker image & resource cleanup helper, on a schedule!
 - [slippyex/ym2149-rs](https://github.com/slippyex/ym2149-rs) - Cycle-accurate YM2149 PSG emulator with real-time audio playback and visualization. Includes a Bevy plugin for easy integration into game engines and creative projects. Supports SNDH, GIST, Arkos-Trac
-- [dkorecko/Ticky](https://github.com/dkorecko/Ticky) - Modern and free Kanban board app
 - [chipweinberger/ShaderToyLite.js](https://github.com/chipweinberger/ShaderToyLite.js) - A full-featured ShaderToy renderer in ~400 lines of code.
 - [nature-of-code/noc-book-2](https://github.com/nature-of-code/noc-book-2) - The 2024 edition of The Nature of Code with p5.js. Includes Notion workflow and build system.
 - [idle-js-games/incremancer](https://github.com/idle-js-games/incremancer) - Idle Necromancer Game (Zombie Idle)@@@
@@ -346,7 +346,6 @@
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [fbngrm/honeycomb-js](https://github.com/fbngrm/honeycomb-js) - A bee came in my room today ...
 - [bootstrap-ruby/sinatra-bootstrap](https://github.com/bootstrap-ruby/sinatra-bootstrap) - A demonstrator for Sinatra and Twitter's Bootstrap
-- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
 - [karpathy/recurrentjs](https://github.com/karpathy/recurrentjs) - Deep Recurrent Neural Networks and LSTMs in Javascript. More generally also arbitrary expression graphs with automatic differentiation.
 - [emad-elsaid/RubyScripts](https://github.com/emad-elsaid/RubyScripts) - Daily ruby scripts I create them for fun, watch it to get a daily script and learn a tip everyday
@@ -400,6 +399,7 @@
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [mandatoryprogrammer/thermoptic](https://github.com/mandatoryprogrammer/thermoptic) - A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across all layers of the stack.
 - [dai-shi/excalidraw-gallery](https://github.com/dai-shi/excalidraw-gallery) - A tool to display Excalidraw drawings
+- [zeek/zeek-training](https://github.com/zeek/zeek-training) - Zeek Training Materials/Products
 - [plankanban/planka](https://github.com/plankanban/planka) - Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [DumbWareio/DumbTerm](https://github.com/DumbWareio/DumbTerm) - A stupidly simple web-based terminal emulator, with common tools and Starship enabled (via Docker)! 🚀
@@ -499,6 +499,7 @@
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [zirman/enigma](https://github.com/zirman/enigma) - A Web App Implementation of the Enigma Machine
 - [danigb/soundfont-player](https://github.com/danigb/soundfont-player) - Quick soundfont loader and player for browser
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
 - [JoseTomasTocino/mindmapit](https://github.com/JoseTomasTocino/mindmapit) - Simple web tool to create mindmaps
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
@@ -699,7 +700,6 @@
 - [AlexRosbach/Replibook](https://github.com/AlexRosbach/Replibook) - Scan a server. Generate an Ansible playbook. Reproduce it anywhere.
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Hackerest/pwneye](https://github.com/Hackerest/pwneye) - Your ONVIF and RTSP camera companion for discovering and hacking real-world security cameras 🎥
 - [frederikemmer/MediaLyze](https://github.com/frederikemmer/MediaLyze) - Self-hosted media library analysis for large media collections
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
@@ -821,7 +821,7 @@
 - [anime-dl/anime-downloader](https://github.com/anime-dl/anime-downloader) - A simple but powerful anime downloader and streamer.
 - [alzamer2/Crunchyroll-XML-Decoder-py3](https://github.com/alzamer2/Crunchyroll-XML-Decoder-py3) - 
 - [kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter) - Scanning pastebin with yara rules
-- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for credential leaks on paste sites.
+- [rndinfosecguy/Scavenger](https://github.com/rndinfosecguy/Scavenger) - Crawler (Bot) searching for leaks on paste sites.
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [dogoncouch/logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python module for analyzing log files and other data.
 - [iojw/socialscan](https://github.com/iojw/socialscan) - Python library for accurately querying username and email usage on online platforms
@@ -1043,7 +1043,6 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [refluxdb/influxdb3-community](https://github.com/refluxdb/influxdb3-community) - Unlocked InfluxDB 3.0 "IOx" Community Builds + Examples for Developers & Integrators. Experiment with low-cost storage, unlimited cardinality and FlightSQL APIs
 - [jorgedlcruz/netapp_ontap-grafana](https://github.com/jorgedlcruz/netapp_ontap-grafana) - Grafana Dashboard that shows NetApp ONTAP information, and metrics, from the RESTful API
-- [zeek/zeek-training](https://github.com/zeek/zeek-training) - Zeek Training Materials/Products
 - [cisagov/ansible-role-banner](https://github.com/cisagov/ansible-role-banner) - Ansible role for installing CISA banner text.
 - [cisagov/ansible-manage-user](https://github.com/cisagov/ansible-manage-user) - Ansible playbooks to manage a user account on a set of hosts
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
@@ -1087,6 +1086,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [DevLeoko/license-gate](https://github.com/DevLeoko/license-gate) - License and API key management tool and validation API for developers
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -1126,7 +1126,7 @@
 - [mediocreatmybest/RackDown](https://github.com/mediocreatmybest/RackDown) - Plain-text rack documentation that renders deterministic SVG rack diagrams, from CLI, Obsidian, Hugo and other host apps.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 - [spencerthayer/home-assistant-sun-card](https://github.com/spencerthayer/home-assistant-sun-card) - Home assistant sun card based on Google weather design
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [wolfoo2931/linkedrecords](https://github.com/wolfoo2931/linkedrecords) - A BaaS (Backend-as-a-Service) solution for web applications, inspired by the flexible nature of triplestores. Featuring real-time collaboration and serverless authorization 🔐
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [caglaryalcin/lockstep](https://github.com/caglaryalcin/lockstep) - Lockstep is a personal security checklist platform. It helps users track security habits, checklist progress, priorities, and profile-based progress from a clean web interface.
