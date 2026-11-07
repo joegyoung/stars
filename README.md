@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [hypernuclear/hyperbin](https://github.com/hypernuclear/hyperbin) - A fun way to remind you to clear your trash/recycle bin on macos/windows 🪰🐙👁️🗑️
 - [2dom/keypad](https://github.com/2dom/keypad) - Open Source minimalist Keypad for Zigbee / Thread / Matter
 - [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
@@ -293,6 +294,7 @@
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 - [m1k1o/neko-rooms](https://github.com/m1k1o/neko-rooms) - Selfhosted collaborative browser - room management for n.eko
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+- [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [stayradiated/pandora](https://github.com/stayradiated/pandora) - Export all pandora stations + faves to JSON
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) - Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
 - [windtf/wireproxy](https://github.com/windtf/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
@@ -772,7 +774,6 @@
 - [dogukancagatay/step-ca-example](https://github.com/dogukancagatay/step-ca-example) - step-ca ACME server example with Traefik
 - [sanjit-sinha/Animekaizoku-Scraper](https://github.com/sanjit-sinha/Animekaizoku-Scraper) - A script to scrape links from animekaizoku.com
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
-- [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [Evolution0/bandcamp-dl](https://github.com/Evolution0/bandcamp-dl) - Simple python script to download Bandcamp albums
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
