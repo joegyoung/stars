@@ -683,6 +683,7 @@
 
 ## Python 
 
+- [theak/jackery-homeassistant](https://github.com/theak/jackery-homeassistant) - Custom Home Assistant integration for monitoring Jackery portable power stations
 - [zak-45/WLEDVideoSync](https://github.com/zak-45/WLEDVideoSync) - Cast video, image, Url, phone camera to 2D Led Matrix using e131 artNet or DDP  ( e.g: WLED ...)
 - [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen) - Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.
 - [logabell/dewarr](https://github.com/logabell/dewarr) - Self-hosted audiobook discovery, Goodreads and Hardcover lists, Audiobookshelf integration, and automatic downloads.
@@ -1041,7 +1042,7 @@
 - [element-hq/element-docker-demo](https://github.com/element-hq/element-docker-demo) - Experimental docker-compose Matrix 2.0 stack for rapidly showing off EW+EX+EC
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [community-scripts/DevScripts](https://github.com/community-scripts/DevScripts) - Development Instance of ProxmoxVE!
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [refluxdb/influxdb3-community](https://github.com/refluxdb/influxdb3-community) - Unlocked InfluxDB 3.0 "IOx" Community Builds + Examples for Developers & Integrators. Experiment with low-cost storage, unlimited cardinality and FlightSQL APIs
 - [jorgedlcruz/netapp_ontap-grafana](https://github.com/jorgedlcruz/netapp_ontap-grafana) - Grafana Dashboard that shows NetApp ONTAP information, and metrics, from the RESTful API
 - [cisagov/ansible-role-banner](https://github.com/cisagov/ansible-role-banner) - Ansible role for installing CISA banner text.
