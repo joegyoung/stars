@@ -124,7 +124,7 @@
 
 - [hypernuclear/hyperbin](https://github.com/hypernuclear/hyperbin) - A fun way to remind you to clear your trash/recycle bin on macos/windows 🪰🐙👁️🗑️
 - [2dom/keypad](https://github.com/2dom/keypad) - Open Source minimalist Keypad for Zigbee / Thread / Matter
-- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
+- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux port of whatcable CLI, a tool to tell you what each USB connected cable can do
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [hzeller/upnp-display](https://github.com/hzeller/upnp-display) - Display state of UPnP/DNLA renderer in the network with a 16x2 LCD display (or 24x2, 40x2 ..) connected to the Raspberry Pi. Unicode support (UTF-8).
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
@@ -215,7 +215,6 @@
 - [Bauxitedev/bendyworm](https://github.com/Bauxitedev/bendyworm) - A platformer where the entire world bends like a worm
 - [miskatonicstudio/goat](https://github.com/miskatonicstudio/goat) - Godot Open Adventure Template (GOAT) is a tool for making 3D adventure games.
 - [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D Terrain Tool for Godot
-- [tavurth/godot-simple-state](https://github.com/tavurth/godot-simple-state) - A simple Finite State Machine for Godot
 - [nathanhoad/godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager) - A powerful nonlinear dialogue system for Godot
 - [KuwazyStudio/PostgreSQLClient](https://github.com/KuwazyStudio/PostgreSQLClient) - PostgreSQL connector for Godot Engine in GDScript.
 - [fahall/godot_2d_visibility](https://github.com/fahall/godot_2d_visibility) - 2D Field of View algorithm implemented in GDScript
