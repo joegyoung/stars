@@ -315,6 +315,7 @@
 
 ## android 
 
+- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [Darkrock-Studios/hammer-editor](https://github.com/Darkrock-Studios/hammer-editor) - A simple tool for building stories.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
@@ -998,7 +999,6 @@
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D Terrain Tool for Godot
-- [tavurth/godot-simple-state](https://github.com/tavurth/godot-simple-state) - A simple Finite State Machine for Godot
 - [nathanhoad/godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager) - A powerful nonlinear dialogue system for Godot
 - [KuwazyStudio/PostgreSQLClient](https://github.com/KuwazyStudio/PostgreSQLClient) - PostgreSQL connector for Godot Engine in GDScript.
 - [Bytezz/godot-fadeintro](https://github.com/Bytezz/godot-fadeintro) - Intro scene with fading pictures
@@ -1208,6 +1208,7 @@
 
 ## ios 
 
+- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
@@ -1419,7 +1420,6 @@
 
 ## mac 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video!
@@ -1453,6 +1453,7 @@
 
 ## macos 
 
+- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
@@ -1696,6 +1697,7 @@
 
 ## open-source 
 
+- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [Concept211/Litewarden](https://github.com/Concept211/Litewarden) - Fast, lightweight password manager extension for self-hosted Vaultwarden (beta). Chrome, Brave and Edge. Autofill, 2FA codes, PIN unlock. Free and open source (GPLv3).
 - [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
@@ -1789,7 +1791,7 @@
 - [tomkeuper/BedWars2023](https://github.com/tomkeuper/BedWars2023) - A minecraft minigame where you have to defend your bed and destroy the others. Once your bed is destroyed, you cannot respawn.
 - [lsferreira42/nfsdiag](https://github.com/lsferreira42/nfsdiag) - A nfs diagnostic application
 - [Felitendo/jellyfin-plugin-lyrics](https://github.com/Felitendo/jellyfin-plugin-lyrics) - A plugin for Jellyfin that automatically downloads and applies lyrics to your songs
-- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
+- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux port of whatcable CLI, a tool to tell you what each USB connected cable can do
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [matz/spinel](https://github.com/matz/spinel) - Ruby AOT compiler
 - [nakagami/grdpwasm](https://github.com/nakagami/grdpwasm) - A web-based RDP client
@@ -2938,6 +2940,7 @@
 
 ## swift 
 
+- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
 - [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - Video wallpapers for macOS, from your own videos or Wallpaper Engine's Steam Workshop — picked from System Settings' Wallpaper pane
