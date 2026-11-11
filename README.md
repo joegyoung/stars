@@ -1094,6 +1094,7 @@
 
 ## Swift 
 
+- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
 - [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - Video wallpapers for macOS, from your own videos or Wallpaper Engine's Steam Workshop — picked from System Settings' Wallpaper pane
