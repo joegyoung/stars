@@ -1094,6 +1094,7 @@
 
 ## Swift 
 
+- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A macOS menu-bar app that decrypts the local Find My cache and publishes devices, items and friends to Home Assistant over MQTT. macOS 14.4 and later.
 - [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
