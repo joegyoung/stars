@@ -315,7 +315,7 @@
 
 ## android 
 
-- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
+- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.1: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [Darkrock-Studios/hammer-editor](https://github.com/Darkrock-Studios/hammer-editor) - A simple tool for building stories.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
@@ -1148,6 +1148,7 @@
 
 ## home-assistant 
 
+- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A macOS menu-bar app that decrypts the local Find My cache and publishes devices, items and friends to Home Assistant over MQTT. macOS 14.4 and later.
 - [theak/jackery-homeassistant](https://github.com/theak/jackery-homeassistant) - Custom Home Assistant integration for monitoring Jackery portable power stations
 - [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen) - Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.
 - [mbillow/localthings](https://github.com/mbillow/localthings) - Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
@@ -1208,7 +1209,7 @@
 
 ## ios 
 
-- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
+- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.1: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI.
@@ -1453,7 +1454,8 @@
 
 ## macos 
 
-- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
+- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A macOS menu-bar app that decrypts the local Find My cache and publishes devices, items and friends to Home Assistant over MQTT. macOS 14.4 and later.
+- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.1: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
@@ -1539,6 +1541,7 @@
 
 ## mcp-server 
 
+- [maciekzygmunt/excaliself](https://github.com/maciekzygmunt/excaliself) - Your team's whiteboard, on your server. Self-hosted Excalidraw with accounts, folders, and search.
 - [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
@@ -1697,7 +1700,7 @@
 
 ## open-source 
 
-- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
+- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.1: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [Concept211/Litewarden](https://github.com/Concept211/Litewarden) - Fast, lightweight password manager extension for self-hosted Vaultwarden (beta). Chrome, Brave and Edge. Autofill, 2FA codes, PIN unlock. Free and open source (GPLv3).
 - [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
@@ -2940,7 +2943,8 @@
 
 ## swift 
 
-- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.0: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
+- [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A macOS menu-bar app that decrypts the local Find My cache and publishes devices, items and friends to Home Assistant over MQTT. macOS 14.4 and later.
+- [raiseCatError/meowdisplay](https://github.com/raiseCatError/meowdisplay) - Mac Everywhere, On Whatever Display. MeowDisplay 2.1: open-source Mac sharing and control on iPhone, iPad and another Mac. Android in closed testing.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [JoshuaShunk/reeve](https://github.com/JoshuaShunk/reeve) - Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.
 - [kageroumado/phosphene](https://github.com/kageroumado/phosphene) - Video wallpapers for macOS, from your own videos or Wallpaper Engine's Steam Workshop — picked from System Settings' Wallpaper pane
