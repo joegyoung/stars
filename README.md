@@ -122,7 +122,6 @@
 
 ## C++ 
 
-- [hypernuclear/hyperbin](https://github.com/hypernuclear/hyperbin) - A fun way to remind you to clear your trash/recycle bin on macos/windows 🪰🐙👁️🗑️
 - [2dom/keypad](https://github.com/2dom/keypad) - Open Source minimalist Keypad for Zigbee / Thread / Matter
 - [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux port of whatcable CLI, a tool to tell you what each USB connected cable can do
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
@@ -260,6 +259,7 @@
 - [eargollo/smartthings-influx](https://github.com/eargollo/smartthings-influx) - A simple program to bring to Influx your SmartThings data through the SmartThings API. No SmartApp installation needed.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [NX211/traefik-proxmox-provider](https://github.com/NX211/traefik-proxmox-provider) - A Traefik provider plugin that automatically configures routing based on Proxmox VE virtual machines and containers
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
@@ -682,7 +682,7 @@
 
 ## Python 
 
-- [theak/jackery-homeassistant](https://github.com/theak/jackery-homeassistant) - Custom Home Assistant integration for monitoring Jackery portable power stations
+- [colfin22/ha-audiomuse](https://github.com/colfin22/ha-audiomuse) - Home Assistant integration for AudioMuse-AI: AI playlists, similar artists and playlist ideas, with Music Assistant playback
 - [zak-45/WLEDVideoSync](https://github.com/zak-45/WLEDVideoSync) - Cast video, image, Url, phone camera to 2D Led Matrix using e131 artNet or DDP  ( e.g: WLED ...)
 - [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen) - Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.
 - [logabell/dewarr](https://github.com/logabell/dewarr) - Self-hosted audiobook discovery, Goodreads and Hardcover lists, Audiobookshelf integration, and automatic downloads.
@@ -1119,9 +1119,9 @@
 
 ## TypeScript 
 
+- [joshua-d-miller/family-chalk-planner](https://github.com/joshua-d-miller/family-chalk-planner) - Family Calendar that integrates with Home Assistant, or runs independently to sync iCloud or Google Calendar with the ability to draw.
 - [Concept211/Litewarden](https://github.com/Concept211/Litewarden) - Fast, lightweight password manager extension for self-hosted Vaultwarden (beta). Chrome, Brave and Edge. Autofill, 2FA codes, PIN unlock. Free and open source (GPLv3).
 - [maciekzygmunt/excaliself](https://github.com/maciekzygmunt/excaliself) - Your team's whiteboard, on your server. Self-hosted Excalidraw with accounts, folders, and search.
-- [matthieusb/uptime-city](https://github.com/matthieusb/uptime-city) - Uptime city is an uptime monitoring tool focused on visualization through a cityscape like picture
 - [Sharkord/sharkord](https://github.com/Sharkord/sharkord) - Lightweight, self-hosted, open-source chat server with voice, video, text, and screen sharing. Built for small groups who want privacy, simplicity, and full control over their data.
 - [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [C2Tech-sys/proxion](https://github.com/C2Tech-sys/proxion) - A modern, open-source web console for Proxmox VE: live dashboard with console thumbnails, vSphere-style object pages, embedded VNC console and terminal, power actions, per-user preferences.
@@ -1146,7 +1146,7 @@
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - Self-hosted Excalidraw with Full Collaboration
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [eyebrowkang/garage-admin-console](https://github.com/eyebrowkang/garage-admin-console) - A modern web-based administration interface for managing Garage distributed object storage clusters.
-- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
+- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source observability platform and SIEM. Logs, traces and metrics with OTLP ingestion and Sigma detection rules. Self-hosted, GDPR-ready alternative to Datadog, ELK and Splunk.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [nkxxll/home-excalidraw](https://github.com/nkxxll/home-excalidraw) - reproducing the excalidraw workspace for me
 - [cmcooper1980/dockge](https://github.com/cmcooper1980/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose stack-oriented manager forked from louislam/dockge that has had several Pull Requests merged.
@@ -1167,7 +1167,6 @@
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
 - [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [privy-io/shamir-secret-sharing](https://github.com/privy-io/shamir-secret-sharing) - Simple, independently audited, zero-dependency TypeScript implementation of Shamir's Secret Sharing algorithm
 - [RockwellShah/filekey](https://github.com/RockwellShah/filekey) - Filekey: encrypt and share files securely with passkeys.
 - [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused on metadata integration & UI
@@ -1186,7 +1185,7 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [aboutsecurity/attack-navigator-4.1](https://github.com/aboutsecurity/attack-navigator-4.1) - MITRE ATT&CK Navigator 4.1
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine.
+- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine. Formerly Whishper.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
