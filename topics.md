@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -267,6 +268,10 @@
 
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
+## agentic-ai 
+
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
+
 ## agents 
 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
@@ -285,7 +290,7 @@
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [gbaptista/ollama-ai](https://github.com/gbaptista/ollama-ai) - A Ruby gem for interacting with Ollama's API that allows you to run open source AI LLMs (Large Language Models) locally.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine.
+- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine. Formerly Whishper.
 - [lxe/llavavision](https://github.com/lxe/llavavision) - A simple "Be My Eyes" web app with a llama.cpp/llava backend
 - [learnhouse/learnhouse](https://github.com/learnhouse/learnhouse) - The Next-gen Open Source learning platform for everyone ✨
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -700,7 +705,7 @@
 - [mediocreatmybest/RackDown](https://github.com/mediocreatmybest/RackDown) - Plain-text rack documentation that renders deterministic SVG rack diagrams, from CLI, Obsidian, Hugo and other host apps.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [Nonetss/playbook-runner](https://github.com/Nonetss/playbook-runner) - Self-hosted web UI to run Ansible playbooks against your inventory, without the complexity of AWX/Tower.
-- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
+- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source observability platform and SIEM. Logs, traces and metrics with OTLP ingestion and Sigma detection rules. Self-hosted, GDPR-ready alternative to Datadog, ELK and Splunk.
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
@@ -733,7 +738,7 @@
 - [olimic1000/vinylflow](https://github.com/olimic1000/vinylflow) - Digitize vinyl 10x faster. Open source tool for splitting, tagging, and organizing vinyl recordings
 - [iassis/SpotiFLAC-Docker](https://github.com/iassis/SpotiFLAC-Docker) - Containerized SpotiFLAC with auto-updating via GitHub Actions
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
+- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source observability platform and SIEM. Logs, traces and metrics with OTLP ingestion and Sigma detection rules. Self-hosted, GDPR-ready alternative to Datadog, ELK and Splunk.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
@@ -1026,7 +1031,7 @@
 - [benbusby/yeetfile](https://github.com/benbusby/yeetfile) - A self-hosted service for encrypted file sharing and storage
 - [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Highly configurable slideshows for displaying Immich assets on browsers and devices.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
-- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine.
+- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine. Formerly Whishper.
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
 - [r3-team/r3](https://github.com/r3-team/r3) - REI3 - Free and open low code
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -1148,8 +1153,8 @@
 
 ## home-assistant 
 
+- [colfin22/ha-audiomuse](https://github.com/colfin22/ha-audiomuse) - Home Assistant integration for AudioMuse-AI: AI playlists, similar artists and playlist ideas, with Music Assistant playback
 - [manonstreet/FindMySyncPlus](https://github.com/manonstreet/FindMySyncPlus) - A macOS menu-bar app that decrypts the local Find My cache and publishes devices, items and friends to Home Assistant over MQTT. macOS 14.4 and later.
-- [theak/jackery-homeassistant](https://github.com/theak/jackery-homeassistant) - Custom Home Assistant integration for monitoring Jackery portable power stations
 - [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen) - Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.
 - [mbillow/localthings](https://github.com/mbillow/localthings) - Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
 - [nyc-esq/hey-donut](https://github.com/nyc-esq/hey-donut) - A custom "Hey Donut" wake word for Home Assistant — 62 KB, runs on-device, zero false accepts per hour. Includes the full training pipeline so you can teach your assistant any name. CC0.
@@ -1578,7 +1583,7 @@
 ## monitoring 
 
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
-- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
+- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source observability platform and SIEM. Logs, traces and metrics with OTLP ingestion and Sigma detection rules. Self-hosted, GDPR-ready alternative to Datadog, ELK and Splunk.
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy d
 - [K0lin/loglynx](https://github.com/K0lin/loglynx) - LogLynx: Advanced log analytics platform for Traefik and Caddy reverse proxy. Real-time monitoring, geographic insights, performance tracking, device analytics, and comprehensive REST API. Built with 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
@@ -1712,7 +1717,7 @@
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
 - [olimic1000/vinylflow](https://github.com/olimic1000/vinylflow) - Digitize vinyl 10x faster. Open source tool for splitting, tagging, and organizing vinyl recordings
-- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
+- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source observability platform and SIEM. Logs, traces and metrics with OTLP ingestion and Sigma detection rules. Self-hosted, GDPR-ready alternative to Datadog, ELK and Splunk.
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas) - Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.
@@ -1756,10 +1761,9 @@
 
 ## others 
 
-- [hypernuclear/hyperbin](https://github.com/hypernuclear/hyperbin) - A fun way to remind you to clear your trash/recycle bin on macos/windows 🪰🐙👁️🗑️
+- [joshua-d-miller/family-chalk-planner](https://github.com/joshua-d-miller/family-chalk-planner) - Family Calendar that integrates with Home Assistant, or runs independently to sync iCloud or Google Calendar with the ability to draw.
 - [chrischaps/Seoul](https://github.com/chrischaps/Seoul) - A MilkDrop-inspired audio visualizer in Rust: it listens to whatever your PC is playing and turns it into feedback-driven HDR shader art, with hot-reloadable TOML + WGSL presets.
 - [zak-45/WLEDVideoSync](https://github.com/zak-45/WLEDVideoSync) - Cast video, image, Url, phone camera to 2D Led Matrix using e131 artNet or DDP  ( e.g: WLED ...)
-- [matthieusb/uptime-city](https://github.com/matthieusb/uptime-city) - Uptime city is an uptime monitoring tool focused on visualization through a cityscape like picture
 - [pham-tuan-binh/glados-respeaker](https://github.com/pham-tuan-binh/glados-respeaker) - Building Potato GLaDOS with Home Assistant and ESPHome
 - [buckets/application](https://github.com/buckets/application) - Buckets Desktop Application
 - [lmmendes/attic](https://github.com/lmmendes/attic) - Self-hosted home inventory management. Track everything. Lose nothing.
@@ -2308,7 +2312,7 @@
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [simplesamlphp/simplesamlphp](https://github.com/simplesamlphp/simplesamlphp) - SimpleSAMLphp is an application written in native PHP that deals with authentication.
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 490+ formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 520+ formats in 26 languages.
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
@@ -2788,7 +2792,7 @@
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - Self-hosted Excalidraw with Full Collaboration
 - [sheshbabu/riffle](https://github.com/sheshbabu/riffle) - A keyboard-driven photo curating tool for photographers
-- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
+- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source observability platform and SIEM. Logs, traces and metrics with OTLP ingestion and Sigma detection rules. Self-hosted, GDPR-ready alternative to Datadog, ELK and Splunk.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy d
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
@@ -2849,7 +2853,7 @@
 - [mariochavez/llm_server](https://github.com/mariochavez/llm_server) - Rack API application for Llama.cpp
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 490+ formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 520+ formats in 26 languages.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
@@ -3061,7 +3065,7 @@
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
-- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog & ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker.
+- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source observability platform and SIEM. Logs, traces and metrics with OTLP ingestion and Sigma detection rules. Self-hosted, GDPR-ready alternative to Datadog, ELK and Splunk.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native
 - [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
@@ -3096,7 +3100,7 @@
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
-- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine.
+- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine. Formerly Whishper.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## unity 
@@ -3174,7 +3178,7 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [BlessedRebuS/Krawl](https://github.com/BlessedRebuS/Krawl) - Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy d
 - [SajadTroy/websico](https://github.com/SajadTroy/websico) - A lightweight and flexible web server framework for Node.js.
-- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine.
+- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine. Formerly Whishper.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -3193,7 +3197,7 @@
 
 - [Arthi-chaud/Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server. Focused on metadata integration & UI
 - [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
-- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine.
+- [pluja/anysub](https://github.com/pluja/anysub) - Turn audio and video into subtitles with an easy-to-use web UI. Everything runs on your own machine. Formerly Whishper.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [lxe/llavavision](https://github.com/lxe/llavavision) - A simple "Be My Eyes" web app with a llama.cpp/llava backend
 - [giuseppelt/EmailFlare](https://github.com/giuseppelt/EmailFlare) - Send emails from your domain through Cloudflare for free. Self host on your account.
