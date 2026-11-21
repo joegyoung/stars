@@ -210,6 +210,7 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [support](#support)
@@ -724,6 +725,7 @@
 
 ## docker 
 
+- [anefzaoui/minecraft-server-manager](https://github.com/anefzaoui/minecraft-server-manager) - Free, self-hosted control panel for Minecraft servers on Docker — modpacks, backups, schedules, live map, player analytics. Your whole panel is one folder.
 - [maciekzygmunt/excaliself](https://github.com/maciekzygmunt/excaliself) - Your team's whiteboard, on your server. Self-hosted Excalidraw with accounts, folders, and search.
 - [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 - [suitux/Tagr](https://github.com/suitux/Tagr) - Self-hosted web app for browsing, playing, and editing    music file metadata. Features a three-panel UI to navigate       your library, listen to tracks, and write tag changes directly    back to aud
@@ -1558,6 +1560,7 @@
 
 ## minecraft 
 
+- [anefzaoui/minecraft-server-manager](https://github.com/anefzaoui/minecraft-server-manager) - Free, self-hosted control panel for Minecraft servers on Docker — modpacks, backups, schedules, live map, player analytics. Your whole panel is one folder.
 - [garbagemule/MobArena](https://github.com/garbagemule/MobArena) - MobArena plugin for Minecraft
 - [toxicity188/BetterModel](https://github.com/toxicity188/BetterModel) - Modern Bedrock model engine for Minecraft Java Edition
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
@@ -1663,6 +1666,7 @@
 
 ## nodejs 
 
+- [anefzaoui/minecraft-server-manager](https://github.com/anefzaoui/minecraft-server-manager) - Free, self-hosted control panel for Minecraft servers on Docker — modpacks, backups, schedules, live map, player analytics. Your whole panel is one folder.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [rodyherrera/Quantum](https://github.com/rodyherrera/Quantum) - 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment
@@ -1761,6 +1765,8 @@
 
 ## others 
 
+- [Roobyx/mish](https://github.com/Roobyx/mish) - 
+- [rxolve/zpup](https://github.com/rxolve/zpup) - Describe a small 3D scene as JSON and get a flat SVG picture of it from any angle. Inspired by Zdog.
 - [joshua-d-miller/family-chalk-planner](https://github.com/joshua-d-miller/family-chalk-planner) - Family Calendar that integrates with Home Assistant, or runs independently to sync iCloud or Google Calendar with the ability to draw.
 - [chrischaps/Seoul](https://github.com/chrischaps/Seoul) - A MilkDrop-inspired audio visualizer in Rust: it listens to whatever your PC is playing and turns it into feedback-driven HDR shader art, with hot-reloadable TOML + WGSL presets.
 - [zak-45/WLEDVideoSync](https://github.com/zak-45/WLEDVideoSync) - Cast video, image, Url, phone camera to 2D Led Matrix using e131 artNet or DDP  ( e.g: WLED ...)
@@ -1905,7 +1911,7 @@
 - [jelanidm/Security-Monitoring-Lab-with-Elastic-SIEM-Kali-Linux](https://github.com/jelanidm/Security-Monitoring-Lab-with-Elastic-SIEM-Kali-Linux) - Building a Security Monitoring Lab with Elastic SIEM and Kali VM
 - [gtibo/blog-notebook](https://github.com/gtibo/blog-notebook) - Blog notebook source code
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [Lumon-Industries/Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 - [andrewchilicki/LumonMDR](https://github.com/andrewchilicki/LumonMDR) - Lumon's Macrodata Refinement application inspired by Apple TV's 'Severance'.
@@ -2312,7 +2318,7 @@
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but for Docker Compose
 - [simplesamlphp/simplesamlphp](https://github.com/simplesamlphp/simplesamlphp) - SimpleSAMLphp is an application written in native PHP that deals with authentication.
 - [HaschekSolutions/opentrashmail](https://github.com/HaschekSolutions/opentrashmail) - Open Source standalone trashmail solution that ships its own mail server
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 520+ formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 530 formats in 26 languages.
 - [FragLand/minestat](https://github.com/FragLand/minestat) - :chart_with_upwards_trend: A Minecraft server status checker
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
@@ -2771,6 +2777,7 @@
 
 ## self-hosted 
 
+- [anefzaoui/minecraft-server-manager](https://github.com/anefzaoui/minecraft-server-manager) - Free, self-hosted control panel for Minecraft servers on Docker — modpacks, backups, schedules, live map, player analytics. Your whole panel is one folder.
 - [Concept211/Litewarden](https://github.com/Concept211/Litewarden) - Fast, lightweight password manager extension for self-hosted Vaultwarden (beta). Chrome, Brave and Edge. Autofill, 2FA codes, PIN unlock. Free and open source (GPLv3).
 - [maciekzygmunt/excaliself](https://github.com/maciekzygmunt/excaliself) - Your team's whiteboard, on your server. Self-hosted Excalidraw with accounts, folders, and search.
 - [Sharkord/sharkord](https://github.com/Sharkord/sharkord) - Lightweight, self-hosted, open-source chat server with voice, video, text, and screen sharing. Built for small groups who want privacy, simplicity, and full control over their data.
@@ -2853,7 +2860,7 @@
 - [mariochavez/llm_server](https://github.com/mariochavez/llm_server) - Rack API application for Llama.cpp
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 520+ formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 530 formats in 26 languages.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
@@ -2916,6 +2923,11 @@
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven techno
+
+## static-site-generator 
+
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
 ## statistics 
 
