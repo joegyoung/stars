@@ -1404,6 +1404,7 @@
 
 ## llm 
 
+- [rxolve/zpup](https://github.com/rxolve/zpup) - Describe a small 3D scene as JSON and get a flat SVG picture of it from any angle. Inspired by Zdog.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
@@ -1539,6 +1540,7 @@
 
 ## mcp 
 
+- [rxolve/zpup](https://github.com/rxolve/zpup) - Describe a small 3D scene as JSON and get a flat SVG picture of it from any angle. Inspired by Zdog.
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
@@ -1548,6 +1550,7 @@
 
 ## mcp-server 
 
+- [rxolve/zpup](https://github.com/rxolve/zpup) - Describe a small 3D scene as JSON and get a flat SVG picture of it from any angle. Inspired by Zdog.
 - [maciekzygmunt/excaliself](https://github.com/maciekzygmunt/excaliself) - Your team's whiteboard, on your server. Self-hosted Excalidraw with accounts, folders, and search.
 - [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
@@ -1766,7 +1769,6 @@
 ## others 
 
 - [Roobyx/mish](https://github.com/Roobyx/mish) - 
-- [rxolve/zpup](https://github.com/rxolve/zpup) - Describe a small 3D scene as JSON and get a flat SVG picture of it from any angle. Inspired by Zdog.
 - [joshua-d-miller/family-chalk-planner](https://github.com/joshua-d-miller/family-chalk-planner) - Family Calendar that integrates with Home Assistant, or runs independently to sync iCloud or Google Calendar with the ability to draw.
 - [chrischaps/Seoul](https://github.com/chrischaps/Seoul) - A MilkDrop-inspired audio visualizer in Rust: it listens to whatever your PC is playing and turns it into feedback-driven HDR shader art, with hot-reloadable TOML + WGSL presets.
 - [zak-45/WLEDVideoSync](https://github.com/zak-45/WLEDVideoSync) - Cast video, image, Url, phone camera to 2D Led Matrix using e131 artNet or DDP  ( e.g: WLED ...)
@@ -1932,7 +1934,7 @@
 - [PromptEngineer48/Ollama](https://github.com/PromptEngineer48/Ollama) - This repo brings numerous use cases from the Open Source Ollama
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [robinmanuelthiel/speedtest](https://github.com/robinmanuelthiel/speedtest) - Check internet bandwidth from a Docker container and save the results to an InfluxDB
-- [Ellerhold/fs2es-indexer](https://github.com/Ellerhold/fs2es-indexer) - This tool indexes your directories into an elastic search index and prepares them for searching via Mac OS Spotlight  search in a samba file server.
+- [Ellerhold/fs2es-indexer](https://github.com/Ellerhold/fs2es-indexer) - This tool indexes your directories into an elastic search index and prepares them for searching via Mac OS Spotlight search in a samba file server.
 - [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [pezhore/Proxmox-Home-Lab](https://github.com/pezhore/Proxmox-Home-Lab) - Packer, Terraform, and Ansible code to run a three node clustered Proxmox Home Lab
@@ -2339,6 +2341,7 @@
 ## postgresql 
 
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
+- [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - Self-hosted Excalidraw workspace and Excalidraw+ alternative with saved drawings, collections, real-time collaboration, and OIDC SSO in Docker Compose.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
@@ -2797,7 +2800,7 @@
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [transmute-app/transmute](https://github.com/transmute-app/transmute) - Self hosted file converter and compression tool for images, video, audio, json, excel and more. Supports over 3,000 conversions!
-- [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - Self-hosted Excalidraw with Full Collaboration
+- [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - Self-hosted Excalidraw workspace and Excalidraw+ alternative with saved drawings, collections, real-time collaboration, and OIDC SSO in Docker Compose.
 - [sheshbabu/riffle](https://github.com/sheshbabu/riffle) - A keyboard-driven photo curating tool for photographers
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source observability platform and SIEM. Logs, traces and metrics with OTLP ingestion and Sigma detection rules. Self-hosted, GDPR-ready alternative to Datadog, ELK and Splunk.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
@@ -3067,6 +3070,7 @@
 
 ## typescript 
 
+- [rxolve/zpup](https://github.com/rxolve/zpup) - Describe a small 3D scene as JSON and get a flat SVG picture of it from any angle. Inspired by Zdog.
 - [Concept211/Litewarden](https://github.com/Concept211/Litewarden) - Fast, lightweight password manager extension for self-hosted Vaultwarden (beta). Chrome, Brave and Edge. Autofill, 2FA codes, PIN unlock. Free and open source (GPLv3).
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [shaongitbd/doory](https://github.com/shaongitbd/doory) - Open source canva alternative
