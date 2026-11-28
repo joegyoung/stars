@@ -657,7 +657,7 @@
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 530+ formats in 26 languages.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
-- [Jexactyl/Jexactyl](https://github.com/Jexactyl/Jexactyl) - Jexactyl is a fast, advanced and customisable game management panel and billing system in one.
+- [camwhi-te/jex](https://github.com/camwhi-te/jex) - Jexpanel is a fast, advanced and customisable game management panel and billing system in one.
 - [NIIF/simplesamlphp-module-authtfaga](https://github.com/NIIF/simplesamlphp-module-authtfaga) - Two-factor authentication module for simpleSAMLphp using Google Authenticator
 - [aidan-/SimpleTOTP](https://github.com/aidan-/SimpleTOTP) - A highly configurable yet simple to use TOTP based two-factor authentication processing module for SimpleSAMLphp.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
@@ -912,7 +912,7 @@
 - [ankane/outliertree-ruby](https://github.com/ankane/outliertree-ruby) - Explainable outlier/anomaly detection for Ruby
 - [indentlabs/gpt-3-experiments](https://github.com/indentlabs/gpt-3-experiments) - Experiments in worldbuilding using OpenAI's GPT-3 API
 - [SpeciesFileGroup/waxy](https://github.com/SpeciesFileGroup/waxy) - Hexagonal SVG from Ruby
-- [hsluv/hsluv-ruby](https://github.com/hsluv/hsluv-ruby) - Ruby implementation of HSLuv (revision 3)
+- [hsluv/hsluv-ruby](https://github.com/hsluv/hsluv-ruby) - Ruby implementation of HSLuv (revision 4)
 - [viraptor/exifr](https://github.com/viraptor/exifr) - EXIF Reader
 - [viraptor/faker](https://github.com/viraptor/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [weppos/whois-parser](https://github.com/weppos/whois-parser) - An intelligent — pure Ruby — WHOIS parser.
